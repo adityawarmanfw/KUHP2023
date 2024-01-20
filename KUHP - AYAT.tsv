@@ -18,8 +18,8 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	1	8	1				Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.
 1	1	8	2	8	1		Ketentuan sebagaimana dimaksud pada ayat (1) berlaku jika perbuatan tersebut juga merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
 1	1	8	3	8	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk Tindak Pidana yang diancam dengan pidana denda paling banyak kategori III.
-1	1	8	4				Penuntutan terhadap Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan walaupun tersangka menjadi warga negara Indonesia, setelah Tindak Pidana tersebut dilakukan sepanjang perbuatan tersebut merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
-1	1	8	5				Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.
+1	1	8	4	8	1		Penuntutan terhadap Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan walaupun tersangka menjadi warga negara Indonesia, setelah Tindak Pidana tersebut dilakukan sepanjang perbuatan tersebut merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
+1	1	8	5	8	1		Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.
 1	1	9	0	4,5,6,7,8			Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 8 dibatasi oleh hal yang dikecualikan menurut perjanjian internasional yang berlaku.
 1	1	10	0				Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.
 1	1	11	0				Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana.
@@ -39,7 +39,7 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	2	15	5				Pidana tambahan untuk persiapan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
 1	2	16	0	15	1		Persiapan melakukan Tindak Pidana tidak dipidana jika pelaku menghentikan atau mencegah kemungkinan terciptanya kondisi sebagaimana dimaksud dalam Pasal 15 ayat (1).
 1	2	17	1				Percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang, bukan karena semata-mata atas kehendaknya sendiri.
-1	2	17	2				Permulaan pelaksanaan sebagaimana dimaksud pada ayat (1) terjadi jika:
+1	2	17	2	17	1		Permulaan pelaksanaan sebagaimana dimaksud pada ayat (1) terjadi jika:
 1	2	17	3				Pidana untuk percobaan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
 1	2	17	4				Percobaan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 1	2	17	5				Pidana tambahan untuk percobaan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
@@ -48,7 +48,7 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	2	19	0				Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak dipidana.
 1	2	20	0				Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
 1	2	21	1				Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja:
-1	2	21	2				Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pembantuan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II.
+1	2	21	2	21	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pembantuan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II.
 1	2	21	3				Pidana untuk pembantuan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
 1	2	21	4				Pembantuan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 1	2	21	5				Pidana tambahan untuk pembantuan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
@@ -64,7 +64,7 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	2	25	4	25	1		Dalam hal Korban Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak memiliki Orang Tua, wali, atau keluarga sedarah dalam garis lurus ke atas ataupun menyamping sampai derajat ketiga, pengaduan dilakukan oleh diri sendiri dan/atau pendamping.
 1	2	26	1				Dalam hal Korban Tindak Pidana aduan berada di bawah pengampuan, yang berhak mengadu merupakan pengampunya, kecuali bagi Korban Tindak Pidana aduan yang berada dalam pengampuan karena boros.
 1	2	26	2	26	1		Dalam hal pengampu sebagaimana dimaksud pada ayat (1) tidak ada atau pengampu itu sendiri yang harus diadukan, pengaduan dilakukan oleh suami atau istri Korban atau keluarga sedarah dalam garis lurus.
-1	2	26	3				Dalam hal suami atau istri Korban atau keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga.
+1	2	26	3	26	2		Dalam hal suami atau istri Korban atau keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga.
 1	2	27	0				Dalam hal Korban Tindak Pidana aduan meninggal dunia, pengaduan dapat dilakukan oleh Orang Tua, anak, suami, atau istri Korban, kecuali jika Korban sebelumnya secara tegas tidak menghendaki adanya penuntutan.
 1	2	28	1				Pengaduan dilakukan dengan cara menyampaikan pemberitahuan dan permohonan untuk dituntut.
 1	2	28	2	28	1		Pengaduan sebagaimana dimaksud pada ayat (1) diajukan secara lisan atau tertulis kepada Pejabat yang berwenang.
@@ -88,7 +88,7 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	2	43	0				Setiap Orang yang melakukan pembelaan terpaksa yang melampaui batas yang langsung disebabkan keguncangan jiwa yang hebat karena serangan atau ancaman serangan seketika yang melawan hukum, tidak dipidana.
 1	2	44	0				Perintah jabatan yang diberikan tanpa wewenang tidak mengakibatkan hapusnya pidana, kecuali jika orang yang diperintahkan dengan iktikad baik mengira bahwa perintah tersebut diberikan dengan wewenang dan pelaksanaannya, termasuk dalam lingkup pekerjaannya.
 1	2	45	1				Korporasi merupakan subjek Tindak Pidana.
-1	2	45	2				Korporasi sebagaimana dimaksud pada ayat (1) mencakup badan hukum yang berbentuk perseroan terbatas, yayasan, koperasi, badan usaha milik negara, badan usaha milik daerah, atau yang disamakan dengan itu, serta perkumpulan baik yang berbadan hukum maupun tidak berbadan hukum, badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu sesuai dengan ketentuan peraturan perundangundangan.
+1	2	45	2	45	1		Korporasi sebagaimana dimaksud pada ayat (1) mencakup badan hukum yang berbentuk perseroan terbatas, yayasan, koperasi, badan usaha milik negara, badan usaha milik daerah, atau yang disamakan dengan itu, serta perkumpulan baik yang berbadan hukum maupun tidak berbadan hukum, badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu sesuai dengan ketentuan peraturan perundangundangan.
 1	2	46	0				Tindak Pidana oleh Korporasi merupakan Tindak Pidana yang dilakukan oleh pengurus yang mempunyai kedudukan fungsional dalam struktur organisasi Korporasi atau orang yang berdasarkan hubungan kerja atau berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bertindak demi kepentingan Korporasi, dalam lingkup usaha atau kegiatan Korporasi tersebut, baik secara sendiri-sendiri maupun bersama-sama.
 1	2	47	0	46			Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
 1	2	48	0	46,47			Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
@@ -117,7 +117,7 @@ buku	bab	pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 1	3	65	2	65	1		Urutan pidana sebagaimana dimaksud pada ayat (1) menentukan berat atau ringannya pidana.
 1	3	66	1	64	0	b	Pidana tambahan sebagaimana dimaksud dalam Pasal 64 huruf b terdiri atas:
 1	3	66	2	66	1		Pidana tambahan sebagaimana dimaksud pada ayat (l) dapat dikenakan dalam hal penjatuhan pidana pokok saja tidak cukup untuk mencapai tujuan pemidanaan.
-1	3	66	3				Pidana tambahan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan 1 (satu) jenis atau lebih.
+1	3	66	3	66	1		Pidana tambahan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan 1 (satu) jenis atau lebih.
 1	3	66	4				Pidana tambahan untuk percobaan dan pembantuan sama dengan pidana tambahan untuk Tindak Pidananya.
 1	3	66	5				Pidana tambahan bagi anggota Tentara Nasional Indonesia yang melakukan Tindak Pidana dalam perkara koneksitas dikenakan sesuai dengan ketentuan peraturan perundang-undangan bagi Tentara Nasional Indonesia.
 1	3	67	0	64	0	c	Pidana yang bersifat khusus sebagaimana dimaksud dalam Pasal 64 huruf c merupakan pidana mati yang selalu diancamkan secara alternatif.
