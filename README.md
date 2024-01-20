@@ -2,7 +2,11 @@
 
 Masih dalam pengerjaan.
 
-Sumber file: https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023
+* Sumber file: https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023
+* Draf (baca-saja): 
+  - [Google Sheets](https://docs.google.com/spreadsheets/d/1ymN2lIvQJmYY53oO9jyYWlCKSPhjKxXjDqdiwT-CkIg/edit#gid=989803682)
+  - [DuckDB Playground (SQL)](https://sekuel.com/playground/?q=Q1JFQVRFIFRBQkxFIGt1aHBfYXlhdCBBUyAoCiAgICBTRUxFQ1QgKiBGUk9NIHJlYWRfY3N2X2F1dG8oJ2h0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9leHBvcnQ%2FZm9ybWF0PXRzdiZpZD0xeW1OMmxJdlFKbVlZNTNvTzlqeVlXbENLU1Boakt4WGpEcWRpd1QtQ2tJZyZnaWQ9OTg5ODAzNjgyJykKKTsKCkNSRUFURSBUQUJMRSBrdWhwX2h1cnVmIEFTICgKICAgIFNFTEVDVCAqIEZST00gcmVhZF9jc3ZfYXV0bygnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2V4cG9ydD9mb3JtYXQ9dHN2JmlkPTF5bU4ybEl2UUptWVk1M29POWp5WVdsQ0tTUGhqS3hYakRxZGl3VC1Da0lnJmdpZD00MDUwNzI5MScpCik7)
+
 
 ## Pengubahan dari Pasal ke tabel
 
