@@ -8,9 +8,9 @@ con.sql("""
         );
         """)
 
-def test_ayat_more_than_or_equal_to_zero():
+def test_ayat_lebih_dari_sama_dengan_nol():
     """
-    Test whether all values in the 'ayat' column are greater than or equal to zero.
+    Cek nilai dalam kolom 'ayat' lebih dari atau sama dengan nol.
     """
     result = con.sql("SELECT bool_and(ayat >= 0) FROM kuhp_ayat;").fetchone()[0]
     assert result == True
