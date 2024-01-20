@@ -11,11 +11,11 @@ con.sql("""
 
 def test_kolom():
     """
-    Pastikan hanya ada kolom ['ayat', 'ayat_rujukan', 'huruf_rujukan', 'pasal', 'pasal_rujukan', 'teks'] 
+    Pastikan hanya ada kolom ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
     """
     result = con.sql("""
                         SELECT 
-                            LIST(DISTINCT k ORDER BY k) = ['ayat', 'ayat_rujukan', 'huruf_rujukan', 'pasal', 'pasal_rujukan', 'teks'] 
+                            LIST(DISTINCT k ORDER BY k) = ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
                         FROM (UNPIVOT kuhp_ayat ON * INTO NAME k VALUE v);
                     """).fetchone()[0]
     assert result
