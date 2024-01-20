@@ -11,11 +11,11 @@ con.sql("""
 
 def test_kolom():
     """
-    Pastikan hanya ada kolom ['ayat', 'ayat_rujukan', 'bab','buku', 'huruf_rujukan', 'pasal', 'pasal_rujukan', 'teks'] 
+    Pastikan hanya ada kolom ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
     """
     result = con.sql("""
                         SELECT 
-                            LIST(DISTINCT k ORDER BY k) = ['ayat', 'ayat_rujukan', 'bab','buku', 'huruf_rujukan', 'pasal', 'pasal_rujukan', 'teks'] 
+                            LIST(DISTINCT k ORDER BY k) = ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
                         FROM (UNPIVOT kuhp_ayat ON * INTO NAME k VALUE v);
                     """).fetchone()[0]
     assert result
@@ -63,9 +63,8 @@ def test_pasal_dan_ayat_rujukan_tidak_null():
 
         SELECT pasal, ayat 
         FROM kuhp_ayat
-        WHERE regexp_matches(teks, 'ayat \(') 
-            AND ayat_rujukan IS NULL
-            AND pasal_rujukan IS NULL;
+        WHERE (regexp_matches(teks, 'ayat \(') AND ayat_rujukan IS NULL)
+            OR (regexp_matches(teks, 'ayat \(') AND pasal_rujukan IS NULL);
     """
     result = con.sql(
         "SELECT bool_and(if(regexp_matches(teks, 'ayat \('), pasal_rujukan IS NOT NULL AND ayat_rujukan IS NOT NULL, NULL)) FROM kuhp_ayat;").fetchone()[0]
