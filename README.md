@@ -6,6 +6,8 @@ Sumber file: https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023
 
 ## Pengubahan dari Pasal ke tabel
 
+### Teks Pasal
+
 ```
 Pasal 71
 (1) Jika seseorang melakukan Tindak Pidana yang hanya diancam dengan pidana penjara di bawah 5 (lima) tahun, sedangkan hakim berpendapat tidak perlu menjatuhkan pidana penjara setelah mempertimbangkan tujuan pemidanaan dan pedoman pemidanaan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, orang tersebut dapat dijatuhi pidana denda.
@@ -17,7 +19,7 @@ Pasal 71
 (4) Ketentuan sebagaimana dimaksud pada ayat (2) huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan sebelum berumur 18 (delapan belas) tahun.
 ```
 
-Menjadi:
+### Tabel
 
 ```
 KUHP - AYAT.tsv
@@ -85,19 +87,19 @@ D SELECT * FROM read_csv_auto('./KUHP - HURUF.tsv') LIMIT 5;
 D SELECT 
 >     pasal, 
 >     ayat, 
->     unnest(string_split(pasal_rujukan, ',')) AS pasal_rujukan
+>     unnest(string_split(pasal_rujukan, ',')):int AS pasal_rujukan
 > FROM read_csv_auto('./KUHP - AYAT.tsv') 
 > WHERE pasal = 71;
 ┌───────┬───────┬───────────────┐
 │ pasal │ ayat  │ pasal_rujukan │
-│ int64 │ int64 │    varchar    │
+│ int64 │ int64 │     int32     │
 ├───────┼───────┼───────────────┤
-│    71 │     1 │ 51            │
-│    71 │     1 │ 52            │
-│    71 │     1 │ 53            │
-│    71 │     1 │ 54            │
-│    71 │     2 │ 71            │
-│    71 │     3 │ 71            │
-│    71 │     4 │ 71            │
+│    71 │     1 │            51 │
+│    71 │     1 │            52 │
+│    71 │     1 │            53 │
+│    71 │     1 │            54 │
+│    71 │     2 │            71 │
+│    71 │     3 │            71 │
+│    71 │     4 │            71 │
 └───────┴───────┴───────────────┘
 ```
