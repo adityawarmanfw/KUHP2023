@@ -11,7 +11,7 @@ con.sql("""
 
 def test_kolom():
     """
-    Pastikan hanya ada kolom ['ayat','ayat_rujukan','huruf','huruf_rujukan','pasal','pasal_rujukan','teks']
+    Pastikan hanya ada kolom ['ayat','ayat_rujukan','huruf','huruf_rujukan','pasal','pasal_rujukan','teks'].
     """
     result = con.sql("""
                         SELECT 
