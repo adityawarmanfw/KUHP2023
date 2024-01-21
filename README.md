@@ -1,4 +1,4 @@
-# Kitab Undang-undang Hukum Pidana (KUHP) 2023 (UU No. 1 Tahun 2023)
+# Kitab Undang-Undang Hukum Pidana (KUHP) 2023 (UU No. 1 Tahun 2023)
 
 Masih dalam pengerjaan.
 

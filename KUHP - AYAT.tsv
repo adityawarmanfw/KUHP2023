@@ -212,3 +212,121 @@ pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 100	6	100	1		Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) tidak menunjukkan sikap dan perbuatan yang terpuji serta tidak ada harapan untuk diperbaiki, pidana mati dapat dilaksanakan atas perintah Jaksa Agung.
 101	0				Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden.
 102	0				Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana mati diatur dengan Undang-Undang.
+103	1				Tindakan yang dapat dikenakan bersama-sama dengan pidana pokok berupa:
+103	2	38,39			Tindakan yang dapat dikenakan kepada Setiap Orang sebagaimana dimaksud dalam Pasal 38 dan Pasal 39 berupa:
+103	3	103,103	1,2		Jenis, jangka waktu, tempat, dan/atau pelaksanaan tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan dalam putusan pengadilan.
+104	0	51,52,53,54			Dalam menjatuhkan putusan berupa tindakan, hakim wajib memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54.
+105	1				Tindakan rehabilitasi dikenalan kepada terdakwa yang:
+105	2	105	1		Rehabilitasi sebagaimana dimaksud pada ayat (1) terdiri atas:
+106	1				Dalam mengenakan tindakan pelatihan kerja, hakim wajib mempertimbangkan :
+106	2	106	1	c	Dalam menentukan jenis pelatihan kerja sebagaimana dimaksud pada ayat (1) huruf c, hakim wajib memperhatikan pengalaman kerja dan tempat tinggal terdakwa.
+107	0				Tindakan perawatan di lembaga dikenakan berdasarkan keadaan pribadi terdakwa serta demi kepentingan terdakwa dan masyarakat.
+108	0				Tindakan perbaikan akibat Tindak Pidana adalah upaya memulihkan atau memperbaiki kerusakan akibat Tindak Pidana menjadi seperti semula.
+109	0				Tindakan penyerahan terdakwa kepada pemerintah atau seseorang dikenakan demi kepentingan terdakwa dan masyarakat.
+110	1				Tindakan perawatan di rumah sakit jiwa dikenakan terhadap terdakwa yang dilepaskan dari segala tuntutan hukum dan masih dianggap berbahaya berdasarkan hasil penilaian dokter jiwa.
+110	2				Penghentian tindakan perawatan di rumah sakit jiwa dilakukan jika yang bersangkutan tidak memerlukan perawatan lebih lanjut berdasarkan hasil penilaian dokter jiwa.
+110	3	110	2		Penghentian tindakan sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan penetapan halim yang memeriksa perkara pada tingkat pertama yang diusulkan oleh jaksa.
+111	0	68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan sebagaimana dimaksud dalam Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan Pemerintah.
+112	0				Anak yang melakukan Tindak Pidana yang diancam dengan pidana penjara di bawah 7 (tujuh) tahun dan bukan merupakan pengulangan Tindak Pidana wajib diupayakan diversi.
+113	1				Setiap Anak dapat dikenai tindakan berupa:
+113	2	113	1,1,1	d,e,f	Tindakan sebagaimana dimaksud pada ayat (1) huruf d, huruf e, dan huruf f dikenakan paling lama 1 (satu) tahun.
+113	3				Anak di bawah umur 14 (empat belas) tahun tidak dapat dijatuhi pidana dan hanya dapat dikenai tindakan.
+114	0				Pidana yang dapat dijatuhkan terhadap Anak berupa:
+115	0	114	0	a	Pidana pokok sebagaimana dimaksud dalam Pasal 114 huruf a terdiri atas:
+116	0	114	0	b	Pidana tambahan sebagaimana dimaksud dalam Pasal 114 huruf b terdiri atas:
+117	0	112,113,114,115,116			Ketentuan mengenai diversi, tindakan, dan pidana sebagaimana dimaksud dalam Pasal 112 sampai dengan Pasal 116 dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+118	0				Pidana bagi Korporasi terdiri atas:
+119	0	118	0	a	Pidana pokok sebagaimana dimaksud dalam Pasal 118 huruf a adalah pidana denda.
+120	1	118	0	b	Pidana tambahan bagl Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:
+120	2	120	1,1,1	h,j,k	Pidana tambahan sebagaimana dimaksud pada ayat (1) huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.
+120	3	120	1,1,1,1,1	a,b,c,d,e	Dalam hal Korporasi tidak melaksanakan pidana tambahan s6lagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.
+121	1				Pidana denda untuk Korporasi dljatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.
+121	2				Dalam hal Tindak Pidana yang dilakukan diancam dengan:
+122	1				Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan.
+122	2	122	1		Putusan pengadilan sebagaimana dimaksud pada ayat (1) dapat menentukan pembayaran pidana denda dengan cara mengangsur.
+122	3	122	1		Jika pidana denda sebagaimana dimaksud pada ayat (1) tidak dibayar dalam jangka waktu yang telah ditentukan, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.
+122	4	122	3		Dalam hal kekayaan atau pendapatan Korporasi tidak mencukupi untuk melunasi pidana denda sebagaimana dimaksud pada ayat (3), Korporasi dikenai pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi.
+123	0				Tindakan yang dapat dikenakan bagi Korporasi:
+124	0	118,119,120,121,122,123			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan bagi Korporasi sebagaimana dimaksud dalam Pasal 118 sampai dengan Pasal 123 diatur dengan Peraturan Pemerintah.
+125	1				Suatu perbuatan yang memenuhi lebih dari 1 (satu) ketentuan pidana yang diancam dengan ancaman pidana yang sama hanya dijatuhi 1 (satu) pidana, sedangkan jika ancaman pidananya berbeda dijatuhi pidana pokok yang paling berat.
+125	2				Suatu perbuatan yang diatur dalam aturan pidana umum dan aturan pidana khusus hanya dijatuhi aturan pidana khusus, kecuali Undang-Undang menentukan lain.
+126	1				Jika terjadi perbarengan beberapa Tindak Pidana yang saling berhubungan sehingga dipandang sebagai perbuatan berlanjut dan diancam dengan ancaman pidana yang sama, hanya dijatuhi 1 (satu) pidana.
+126	2	126	1		Jika perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) diancam dengan pidana yang berbeda, hanya dijatuhi pidana pokok yang terberat.
+127	1				Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang sejenis, hanya diiatuhkan I (satu) pidana.
+127	2	127	1		Maksimum pidana untuk perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) adalah jumlah pidana yang diancamkan pada semua Tindak Pidana tersebut, tetapi tidak melebihi pidana yang terberat ditambah 1/3 (satu per tiga).
+128	1				Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang tidak sejenis, pidana yang dijatuhkan adalah semua jenis pidana untuk Tindak Pidana masing-masing, tetapi tidak melebihi maksimum pidana yang terberat ditambah l/3 (satu per tiga).
+128	2	128	1		Dalam hal ketentuan sebagaimana dimaksud pada ayat (1) diancam dengan pidana denda, penghitungan denda didasarkan pada lama maksimum pidana penjara pengganti pidana denda.
+128	3	128	1		Jika Tindak Pidana yang dilakukan diancam dengan pidana minimum, minimum pidana untuk perbarengan sebagaimana dimaksud pada ayat (1) adalah jumlah pidana minimum khusus untuk Tindak Pidana masingmasing, tetapi tidak melebihi pidana minimum khusus terberat ditambah 1/3 (satu per tiga).
+129	0				Jika dalam perbarengan Tindak Pidana dljatuhi pidana mati atau pidana penjara seumur hidup, terdakwa tidak boleh dijatuhi pidana lain, kecuali pidana tambahan, yakni:
+130	1	127,129			Jika terjadi perbarengan sebagaimana dimaksud dalam Pasal 127 dan Pasal 129, penjatuhan pidana tambahan dilakukan dengan ketentuan sebagai berikut:
+130	2	130	1	c	Ketentuan mengenai lamanya pidana pengganti bagi pidana perampasan Barang tertentu sebagaimana dimaksud pada ayat (1) huruf c berlaku ketentuan pidana pengganti untuk denda.
+131	1	125,126,127,128,129,130			Jika Setiap Orang telah dijatuhi pidana dan kembali dinyatakan bersalah melakukan Tindak Pidana lain sebelum putusan pidana itu diiatuhkan, pidana yang terdahulu diperhitungkan terhadap pidana yang akan dijatuhkan dengan menggunalan aturan perbarengan sebagaimana dimaksud dalam Pasal 125 sampai dengan Pasal 130, seperti jika Tindak Pidana itu diadili secara bersama.
+131	2	131	1		Jika pidana yang dijatuhkan sebagaimana dimaksud pada ayat (1) telah mencapai maksimum pidana, hakim cukup menyatakan bahwa terdakwa bersalah tanpa perlu diikuti pidana.
+132	1				Kewenangan penuntutan dinyatakan gugur jika:
+132	2	121			Ketentuan mengenai gugurnya kewenangan penuntutan bagi Korporasi memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 121. 
+133	1	132,132	1,1	d,e	Pidana denda sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e serta biaya yang telah dikeluarkan jika penuntutan telah dimulai, dibayarkan kepada Pejabat yang berwenang dalam jangka waktu yang telah ditetapkan.
+133	2	133	1		Jika diancamkan pula pidana tambahan berupa perampasan Barang atau tagihan, Barang dan/ atau tagihan yang dirampas harus diserahkan atau harus dibayar menurut taksiran Pejabat sebagaimana dimaksud pada ayat (1) dalam hal Barang dan/ atau tagihan tersebut sudah tidak berada dalam kekuasaan terpidana.
+133	3	132,132	1,1	d,e	Jika pidana diperberat ka-rena pengulangan, pemberatan tersebut tetap berlaku sekalipun kewenangan menuntut pidana terhadap Tindak Pidana yang dilakukan lebih dahulu gugur berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e.
+134	0				Seseorang tidak dapat dituntut untuk kedua kalinya dalam 1 (satu) perkara yang sama jika untuk perkara tersebut telah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
+135	0	134			Jika putusan sebagaimana dimaksud dalam Pasal 134 berasal dari pengadilan luar negeri, terhadap Setiap Orang yang melakukan Tindak Pidana yang sama tidak boleh diadakan penuntutan dalam hal:
+136	1				Kewenangan penuntutan dinyatakan gugur karena kedaluwarsa apabila:
+136	2	136	1		Dalam hal Tindak Pidana dilakukan oleh Anak, tenggang waktu gugurnya kewenangan untuk menuntut karena kedaluwarsa sebagaimana dimaksud pada ayat (1) dikurangi menjadi 1/3 (satu per tiga).
+137	0				Jangka waltu kedaluwarsa dihitung mulai keesokan hari setelah perbuatan dilalukan, kecuali bagi:
+138	1				Tindakan penuntutan Tindak Pidana menghentikan tenggang waktu kedaluwarsa.
+138	2	138	1		Penghentian tenggang waktu kedaluwarsa sebagaimana dimaksud pada ayat (1) dihitung keesokan hari setelah tersangka atau terdakwa mengetahui atau diberitahukan mengenai penuntutan terhadap dirinya yang dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
+138	3				Setelah kedaluwarsa dihentikan karena tindakan penuntutan, mulai diberlakukan tenggang waktu kedaluwarsa baru.
+139	0				Apabila penuntutan dihentikan untuk sementara waktu karena ada sengketa hukum yang harus diputuskan lebih dahulu, tenggang waktu kedaluwarsa penuntutan menjadi tertunda sampai sengketa tersebut mendapatkan putusan.
+140	0				Kewenangan pelaksanaan pidana dinyatakan gugur, jika:
+141	0				Jika terpidana meninggal dunia, pidana perampasan Barang tertentu dan/atau tagihan yang telah disita tetap dapat dilaksanakan.
+142	1	136			Kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah berlaku tenggang waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ditambah 1/3 (satu per tiga).
+142	2				Tenggang waktu kedaluwarsa pelaksanaan pidana harus melebihi lama pidana yang dijatuhkan kecuali untuk pidana penjara seumur hidup.
+142	3				Pelaksanaan pidana mati tidak mempunyai tenggang waktu kedaluwarsa,
+142	4	101,136	,1	e	Jika pidana mati diubah menjadi pidana penjara seumur hidup sebagaimana dimaksud dalam Pasal 101, kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah lewat waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ayat (1) huruf e ditambah 1/3 (satu per tiga) dari tenggang waktu kedaluwarsa tersebut.
+143	1				Tenggang waktu kedaluwarsa pelaksanaan pidana dihitung keesokan harinya sejak putusan pengadilan dapat dilaksanakan.
+143	2				Apabila terpidana melarikan diri sewaktu menjalani pidana maka tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal terpidana tersebut melarikan diri.
+143	3				Apabila pembebasan bersyarat terhadap narapidana dicabut, tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal pencabutan.
+143	4				Tenggang waktu kedaluwarsa pelaksanaan pidana ditunda selama:
+144	0				Tindak Pidana adalah termasuk juga permufakatan jahat, persiapan, percobaan, dan pembantuan melakukan Tindak Pidana, kecuali ditentukan lain dalam Undang-Undang.
+145	0				Setiap Orang adalah orang perseorangan, termasuk Korporasi.
+146	0				Korporasi adalah kumpulan terorganisasi dari orang dan/atau kekayaan, baik merupakan badan hukum yang berbentuk perseroan terbatas, yayasan, perkumpulan, koperasi, badan usaha milik negara, badan usaha milik daerah, badan usaha milik desa, atau yang disamakan dengan itu, maupun perkumpulan yang tidak berbadan hukum atau badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu.
+147	0				Barang adalah benda berwujud atau tidak berwujud, benda bergerak atau tidak bergerak termasuk air dan uang giral, aliran listrik, gas, data, dan program Komputer.
+148	0				Surat adalah dokumen yang ditulis di atas kertas, termasuk juga dokumen atau data yang tertulis atau tersimpan dalam disket, pita magnetik, atau media penylmpan Komputer atau media penyimpan data elektronik lain.
+149	0				Korban adalah orang yang mengalami penderitaan fisik dan mental dan/ atau kerugian ekonomi yang diakibatkan oleh Tindak Pidana.
+150	0				Anak adalah seseorang yang belum berumur 18 (delapan belas) tahun.
+151	0				Orang Tua adalah termasuk juga kepala keluarga.
+152	0				Ayah adalah termasuk juga orang yang menjalankan kekuasaan yang sama dengan Ayah.
+153	0				Kekuasaan Ayah adalah termasuk juga kekuasaan kepala keluarga.
+154	0				Pejabat adalah setiap warga negara Indonesia yang telah memenuhi syarat yang ditentukan, diangkat oleh pejabat yang berwenang dan diserahi tugas negara, atau diserahi tugas lain oleh negara, dan digaji berdasarkan ketentuan peraturan perundang-undangan, yaitu:
+155	0				Luka Berat adalah:
+156	0				Kekerasan adalah setiap perbuatan dengan atau tanpa menggunakan kekuatan fisik yang menimbulkan bahaya bagi badan atau nyawa, mengakibatkan penderitaan fisik, seksual, atau psikologis, dan merampas kemerdekaan, termasuk menjadikan orang pingsan atau tidak berdaya
+157	0				Ancaman Kekerasan adalah setiap perbuatan berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan maupun tanpa menggunakan sarana dalam bentuk elektronik atau nonelektronik yang dapat menimbulkan rasa takut, cemas, atau khawatir akan dilakukannya Kekerasan.
+158	0				Di Muka Umum adalah di suatu tempat atau Ruang yang dapat dilihat, didatangi, diketahui, atau disaksikan oleh orang lain baik secara langsung maupun secara tidak langsung melalui media elektronik yang membuat publik dapat mengakses Informasi Elektronik atau dokumen elektronik.
+159	0				Harta Kekayaan adalah benda bergerak atau benda tidak bergerak, baik yang berwujud maupun yang tidak berwujud, yang memiliki nilai ekonomi.
+160	0				Makar adalah niat untuk melakukan serangan yang telah diwujudkan dengan persiapan perbuatan tersebut.
+161	0				Perang adalah termasuk juga Perang saudara dengan mengangkat senjata.
+162	0				Waktu Perang adalah termasuk waktu di mana bahaya Perang mengancam dan/atau ada perintah untuk mobilisasi Tentara Nasional Indonesia dan selama keadaan mobilisasi tersebut masih berlangsung.
+163	0				Musuh adalah termasuk juga pemberontak dan negara atau kekuasaan yang diperkirakan akan menjadi lawan Perang.
+164	0				Masuk adalah termasuk mengakses Komputer atau Masuk ke dalam sistem Komputer
+165	0				Memanjat adalah termasuk Masuk dengan melalui lubang yang sudah ada tetapi tidak untuk tempat orang lewat, atau Masuk melalui lubang dalam tanah yang sengaja digali, atau Masuk melalui atau menyeberangi selokan atau parit yang gunanya sebagai pembatas halaman.
+166	0				Anak Kunci Palsu adalah anak kunci duplikat termasuk juga segala perkakas, sistem elektronik, atau yang disamakan dengan itu yang tidak dimaksudkan untuk membuka kunci yang digunalan untuk membuka kunci
+167	0				Ruang adalah termasuk bentangan atau terminal Komputer yang dapat diakses dengan cara tertentu.
+168	0				Bangunan Listrik adalah bangunan yang digunakan untuk membangkitkan, mengalirkan, mengubah, atau menyerahkan tenaga listrik, termasuk alat yang berhubungan dengan itu, yaitu alat penjaga keselamatan, alat pemasang, alat pendukung, alat pencegah, atau alat pemberi peringatan.
+169	0				Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.
+170	0				Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarak jauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
+171	0				Kode Akses adalah angka, huruf, simbol lainnya atau kombinasi diantaranya yang merupakan kunci untuk dapat mengakses Komputer, jaringan Komputer, internet, atau media elektronik lainnya.
+172	0				Pornografi adalah gambar, sketsa, ilustrasi, foto, suara, bunyi, gambar bergerak, animasi, kartun, percakapan, gerak tubuh, atau bunyi pesan lainnya melalui berbagai bentuk media komunikasi dan/atau pertunjukan Di Muka Umum, yang memuat kecabulan atau eksploitasi seksual yang melanggar norma kesusilaan dalam masyarakat.
+173	0				Pengusaha adalah orang yang menjalankan perusahaan atau usaha dagang.
+174	0				Kapal adalah kendaraan air dengan bentuk dan jenis apa pun, yang digerakkan dengan tenaga mekanik, tenaga angin, atau ditunda, termasuk kendaraan yang berdaya dukung dinamis, kendaraan di bawah permukaan air, serta alat apung dan bangunan terapung yang tidak berpindah-pindah.
+175	0				Penumpang adalah orang selain Nakhoda dan Anak Buah Kapal yang berada di Kapal atau orang selain kapten penerbang dan awak Pesawat Udara lain yang berada dalam Pesawat Udara.
+176	0				Anak Buah Kapal adalah Awak Kapal selain Nakhoda.
+177	0				Awak Kapal adalah orurng yang bekerja atau dipekerjakan di atas Kapal oleh pemilik atau operator Kapal yang melakukan tugas di atas Kapal sesuai dengan jabatannya.
+178	0				Kapal Indonesia adalah Kapal yang didaftar di Indonesia dan memperoleh Surat tanda kebangsaan Kapal Indonesia sesuai dengan ketentuan peraturan perundang-undangan.
+179	0				Nakhoda adalah salah seorang Awak Kapal yang menjadi pemimpin tertinggi di Kapal dan mempunyai wewenang dan tanggung jawab tertentu sesuai dengan ketentuan peraturan perundang-undangan.
+180	0				Pesawat Udara adalah setiap mesin atau alat yang dapat terbang di atmosfer karena gaya angkat dari reaksi udara, tetapi bukan karena reaksi udara terhadap permukaan bumi yang digunakan untuk penerbangan.
+181	0				Dalam Penerbangan adalah jangka waktu sejak saat semua pintu luar Pesawat Udara ditutup setelah naiknya Penumpang sampai saat pintu dibuka untuk penurunan Penumpang, atau dalam hal terjadi pendaratan darurat penerbangan dianggap terus berlangsung sampai saat penguasa yang berwenang mengambil alih tanggung jawab atas Pesawat Udara dan Barang yang ada di dalam Pesawat Udara.
+182	0				Dalam Dinas Penerbangan adalah jangka waktu sejak saat Pesawat Udara disiapkan oleh awak darat atau oleh awak pesawat untuk penerbangan tertentu sampai lewat 24 (dtua puluh empat) jam sesudah pendaratan.
+183	0				Ternak adalah hewan peliharaan yang dipenrntukkan sebagai sumber pangan dan sumber mata pencaharian.
+184	0				Bulan adalah waktu 30 (tiga puluh) Hari.
+185	0				Hari adalah waktu selama 24 (dua puluh empat) jam.
+186	0				Malam adalah waktu di antara matahari terbenam dan matahari terbit.
+187	0				Ketentuan dalam Bab I sampai dengan Bab V Buku Kesatu berlaku juga bagi perbuatan yang dapat dipidana menurut peraturan perundang-undangan lain, kecuali ditentukan lain menurut Undang-Undang.
