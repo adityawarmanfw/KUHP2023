@@ -11,7 +11,7 @@ con.sql("""
 
 def test_kolom():
     """
-    Pastikan hanya ada kolom ['bab','buku','pasal_akhir','pasal_awal','teks']
+    Pastikan hanya ada kolom ['bab','buku','pasal_akhir','pasal_awal','teks'].
     """
     result = con.sql("""
                         SELECT 
@@ -32,7 +32,7 @@ def test_pasal_konsekutif():
 
 def test_jumlah_pasal():
     """
-    Pastikan jumlah pasal 624
+    Pastikan jumlah pasal 624.
     """
     result = con.sql("""
                         SELECT count(pasal) = 624
