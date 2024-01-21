@@ -15,8 +15,8 @@ def test_kolom():
     """
     result = con.sql("""
                         SELECT 
-                            LIST(DISTINCT k ORDER BY k) = ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
-                        FROM (UNPIVOT kuhp_ayat ON * INTO NAME k VALUE v);
+                            LIST(DISTINCT column_name ORDER BY column_name) = ['ayat','ayat_rujukan','huruf_rujukan','pasal','pasal_rujukan','teks']
+                        FROM information_schema.columns WHERE table_name = 'kuhp_ayat';
                     """).fetchone()[0]
     assert result
 
