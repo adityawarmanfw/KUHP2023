@@ -66,7 +66,7 @@ Pasal 71 ayat (4) merujuk ke ayat (2) huruf c Pasal yang sama, sehingga baris ke
 SELECT 
     pasal, 
     ayat, 
-    unnest(string_split(pasal_rujukan, ',')):int AS pasal_rujukan
+    unnest(string_split(pasal_rujukan, ','))::int AS pasal_rujukan
 FROM read_csv_auto('./KUHP - AYAT.tsv') 
 WHERE pasal = 71;
 ```
