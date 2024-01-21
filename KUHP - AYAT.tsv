@@ -181,3 +181,34 @@ pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 90	1				Jika pidana pencabutan hak dijatuhkan, lama pencabutan wajib ditentukan jika:
 90	2	90	1	b	Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak berlaku jika yang dicabut adalah hak memperoleh pembebasan bersyarat.
 90	3				Pidana pencabutan hak mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
+91	0	66	1	b	Pidana tambahan berupa perarmpasan Barang tertentu dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/ atau tagihan:
+92	1	91			Pidana tambahan berupa perampasan Barang tertent sebagaimana dimaksud dalam Pasal 91 dapat dijatuhkan atas Barang yang tidak disita dengan menentukan bahwa Barang tersebut harus diserahkan atau diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.
+92	2	92	1		Dalam hal Barang yang tidak disita sebagaimana dimaksud pada ayat (1) tidak dapat diserahkan, Barang tersebut diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.
+92	3	92	2		Jika terpidana tidak mampu membayar seluruh atau sebagian harga pasar sebagaimana dimaksud pada ayat (21, diberlakukan ketentuan pidana pengganti untuk pidana denda.
+93	1				Jika dalam putusan pengadilan diperintahkan supaya putusan diumumkan, harus ditetapkan cara melaksanakan pengumuman tersebut dengan biaya yang ditanggung oleh terpidana.
+93	2	93	1		Jika biaya pengumuman sebagaimana dimaksud pada ayat (1) tidak dibayar oleh terpidana, diberlakukan ketentuan pidana pengganti untuk pidana denda.
+94	1	66	1	d	Dalam putusan pengadilan dapat ditetapkan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada Korban atau ahli waris sebagai pidana tambahan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf d.
+94	2	94,81,82,83	1		Jika kewajiban pembayaran ganti rugi sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, diberlakukan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83 secara mutatis mutandis.
+95	1				Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.
+95	2	1	1		Pencabutan izin sebagaimana dimaksud pada ayat (1) dilakukan dengan mempertimbangkan:
+95	3				Dalam hal dijatuhi pidana penjara, pidana tutupan, atau pidana pengawasan untuk waktu tertentu, pencabutan izin dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang dijatuhkan.
+95	4				Dalam hal dljatuhi pidana denda, pencabutan izin berlaku paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun.
+95	5				Pidana pencabutan izin mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
+96	1	2	2		Pidana tambahan berupa pemenuhan kewajiban adat setempat diutamakan jika Tindak Pidana yang dilakukan memenuhi ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (2).
+96	2	96	1		Pemenuhan kewajiban adat setempat sebagaimana dimaksud pada ayat (1) dianggap sebanding dengan pidana denda kategori II.
+96	3	96	1		Dalam hal kewajiban adat sebagaimana dimaksud pada ayat (1) tidak dipenuhi, pemenuhan kewajiban adat diganti dengan ganti rugi yang nilainya setara dengan pidana denda kategori II.
+96	4	96	3		Dalam hal ganti rugi sebagaimana dimaksud pada ayat (3) tidak dipenuhi, ganti rugi diganti dengan pidana pengawasan atau pidana kerja sosial.
+97	0	2	2		Pidana tambahan berupa pemenuhan kewajiban adat setempat dapat dijatuhkan walaupun tidak tercantum dalam perumusan Tindak Pidana dengan tetap memperhatikan ketentuan Pasal 2 ayat(2).
+98	0				Pidana mati diancamkan secara alternatif sebagai upaya terakhir untuk mencegah dilakukannya Tindak Pidana dan mengayomi masyarakat.
+99	1				Pidana mati dapat dilaksanakan setelah permohonan grasi bagi terpidana ditolak Presiden.
+99	2	99	1		Pidana mati sebagaimana dimaksud pada ayat (1) tidak dilaksanakan Di Muka Umum.
+99	3				Pidana mati dilaksanakan dengan menembak terpidana sampai mati oleh regu tembak atau dengan cara lain yang ditentukan dalam Undang-Undang.
+99	4				Pelaksanaan pidana mati terhadap perempuan hamil, perempuan yang sedang menyusui bayinya, atau orang yang sakit jiwa ditunda sampai perempuan tersebut melahirkan, perempuan tersebut tidak lagi menyusui bayinya, atau orang yang sakit jiwa tersebut sembuh.
+100	1				Hakim menjatuhkan pidana mati dengan masa percobaan selama 10 (sepuluh) tahun dengan memperhatikan:
+100	2	100	1		Pidana mati dengan masa percobaan sebagaimana dimaksud pada ayat (1) harus dicantumkan dalam putusan pengadilan.
+100	3				Tenggang waktu masa percobaan 10 (sepuluh) tahun dimulai 1 (satu) Hari setelah putusan pengadilan memperoleh kekuatan hukum tetap.
+100	4	100	1		Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) menunjukkan sikap dan perbuatan yang terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.
+100	5	100	4		Pidana penjara seumur hidup sebagaimana dimaksud pada ayat (4) dihitung sejak Keputusan Presiden ditetapkan.
+100	6	100	1		Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) tidak menunjukkan sikap dan perbuatan yang terpuji serta tidak ada harapan untuk diperbaiki, pidana mati dapat dilaksanakan atas perintah Jaksa Agung.
+101	0				Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden.
+102	0				Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana mati diatur dengan Undang-Undang.
