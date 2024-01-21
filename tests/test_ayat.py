@@ -58,7 +58,7 @@ def test_pasal_rujukan_tidak_null():
 def test_pasal_dan_ayat_rujukan_tidak_null():
     """
     Pastikan nilai dalam kolom 'pasal_rujukan' dan 'ayat_rujukan' tidak null jika ada kata 'ayat (' pada kolom 'teks'.
-    
+
     Cari baris bermasalah dengan kueri:
 
         SELECT pasal, ayat 
@@ -68,4 +68,40 @@ def test_pasal_dan_ayat_rujukan_tidak_null():
     """
     result = con.sql(
         "SELECT bool_and(if(regexp_matches(teks, 'ayat \('), pasal_rujukan IS NOT NULL AND ayat_rujukan IS NOT NULL, NULL)) FROM kuhp_ayat;").fetchone()[0]
+    assert result
+
+
+def test_huruf_rujukan_bernilai_huruf_kecil_dan_koma():
+    """
+    Pastikan nilai dalam kolom 'huruf_rujukan' hanya berisi huruf kecil dan koma.
+    """
+    result = con.sql(
+        "SELECT bool_and(regexp_full_match(huruf_rujukan, '[a-z,]+')) FROM kuhp_ayat;").fetchone()[0]
+    assert result
+
+
+def test_tidak_ada_spasi_setelah_koma_di_pasal_rujukan():
+    """
+    Pastikan tidak ada spasi setelah koma dalam kolom 'pasal_rujukan'.
+    """
+    result = con.sql(
+        "SELECT bool_and(regexp_matches(pasal_rujukan, '[0-9\,\s]')) FROM kuhp_ayat;").fetchone()[0]
+    assert result
+
+
+def test_tidak_ada_spasi_setelah_koma_di_ayat_rujukan():
+    """
+    Pastikan tidak ada spasi setelah koma dalam kolom 'ayat_rujukan'.
+    """
+    result = con.sql(
+        "SELECT bool_and(regexp_matches(ayat_rujukan, '[0-9\,\s]')) FROM kuhp_ayat;").fetchone()[0]
+    assert result
+
+
+def test_tidak_ada_spasi_setelah_koma_di_huruf_rujukan():
+    """
+    Pastikan tidak ada spasi setelah koma dalam kolom 'huruf_rujukan'.
+    """
+    result = con.sql(
+        "SELECT bool_and(regexp_matches(huruf_rujukan, '[^\,\s]')) FROM kuhp_ayat;").fetchone()[0]
     assert result
