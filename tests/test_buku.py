@@ -20,6 +20,7 @@ def test_kolom():
                     """).fetchone()[0]
     assert result
 
+
 def test_jumlah_baris():
     """
     Pastikan hanya ada 2 baris.
