@@ -273,7 +273,6 @@ Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam Pasa
 Bagian Kedua
 Pertanggungjawaban Pidana
 
-
 Paragraf 1
 Umum
 
@@ -327,7 +326,6 @@ berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bert
 
 Pasal 47
 Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
-
 
 Pasal 48
 Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
@@ -412,10 +410,9 @@ Pemberatan Pidana
 
 Pasal 58
 Faktor yang memperberat pidana meliputi:
-a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;
-b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau
-c. pengulangan Tindak Pidana.
-
+    a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;
+    b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau
+    c. pengulangan Tindak Pidana.
 
 Pasal 59
 Pemberatan sebagaimana dimaksud dalam Pasal 58 dapat ditambah paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana.
@@ -681,7 +678,6 @@ Pasal 93
 Pasal 94
 (1) Dalam putusan pengadilan dapat ditetapkan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada Korban atau ahli waris sebagai pidana tambahan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf d.
 (2) Jika kewajiban pembayaran ganti rugi sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, diberlakukan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83 secara mutatis mutandis.
-
 
 Pasal 95
 (1) Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.
@@ -1102,7 +1098,6 @@ Bangunan Listrik adalah bangunan yang digunakan untuk membangkitkan, mengalirkan
 
 Pasal 169
 Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.
-
 
 Pasal 170
 Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarak jauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
