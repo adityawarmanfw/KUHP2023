@@ -1,15 +1,17 @@
 UNDANG-UNDANG REPUBLIK INDONESIA
 NOMOR 1 TAHUN 2023
+
 TENTANG
 KITAB UNDANG-UNDANG HUKUM PIDANA
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang:
-a. bahwa untuk mewujudkan hukum pidana nasional Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta asas hukum umum yang diakui masyarakat bangsa-bangsa, perlu disusun hukum pidana nasional untuk mengganti Kitab Undang-Undang Hukum Pidana warisan pemerintah kolonial Hindia Belanda;
-b. bahwa hukum pidana nasional tersebut harus disesuaikan dengan politik hukum, keadaan, dan perkembangan kehidupan bermasyarakat, berbangsa, dan bernegara yang bertujuan menghormati dan menjunjung tinggi hak asasi manusia, berdasarkan Ketuhanan Yang Maha Esa, kemanusiaan yang adil dan beradab, persatuan Indonesia, kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, dan keadilan sosial bagi seluruh rakyat Indonesia;
-c. bahwa materi hukum pidana nasional juga harus mengatur keseimbangan antara kepentingan umum atau negara dan kepentingan individu, antara pelindungan terhadap pelaku tindak pidana dan korban tindak pidana, antara unsur perbuatan dan sikap batin, antara kepastian hukum dan keadilan, antara hukum tertulis dan hukum yang hidup dalam masyarakat, antara nilai nasional dan nilai universal, serta antara hak asasi manusia dan kewajiban asasi manusia;
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Kitab Undang-Undang Hukum Pidana.
+    a. bahwa untuk mewujudkan hukum pidana nasional Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta asas hukum umum yang diakui masyarakat bangsa-bangsa, perlu disusun hukum pidana nasional untuk mengganti Kitab Undang-Undang Hukum Pidana warisan pemerintah kolonial Hindia Belanda;
+    b. bahwa hukum pidana nasional tersebut harus disesuaikan dengan politik hukum, keadaan, dan perkembangan kehidupan bermasyarakat, berbangsa, dan bernegara yang bertujuan menghormati dan menjunjung tinggi hak asasi manusia, berdasarkan Ketuhanan Yang Maha Esa, kemanusiaan yang adil dan beradab, persatuan Indonesia, kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, dan keadilan sosial bagi seluruh rakyat Indonesia;
+    c. bahwa materi hukum pidana nasional juga harus mengatur keseimbangan antara kepentingan umum atau negara dan kepentingan individu, antara pelindungan terhadap pelaku tindak pidana dan korban tindak pidana, antara unsur perbuatan dan sikap batin, antara kepastian hukum dan keadilan, antara hukum tertulis dan hukum yang hidup dalam masyarakat, antara nilai nasional dan nilai universal, serta antara hak asasi manusia dan kewajiban asasi manusia;
+    d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Kitab Undang-Undang Hukum Pidana.
 
 Mengingat:
 Pasal 5 ayat (1) dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
@@ -173,17 +175,13 @@ Pasal 17
 (5) Pidana tambahan untuk percobaan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
 
 Pasal 18
-(1) Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan
-pelaksanaan sebagaimana dimaksud dalam Pasal 17 ayat (1):
-a. tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela; atau
-b. dengan kehendaknya sendiri mencegah tercapainya tujuan atau akibat perbuatannya.
-(2) Dalam hal percobaan sebagaimana dimaksud pada ayat (1) telah menimbulkan kerugian atau menurut
-peraturan perundang-undangan merupakan Tindak Pidana tersendiri, pelaku dapat
-dipertanggungjawabkan untuk Tindak Pidana tersebut.
+(1) Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan pelaksanaan sebagaimana dimaksud dalam Pasal 17 ayat (1):
+    a. tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela; atau
+    b. dengan kehendaknya sendiri mencegah tercapainya tujuan atau akibat perbuatannya.
+(2) Dalam hal percobaan sebagaimana dimaksud pada ayat (1) telah menimbulkan kerugian atau menurut peraturan perundang-undangan merupakan Tindak Pidana tersendiri, pelaku dapat dipertanggungjawabkan untuk Tindak Pidana tersebut.
 
 Pasal 19
-Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak
-dipidana.
+Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak dipidana.
 
 Paragraf 5
 Penyertaan
@@ -273,7 +271,6 @@ Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam Pasa
 Bagian Kedua
 Pertanggungjawaban Pidana
 
-
 Paragraf 1
 Umum
 
@@ -283,8 +280,8 @@ Pasal 36
 
 Pasal 37
 Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat:
-a. dipidana semata-mata karena telah dipenuhinya unsur-unsur Tindak Pidana tanpa memperhatikan adanya kesalahan , atau
-b. dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan oleh orang lain.
+    a. dipidana semata-mata karena telah dipenuhinya unsur-unsur Tindak Pidana tanpa memperhatikan adanya kesalahan , atau
+    b. dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan oleh orang lain.
 
 Pasal 38
 Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental dan/atau disabilitas intelektual dapat dikurangi pidananya dan/atau dikenai tindakan.
@@ -327,7 +324,6 @@ berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bert
 
 Pasal 47
 Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
-
 
 Pasal 48
 Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
@@ -412,10 +408,9 @@ Pemberatan Pidana
 
 Pasal 58
 Faktor yang memperberat pidana meliputi:
-a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;
-b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau
-c. pengulangan Tindak Pidana.
-
+    a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;
+    b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau
+    c. pengulangan Tindak Pidana.
 
 Pasal 59
 Pemberatan sebagaimana dimaksud dalam Pasal 58 dapat ditambah paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana.
@@ -682,7 +677,6 @@ Pasal 94
 (1) Dalam putusan pengadilan dapat ditetapkan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada Korban atau ahli waris sebagai pidana tambahan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf d.
 (2) Jika kewajiban pembayaran ganti rugi sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, diberlakukan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83 secara mutatis mutandis.
 
-
 Pasal 95
 (1) Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.
 (2) Pencabutan izin sebagaimana dimaksud pada ayat (1) dilakukan dengan mempertimbangkan:
@@ -864,7 +858,7 @@ Pasal 120
 (3) Dalam hal Korporasi tidak melaksanakan pidana tambahan sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.
 
 Pasal 121
-(1) Pidana denda untuk Korporasi dijatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.
+(1) Pidana denda untuk Korporasi dijatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh Undang-Undang.
 (2) Dalam hal Tindak Pidana yang dilakukan diancam dengan:
     a. pidana penjara di bawah 7 (tujuh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VI;
     b. pidana penjara paling lama 7 (tujuh) sampai dengan paling lama 15 (lima belas) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VII; atau
@@ -969,8 +963,8 @@ Pasal 136
 
 Pasal 137
 Jangka waktu kedaluwarsa dihitung mulai keesokan hari setelah perbuatan dilakukan, kecuali bagi:
-a. Tindak Pidana pemalsuan dan Tindak Pidana perusakan mata uang, kedaluwarsa dihitung mulai keesokan harinya setelah Barang yang dipalsukan atau mata uang yang dirusak digunakan; atau
-b. Tindak Pidana sebagaimana dimaksud dalam Pasal 450, Pasal 451, dan Pasal 452 kedaluwarsa dihitung mulai keesokan harinya setelah Korban Tindak Pidana dilepaskan atau mati sebagai akibat langsung dari Tindak Pidana tersebut.
+    a. Tindak Pidana pemalsuan dan Tindak Pidana perusakan mata uang, kedaluwarsa dihitung mulai keesokan harinya setelah Barang yang dipalsukan atau mata uang yang dirusak digunakan; atau
+    b. Tindak Pidana sebagaimana dimaksud dalam Pasal 450, Pasal 451, dan Pasal 452 kedaluwarsa dihitung mulai keesokan harinya setelah Korban Tindak Pidana dilepaskan atau mati sebagai akibat langsung dari Tindak Pidana tersebut.
 
 Pasal 138
 (1) Tindakan penuntutan Tindak Pidana menghentikan tenggang waktu kedaluwarsa.
@@ -1102,7 +1096,6 @@ Bangunan Listrik adalah bangunan yang digunakan untuk membangkitkan, mengalirkan
 
 Pasal 169
 Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.
-
 
 Pasal 170
 Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarak jauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
