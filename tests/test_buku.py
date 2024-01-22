@@ -4,7 +4,7 @@ con = duckdb.connect()
 con.sql("""
             CREATE TABLE kuhp_buku AS (
                 SELECT *
-                FROM read_csv_auto('././KUHP - BUKU.tsv', sep='\t')
+                FROM read_csv_auto('././tsvs/buku.tsv', sep='\t')
             );
         """)
 
