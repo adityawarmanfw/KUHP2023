@@ -26,7 +26,7 @@ Pasal 71
 ### Tabel
 
 ```
-KUHP - AYAT.tsv
+ayat.tsv
 ┌───────┬───────┬───────────────┬──────────────┬───────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │ pasal │ ayat  │ pasal_rujukan │ ayat_rujukan │ huruf_rujukan │                                                                           teks                                                                            │
 │ int64 │ int64 │    varchar    │   varchar    │    varchar    │                                                                          varchar                                                                          │
@@ -37,7 +37,7 @@ KUHP - AYAT.tsv
 │    71 │     4 │ 71            │ 2            │ c             │ Ketentuan sebagaimana dimaksud pada ayat (2) huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan se…  │
 └───────┴───────┴───────────────┴──────────────┴───────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-KUHP - HURUF.tsv
+huruf.tsv
 ┌───────┬───────┬─────────┬───────────────┬──────────────┬───────────────┬─────────────────────────────────────┐
 │ pasal │ ayat  │  huruf  │ pasal_rujukan │ ayat_rujukan │ huruf_rujukan │                teks                 │
 │ int64 │ int64 │ varchar │    varchar    │   varchar    │    varchar    │               varchar               │
@@ -67,7 +67,7 @@ SELECT
     pasal, 
     ayat, 
     unnest(string_split(pasal_rujukan, ','))::int AS pasal_rujukan
-FROM read_csv_auto('./KUHP - AYAT.tsv') 
+FROM read_csv_auto('./tsvs/ayat.tsv') 
 WHERE pasal = 71;
 ```
 
