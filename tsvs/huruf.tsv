@@ -75,9 +75,9 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 65	1	d				pidana denda; dan
 65	1	e				pidana kerja sosial
 66	1	a				pencabutan hak tertentu;
-66	1	b				perampasan Barang tertentu dan/ atau tagihan;
+66	1	b				perampasan Barang tertentu dan/atau tagihan;
 66	1	c				pengumuman putusan hakim;
-66	1	d				pembayaran ganti nrgi;
+66	1	d				pembayaran ganti rugi;
 66	1	e				pencabutan izin tertentu; dan
 66	1	f				pemenuhan kewajiban adat setempat.
 70	1	a				terdakwa adalah Anak;
@@ -93,7 +93,7 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 70	1	k				pidana penjara akan menimbulkan penderitaan yang besar bagi terdakwa atau keluarganya;
 70	1	l				pembinaan di luar lembaga pemasyarakatan diperkirakan akan berhasil untuk diri terdakwa;
 70	1	m				penjatuhan pidana yang lebih ringan tidak akan mengurangi sifat berat Tindak Pidana yang dilakukan terdakwa;
-70	1	n				Tindak Pidana terjadi di kalangan keluarga; dan/ atau
+70	1	n				Tindak Pidana terjadi di kalangan keluarga; dan/atau
 70	1	o				Tindak Pidana terjadi karena kealpaan.
 70	2	a				Tindak Pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;
 70	2	b				Tindak Pidana yang diancam dengan pidana minimum khusus;
@@ -137,7 +137,7 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 86	0	c				hak memilih dan dipilih dalam pemilihan yang diadakan sesuai dengan ketentuan peraturan perundangundangan;
 86	0	d				hak menjadi wali, wali pengawas, pengampu, atau pengampu pengawas atas orang yang bukan Anaknya sendiri;
 86	0	e				hak menjalankan Kekuasaan Ayah, menjalankan perwalian, atau mengampu atas Anaknya sendiri;
-86	0	f				hak menjalankan profesi tertentu; dan/ atau
+86	0	f				hak menjalankan profesi tertentu; dan/atau
 86	0	g				hak memperoleh pembebasan bersyarat.
 87	0	a				Tindak Pidana terkait jabatan atau Tindak Pidana yang melanggar kewajiban khusus suatu jabatan;
 87	0	b				Tindak Pidana yang terkait dengan profesinya; atau
@@ -154,7 +154,7 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 91	0	b				yang khusus dibuat atau diperuntukkan mewujudkan Tindak Pidana;
 91	0	c				yang berhubungan dengan terwujudnya Tindak Pidana;
 91	0	d				milik terpidana atau orang lain yang diperoleh dari Tindak Pidana;
-91	0	e				dari keuntungan ekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana; dan/ atau
+91	0	e				dari keuntungan ekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana; dan/atau
 91	0	f				yang dipergunakan untuk menghalang-halangi penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan.
 95	2	a				keadaan yang menyertai Tindak Pidana yang dilakukan;
 95	2	b				keadaan yang menyertai pelaku dan pembantu Tindak Pidana; dan
@@ -169,9 +169,9 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 103	2	a				rehabilitasi;
 103	2	b				penyerahan kepada seseorang;
 103	2	c				perawatan di lembaga;
-103	2	d				penyerahan kepada pemerintah; dan/ atau
+103	2	d				penyerahan kepada pemerintah; dan/atau
 103	2	e				perawatan di rumah sakit jiwa.
-105	1	a				kecanduan alkohol, narkotika, psikotropika, dan zat adiktif lainnya; dan/ atau
+105	1	a				kecanduan alkohol, narkotika, psikotropika, dan zat adiktif lainnya; dan/atau
 105	1	b				menyandang disabilitas mental dan/atau disabilitas intelektual.
 105	2	a				rehabilitasi medis;
 105	2	b				rehabilitasi sosial; dan
@@ -183,8 +183,8 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 113	1	b				penyerahan kepada seseorang;
 113	1	c				perawatan di rumah sakit jiwa;
 113	1	d				perawatan di lembaga;
-113	1	e				kewajiban mengikuti pendidikan formal dan/ atau pelatihan yang diadakan oleh pemerintah atau badan swasta;
-113	1	f				pencabutan Surat izin mengemudi; dan/ atau
+113	1	e				kewajiban mengikuti pendidikan formal dan/atau pelatihan yang diadakan oleh pemerintah atau badan swasta;
+113	1	f				pencabutan Surat izin mengemudi; dan/atau
 113	1	g				perbaikan akibat Tindak Pidana.
 114	0	a				pidana pokok; dan
 114	0	b				pidana tambahan.
@@ -197,7 +197,7 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 116	0	b				pemenuhan kewajiban adat.
 118	0	a				pidana pokok; dan
 118	0	b				pidana tambahan.
-120	1	a				pembayaran ganti nrgi;
+120	1	a				pembayaran ganti rugi;
 120	1	b				perbaikan akibat Tindak Pidana;
 120	1	c				pelaksanaan kewajiban yang telah dilalaikan;
 120	1	d				pemenuhan kewajiban adat;
@@ -206,17 +206,17 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 120	1	g				pengumuman putusan pengadilan;
 120	1	h				pencabutan izin tertentu;
 120	1	i				pelarangan permanen melakukan perbuatan tertentu;
-120	1	j				penutupan seluruh atau sebagian tempat usaha dan/ atau kegiatan Korporasi;
+120	1	j				penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan Korporasi;
 120	1	k				pembekuan seluruh atau sebagian kegiatan usaha Korporasi; dan
 120	1	l				pembubaran Korporasi.
 121	2	a				pidana penjara di bawah 7 (tujuh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VI;
 121	2	b				pidana penjara paling lama 7 (tujuh) sampai dengan paling lama 15 (lima belas) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VII; atau
 121	2	c				pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 20 (dua puluh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VIII.
 123	0	a				pengambilalihan Korporasi;
-123	0	b				penempatan di bawah pengawasan; dan/ atau
+123	0	b				penempatan di bawah pengawasan; dan/atau
 123	0	c				penempatan Korporasi di bawah pengampuan.
 129	0	a				pencabutan hak tertentu;
-129	0	b				perampasan Barang tertentu; dan/ atau
+129	0	b				perampasan Barang tertentu; dan/atau
 129	0	c				pengumuman putusan pengadilan.
 130	1	a				pidana pencabutan hak yang sama dijadikan satu dengan ketentuan:
 130	1	b				pidana pencabutan hak yang berbeda dijatuhkan secara sendiri-sendiri untuk tiap Tindak Pidana tanpa dikurangi; atau
@@ -231,7 +231,7 @@ pasal	ayat	huruf	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 132	1	h				diberikannya amnesti atau abolisi.
 135	0	a				putusan bebas dari tuduhan atau lepas dari segala tuntutan hukum; atau
 135	0	b				putusan berupa pemidanaan dan pidananya telah dijalani seluruhnya, telah diberi ampun, atau pelaksanaan pidana tersebut kedaluwarsa.
-136	1	a				setelah melampaui waktu 3 (tiga) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun dan/ atau hanya denda paling banyak kategori III;
+136	1	a				setelah melampaui waktu 3 (tiga) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun dan/atau hanya denda paling banyak kategori III;
 136	1	b				setelah melampaui waktu 6 (enam) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 1 (satu) tahun dan paling lama 3 (tiga) tahun;
 136	1	c				setelah melampaui waktu 12 (dua belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 3 (tiga) tahun dan paling lama 7 (tujuh) tahun;
 136	1	d				setelah melampaui waktu 18 (delapan belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 7 (tujuh) tahun dan paling lama 15 (lima belas) tahun; dan
