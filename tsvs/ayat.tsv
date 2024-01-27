@@ -52,7 +52,7 @@ pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 21	3				Pidana untuk pembantuan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
 21	4				Pembantuan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 21	5				Pidana tambahan untuk pembantuan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
-22	0	21			Keadaan pribadi pelaku sebagaimana dimaksud dalam Pasal 20 atau pembantu sebagaimana dimaksud dalam Pasal 21 dapat menghapus, mengurangi, atau memperberat pidananya.
+22	0	20,21			Keadaan pribadi pelaku sebagaimana dimaksud dalam Pasal 20 atau pembantu sebagaimana dimaksud dalam Pasal 21 dapat menghapus, mengurangi, atau memperberat pidananya.
 23	1				Pengulangan Tindak Pidana terjadi jika Setiap Orang:
 23	2	23	1		Tindak Pidana sebagaimana dimaksud pada ayat (1) mencakup Tindak Pidana yang diancam dengan pidana minimum khusus, pidana penjara 4 (empat) tahun atau lebih, atau pidana denda paling sedikit kategori III.
 23	3	23	1		Ketentuan sebagaimana dimaksud pada ayat (1) juga berlaku untuk Tindak Pidana mengenai penganiayaan.
@@ -238,8 +238,8 @@ pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 118	0				Pidana bagi Korporasi terdiri atas:
 119	0	118	0	a	Pidana pokok sebagaimana dimaksud dalam Pasal 118 huruf a adalah pidana denda.
 120	1	118	0	b	Pidana tambahan bagl Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:
-120	2	120	1,1,1	h,j,k	Pidana tambahan sebagaimana dimaksud pada ayat (1) huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.
-120	3	120	1,1,1,1,1	a,b,c,d,e	Dalam hal Korporasi tidak melaksanakan pidana tambahan s6lagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.
+120	2	120,120,120	1,1,1	h,j,k	Pidana tambahan sebagaimana dimaksud pada ayat (1) huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.
+120	3	120,120,120,120,120	1,1,1,1,1	a,b,c,d,e	Dalam hal Korporasi tidak melaksanakan pidana tambahan sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.
 121	1				Pidana denda untuk Korporasi dljatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.
 121	2				Dalam hal Tindak Pidana yang dilakukan diancam dengan:
 122	1				Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan.
@@ -319,7 +319,7 @@ pasal	ayat	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
 174	0				Kapal adalah kendaraan air dengan bentuk dan jenis apa pun, yang digerakkan dengan tenaga mekanik, tenaga angin, atau ditunda, termasuk kendaraan yang berdaya dukung dinamis, kendaraan di bawah permukaan air, serta alat apung dan bangunan terapung yang tidak berpindah-pindah.
 175	0				Penumpang adalah orang selain Nakhoda dan Anak Buah Kapal yang berada di Kapal atau orang selain kapten penerbang dan awak Pesawat Udara lain yang berada dalam Pesawat Udara.
 176	0				Anak Buah Kapal adalah Awak Kapal selain Nakhoda.
-177	0				Awak Kapal adalah orang yang bekerja atau dipekerjakan di atas Kapal oleh pemilik atau operator Kapal yang melakukan tugas di atas Kapal sesuai dengan jabatannya.
+177	0				Awak Kapal adalah orurng yang bekerja atau dipekerjakan di atas Kapal oleh pemilik atau operator Kapal yang melakukan tugas di atas Kapal sesuai dengan jabatannya.
 178	0				Kapal Indonesia adalah Kapal yang didaftar di Indonesia dan memperoleh Surat tanda kebangsaan Kapal Indonesia sesuai dengan ketentuan peraturan perundang-undangan.
 179	0				Nakhoda adalah salah seorang Awak Kapal yang menjadi pemimpin tertinggi di Kapal dan mempunyai wewenang dan tanggung jawab tertentu sesuai dengan ketentuan peraturan perundang-undangan.
 180	0				Pesawat Udara adalah setiap mesin atau alat yang dapat terbang di atmosfer karena gaya angkat dari reaksi udara, tetapi bukan karena reaksi udara terhadap permukaan bumi yang digunakan untuk penerbangan.
