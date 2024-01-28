@@ -1,597 +1,597 @@
-pasal	ayat	huruf	angka	teks	pasal_rujukan	ayat_rujukan	huruf_rujukan
-1	1			Tidak ada satu perbuatan pun yang dapat dikenai sanksi pidana dan/atau tindakan, kecuali atas kekuatan peraturan pidana dalam peraturan perundang-undangan yang telah ada sebelum perbuatan dilakukan.			
-1	2			Dalam menetapkan adanya Tindak Pidana dilarang digunakan analogi.			
-2	1			Ketentuan sebagaimana dimaksud dalam Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini.	1	1	
-2	2			Hukum yang hidup dalam masyarakat sebagaimana dimaksud pada ayat (1) berlaku dalam tempat hukum itu hidup dan sepanjang tidak diatur dalam Undang-Undang ini dan sesuai dengan nilai-nilai yang terkandung dalam Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.	2	1	
-2	3			Ketentuan mengenai tata cara dan kriteria penetapan hukum yang hidup dalam masyarakat diatur dengan Peraturan Pemerintah.			
-3	1			Dalam hal terdapat perubahan peraturan perundang-undangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana.			
-3	2			Dalam hal perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, proses hukum terhadap tersangka atau terdakwa harus dihentikan demi hukum.			
-3	3			Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) diterapkan bagi tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan.	3	2	
-3	4			Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan dihapuskan.			
-3	5			Dalam hal putusan pemidanaan telah berkekuatan hukum tetap sebagaimana dimaksud pada ayat (4), instansi atau Pejabat yang melaksanakan pembebasan merupakan instansi atau Pejabat yang berwenang.	3	4	
-3	6			Pembebasan sebagaimana dimaksud pada ayat (3) dan ayat (5) tidak menimbulkan hak bagi tersangka, terdakwa, atau terpidana menuntut ganti rugi.	3,3	3,5	
-3	7			Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi diancam dengan pidana yang lebih ringan menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan disesuaikan dengan batas pidana menurut peraturan perundang-undangan yang baru.			
-4	0			Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan:			
-4	0	a		Tindak Pidana di wilayah Negara Kesatuan Republik Indonesia;			
-4	0	b		Tindak Pidana di Kapal Indonesia atau di Pesawat Udara Indonesia; atau			
-4	0	c		Tindak Pidana di bidang teknologi informasi atau Tindak Pidana lainnya yang akibatnya dialami atau terjadi di wilayah Negara Kesatuan Republik Indonesia atau di Kapal Indonesia dan di Pesawat Udara Indonesia.			
-5	0			Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan:			
-5	0	a		keamanan negara atau proses kehidupan ketatanegaraan;			
-5	0	b		martabat Presiden, Wakil Presiden, dan/atau Pejabat Indonesia di luar negeri;			
-5	0	c		mata uang, segel, cap negara, meterai, atau Surat berharga yang dikeluarkan oleh Pemerintah Indonesia, atau kartu kredit yang dikeluarkan oleh perbankan Indonesia;			
-5	0	d		perekonomian, perdagangan, dan perbankan Indonesia;			
-5	0	e		keselamatan atau keamanan pelayaran dan penerbangan;			
-5	0	f		keselamatan atau keamanan bangunan, peralatan, dan aset nasional atau negara Indonesia;			
-5	0	g		keselamatan atau keamanan sistem komunikasi elektronik;			
-5	0	h		kepentingan nasional Indonesia sebagaimana ditetapkan dalam UndangUndang; atau			
-5	0	i		Warga negara Indonesia berdasarkan perjanjian internasional dengan negara tempat terjadinya Tindak Pidana.			
-6	0			Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang berada di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana menurut hukum internasional yang telah ditetapkan sebagai Tindak Pidana dalam Undang-Undang.			
-7	0			Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia yang penuntutannya diambil alih oleh Pemerintah Indonesia atas dasar suatu perjanjian internasional yang memberikan kewenangan kepada Pemerintah Indonesia untuk melakukan penuntutan pidana.			
-8	1			Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.			
-8	2			Ketentuan sebagaimana dimaksud pada ayat (1) berlaku jika perbuatan tersebut juga merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.	8	1	
-8	3			Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk Tindak Pidana yang diancam dengan pidana denda paling banyak kategori III.	8	1	
-8	4			Penuntutan terhadap Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan walaupun tersangka menjadi warga negara Indonesia, setelah Tindak Pidana tersebut dilakukan sepanjang perbuatan tersebut merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.	8	1	
-8	5			Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.	8	1	
-9	0			Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 8 dibatasi oleh hal yang dikecualikan menurut perjanjian internasional yang berlaku.	4,5,6,7,8		
-10	0			Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.			
-11	0			Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana.			
-12	1			Tindak Pidana merupakan perbuatan yang oleh peraturan perundangundangan diancam dengan sanksi pidana dan/atau tindakan.			
-12	2			Untuk dinyatakan sebagai Tindak Pidana, suatu perbuatan yang diancam dengan sanksi pidana dan/atau tindakan oleh peraturan perundangundangan harus bersifat melawan hukum atau bertentangan dengan hukum yang hidup dalam masyarakat.			
-12	3			Setiap Tindak Pidana selalu bersifat melawan hukum, kecuali ada alasan pembenar.			
-13	1			Permufakatan jahat terjadi jika 2 (dua) orang atau lebih bersepakat untuk melakukan Tindak Pidana.			
-13	2			Permufakatan jahat melakukan Tindak Pidana dipidana jika ditentukan secara tegas dalam Undang-Undang			
-13	3			Pidana untuk permufakatan jahat melakukan Tindak Pidana paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.			
-13	4			Permufakatan jahat melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.			
-13	5			Pidana tambahan untuk permufakatan jahat melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.			
-14	0			Permufakatan jahat melakukan Tindak Pidana tidak dipidana, jika pelaku:			
-14	0	a		menarik diri dari kesepakatan itu; atau			
-14	0	b		melakukan tindakan yang patut untuk mencegah terjadinya Tindak Pidana.			
-15	1			Persiapan melakukan Tindak Pidana terjadi jika pelaku berusaha untuk mendapatkan atau menyiapkan sarana berupa alat, mengumpulkan informasi atau menyusun perencanaan tindakan, atau melakukan tindakan serupa yang dimaksudkan untuk menciptakan kondisi untuk dilakukannya suatu perbuatan yang secara langsung ditujukan bagi penyelesaian Tindak Pidana.			
-15	2			Persiapan melakukan Tindak Pidana dipidana, jika ditentukan secara tegas dalam Undang-Undang.			
-15	3			Pidana untuk persiapan melakukan Tindak Pidana paling banyak 1/2 (satu per dua) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.			
-15	4			Persiapan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun.			
-15	5			Pidana tambahan untuk persiapan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.			
-16	0			Persiapan melakukan Tindak Pidana tidak dipidana jika pelaku menghentikan atau mencegah kemungkinan terciptanya kondisi sebagaimana dimaksud dalam Pasal 15 ayat (1).	15	1	
-17	1			Percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang, bukan karena semata-mata atas kehendaknya sendiri.			
-17	2			Permulaan pelaksanaan sebagaimana dimaksud pada ayat (1) terjadi jika:	17	1	
-17	2	a		perbuatan yang dilakukan itu diniatkan atau ditujukan untuk terjadinya Tindak Pidana; dan			
-17	2	b		perbuatan yang dilakukan langsung berpotensi menimbulkan Tindak Pidana yang dituju.			
-17	3			Pidana untuk percobaan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.			
-17	4			Percobaan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.			
-17	5			Pidana tambahan untuk percobaan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.			
-18	1			Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan pelaksanaan sebagaimana dimaksud dalam Pasal 17 ayat (1):	17	1	
-18	1	a		tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela; atau			
-18	1	b		dengan kehendaknya sendiri mencegah tercapainya tujuan atau akibat perbuatannya.			
-18	2			Dalam hal percobaan sebagaimana dimaksud pada ayat (1) telah menimbulkan kerugian atau menurut peraturan perundang-undangan merupakan Tindak Pidana tersendiri, pelaku dapat dipertanggungjawabkan untuk Tindak Pidana tersebut.	18	1	
-19	0			Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak dipidana.			
-20	0			Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:			
-20	0	a		melakukan sendiri Tindak Pidana;			
-20	0	b		melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan;			
-20	0	c		turut serta melakukan Tindak Pidana; atau			
-20	0	d		menggerakkan orang lain supaya melakukan Tindak Pidana dengan cara memberi atau menjanjikan sesuatu, menyalahgunakan kekuasaan atau martabat, melakukan Kekerasan, menggunakan Ancaman Kekerasan, melakukan penyesatan, atau dengan memberi kesempatan, sarana, atau keterangan.			
-21	1			Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja:			
-21	1	a		memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana; atau			
-21	1	b		memberi bantuan pada waktu Tindak Pidana dilakukan.			
-21	2			Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pembantuan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II.	21	1	
-21	3			Pidana untuk pembantuan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.			
-21	4			Pembantuan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.			
-21	5			Pidana tambahan untuk pembantuan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.			
-22	0			Keadaan pribadi pelaku sebagaimana dimaksud dalam Pasal 20 atau pembantu sebagaimana dimaksud dalam Pasal 21 dapat menghapus, mengurangi, atau memperberat pidananya.	20,21		
-23	1			Pengulangan Tindak Pidana terjadi jika Setiap Orang:			
-23	1	a		melakukan Tindak Pidana kembali dalam waktu 5 (lima) tahun setelah menjalani seluruh atau sebagian pidana pokok yang dijatuhkan atau pidana pokok yang dijatuhkan telah dihapuskan; atau			
-23	1	b		pada waktu melakukan Tindak Pidana, kewajiban menjalani pidana pokok yang dijatuhkan terdahulu belum kedaluwarsa.			
-23	2			Tindak Pidana sebagaimana dimaksud pada ayat (1) mencakup Tindak Pidana yang diancam dengan pidana minimum khusus, pidana penjara 4 (empat) tahun atau lebih, atau pidana denda paling sedikit kategori III.	23	1	
-23	3			Ketentuan sebagaimana dimaksud pada ayat (1) juga berlaku untuk Tindak Pidana mengenai penganiayaan.	23	1	
-24	1			Dalam hal tertentu, pelaku Tindak Pidana hanya dapat dituntut atas dasar pengaduan.			
-24	2			Tindak Pidana aduan harus ditentukan secara tegas dalam UndangUndang.			
-25	1			Dalam hal Korban Tindak Pidana aduan belum berumur 16 (enam belas) tahun, yang berhak mengadu merupakan Orang Tua atau walinya			
-25	2			Dalam hal Orang Tua atau wali sebagaimana dimaksud pada ayat (1) tidak ada atau Orang Tua atau wali itu sendiri yang harus diadukan, pengaduan dilakukan oleh keluarga sedarah dalam garis lurus.	25	1	
-25	3			Dalam hal keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga	25	2	
-25	4			Dalam hal Korban Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak memiliki Orang Tua, wali, atau keluarga sedarah dalam garis lurus ke atas ataupun menyamping sampai derajat ketiga, pengaduan dilakukan oleh diri sendiri dan/atau pendamping.	25	1	
-26	1			Dalam hal Korban Tindak Pidana aduan berada di bawah pengampuan, yang berhak mengadu merupakan pengampunya, kecuali bagi Korban Tindak Pidana aduan yang berada dalam pengampuan karena boros.			
-26	2			Dalam hal pengampu sebagaimana dimaksud pada ayat (1) tidak ada atau pengampu itu sendiri yang harus diadukan, pengaduan dilakukan oleh suami atau istri Korban atau keluarga sedarah dalam garis lurus.	26	1	
-26	3			Dalam hal suami atau istri Korban atau keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga.	26	2	
-27	0			Dalam hal Korban Tindak Pidana aduan meninggal dunia, pengaduan dapat dilakukan oleh Orang Tua, anak, suami, atau istri Korban, kecuali jika Korban sebelumnya secara tegas tidak menghendaki adanya penuntutan.			
-28	1			Pengaduan dilakukan dengan cara menyampaikan pemberitahuan dan permohonan untuk dituntut.			
-28	2			Pengaduan sebagaimana dimaksud pada ayat (1) diajukan secara lisan atau tertulis kepada Pejabat yang berwenang.	28	1	
-29	1			Pengaduan harus diajukan dalam tenggang waktu:			
-29	1	a		6 (enam) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana jika yang berhak mengadu bertempat tinggal di wilayah Negara Kesatuan Republik Indonesia; atau			
-29	1	b		9 (sembilan) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana jika yang berhak mengadu bertempat tinggal di luar wilayah Negara Kesatuan Republik Indonesia.			
-29	2			Jika yang berhak mengadu lebih dari 1 (satu) orang, tenggang waktu sebagaimana dimaksud pada ayat (1) dihitung sejak tanggal masing-masing pengadu mengetahui adanya Tindak Pidana.	29	1	
-30	1			Pengaduan dapat ditarik kembali oleh pengadu dalam waktu 3 (tiga) Bulan terhitung sejak tanggal pengaduan diajukan.			
-30	2			Pengaduan yang ditarik kembali tidak dapat diajukan lagi.			
-31	0			Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan ketentuan peraturan perundang-undangan.			
-32	0			Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan perintah jabatan dari Pejabat yang berwenang.			
-33	0			Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena keadaan darurat.			
-34	0			Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum terhadap diri sendiri atau orang lain, kehormatan dalam arti kesusilaan, atau harta benda sendiri atau orang lain.			
-35	0			Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam Pasal 12 ayat (2) merupakan alasan pembenar.	12	2	
-36	1			Setiap Orang hanya dapat dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan dengan sengaja atau karena kealpaan.			
-36	2			Perbuatan yang dapat dipidana merupakan Tindak Pidana yang dilakukan dengan sengaja, sedangkan Tindak Pidana yang dilakukan karena kealpaan dapat dipidana jika secara tegas ditentukan dalam peraturan perundang-undangan.			
-37	0			Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat:			
-37	0	a		dipidana semata-mata karena telah dipenuhinya unsur-unsur Tindak Pidana tanpa memperhatikan adanya kesalahan; atau			
-37	0	b		dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan oleh orang lain.			
-38	0			Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental dan/atau disabilitas intelektual dapat dikurangi pidananya dan/atau dikenai tindakan.			
-39	0			Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental yang dalam keadaan kekambuhan akut dan disertai gambaran psikotik dan/atau disabilitas intelektual derajat sedang atau berat tidak dapat dijatuhi pidana, tetapi dapat dikenai tindakan.			
-40	0			Pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan Tindak Pidana belum berumur 12 (dua belas) tahun.			
-41	0			Dalam hal anak yang belum berumur 12 (dua belas) tahun melakukan atau diduga melakukan Tindak Pidana, penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional mengambil keputusan untuk:			
-41	0	a		menyerahkan kembali kepada Orang Tua/wali; atau			
-41	0	b		mengikutsertakan dalam program pendidikan, pembinaan, dan pembimbingan di instansi pemerintah atau lembaga penyelenggaraan kesejahteraan sosial di instansi yang menangani bidang kesejahteraan sosial, baik pada tingkat pusat maupun daerah, paling lama 6 (enam) Bulan.			
-42	0			Setiap Orang yang melakukan Tindak Pidana tidak dipidana karena:			
-42	0	a		dipaksa oleh kekuatan yang tidak dapat ditahan; atau			
-42	0	b		dipaksa oleh adanya ancaman, tekanan, atau kekuatan yang tidak dapat dihindari.			
-43	0			Setiap Orang yang melakukan pembelaan terpaksa yang melampaui batas yang langsung disebabkan keguncangan jiwa yang hebat karena serangan atau ancaman serangan seketika yang melawan hukum, tidak dipidana.			
-44	0			Perintah jabatan yang diberikan tanpa wewenang tidak mengakibatkan hapusnya pidana, kecuali jika orang yang diperintahkan dengan iktikad baik mengira bahwa perintah tersebut diberikan dengan wewenang dan pelaksanaannya, termasuk dalam lingkup pekerjaannya.			
-45	1			Korporasi merupakan subjek Tindak Pidana.			
-45	2			Korporasi sebagaimana dimaksud pada ayat (1) mencakup badan hukum yang berbentuk perseroan terbatas, yayasan, koperasi, badan usaha milik negara, badan usaha milik daerah, atau yang disamakan dengan itu, serta perkumpulan baik yang berbadan hukum maupun tidak berbadan hukum, badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu sesuai dengan ketentuan peraturan perundangundangan.	45	1	
-46	0			Tindak Pidana oleh Korporasi merupakan Tindak Pidana yang dilakukan oleh pengurus yang mempunyai kedudukan fungsional dalam struktur organisasi Korporasi atau orang yang berdasarkan hubungan kerja atau berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bertindak demi kepentingan Korporasi, dalam lingkup usaha atau kegiatan Korporasi tersebut, baik secara sendiri-sendiri maupun bersama-sama.			
-47	0			Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.	46		
-48	0			Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:	46,47		
-48	0	a		termasuk dalam lingkup usaha atau kegiatan sebagaimana ditentukan dalam anggaran dasar atau ketentuan lain yang berlaku bagi Korporasi;			
-48	0	b		menguntungkan Korporasi secara melawan hukum;			
-48	0	c		diterima sebagai kebijakan Korporasi;			
-48	0	d		Korporasi tidak melakukan langkah-langkah yang diperlukan untuk melakukan pencegahan, mencegah dampak yang lebih besar dan memastikan kepatuhan terhadap ketentuan hukum yang berlaku guna menghindari terjadinya tindak pidana; dan/atau			
-48	0	e		Korporasi membiarkan terjadinya tindak pidana.			
-49	0			Pertanggungjawaban atas Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 48 dikenakan terhadap Korporasi, pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi.	48		
-50	0			Alasan pembenar dan alasan pemaaf yang dapat diajukan oleh pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi dapat juga diajukan oleh Korporasi sepanjang alasan tersebut berhubungan langsung dengan Tindak Pidana yang didakwakan kepada Korporasi.			
-51	0			Pemidanaan bertujuan:			
-51	0	a		mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat;			
-51	0	b		memasyarakatkan terpidana dengan mengadakan pembinaan dan pembimbingan agar menjadi orang yang baik dan berguna;			
-51	0	c		menyelesaikan konflik yang ditimbulkan akibat Tindak Pidana, memulihkan keseimbangan, serta mendatangkan rasa aman dan damai dalam masyarakat; dan			
-51	0	d		menumbuhkan rasa penyesalan dan membebaskan rasa bersalah pada terpidana.			
-52	0			Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia.			
-53	1			Dalam mengadili suatu perkara pidana, hakim wajib menegakkan hukum dan keadilan.			
-53	2			Jika dalam menegakkan hukum dan keadilan sebagaimana dimaksud pada ayat (1) terdapat pertentangan antara kepastian hukum dan keadilan, hakim wajib mengutamakan keadilan.	53	1	
-54	1			Dalam pemidanaan wajib dipertimbangkan:			
-54	1	a		bentuk kesalahan pelaku Tindak Pidana;			
-54	1	b		motif dan tujuan melakukan Tindak Pidana;			
-54	1	c		sikap batin pelaku Tindak Pidana;			
-54	1	d		Tindak Pidana dilakukan dengan direncanakan atau tidak direncanakan;			
-54	1	e		cara melakukan Tindak Pidana;			
-54	1	f		sikap dan tindakan pelaku sesudah melakukan Tindak Pidana;			
-54	1	g		riwayat hidup, keadaan sosial, dan keadaan ekonomi pelaku Tindak Pidana;			
-54	1	h		pengaruh pidana terhadap masa depan pelaku Tindak Pidana;			
-54	1	i		pengaruh Tindak Pidana terhadap Korban atau keluarga Korban;			
-54	1	j		pemaafan dari Korban dan/atau keluarga Korban; dan/atau			
-54	1	k		nilai hukum dan keadilan yang hidup dalam masyarakat.			
-54	2			Ringannya perbuatan, keadaan pribadi pelaku, atau keadaan pada waktu dilakukan Tindak Pidana serta yang terjadi kemudian dapat dijadikan dasar pertimbangan untuk tidak menjatuhkan pidana atau tidak mengenakan tindakan dengan mempertimbangkan segi keadilan dan kemanusiaan.			
-55	0			Setiap Orang yang melakukan Tindak Pidana tidak dibebaskan dari pertanggungjawaban pidana berdasarkan alasan peniadaan pidana jika orang tersebut telah dengan sengaja menyebabkan terjadinya keadaan yang dapat menjadi alasan peniadaan pidana tersebut.			
-56	0			Dalam pemidanaan terhadap Korporasi wajib dipertimbangkan:			
-56	0	a		tingkat kerugian atau dampak yang ditimbulkan;			
-56	0	b		tingkat keterlibatan pengurus yang mempunyai kedudukan fungsional Korporasi dan/atau peran pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi;			
-56	0	c		lamanya Tindak Pidana yang telah dilakukan;			
-56	0	d		frekuensi Tindak Pidana oleh Korporasi;			
-56	0	e		bentuk kesalahan Tindak Pidana;			
-56	0	f		keterlibatan Pejabat;			
-56	0	g		nilai hukum dan keadilan yang hidup dalam masyarakat;			
-56	0	h		rekam jejak Korporasi dalam melakukan usaha atau kegiatan;			
-56	0	i		pengaruh pemidanaan terhadap Korporasi; dan/atau			
-56	0	j		kerja sama Korporasi dalam penanganan Tindak Pidana.			
-57	0			Dalam hal Tindak Pidana diancam dengan pidana pokok secara alternatif, penjatuhan pidana pokok yang lebih ringan harus lebih diutamakan, jika hal itu dipertimbangkan telah sesuai dan dapat menunjang tercapainya tujuan pemidanaan.			
-58	0			Faktor yang memperberat pidana meliputi:			
-58	0	a		Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;			
-58	0	b		penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau			
-58	0	c		pengulangan Tindak Pidana.			
-59	0			Pemberatan sebagaimana dimaksud dalam Pasal 58 dapat ditambah paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana.	58		
-60	1			Pidana penjara dan pidana tutupan bagi terpidana yang sudah berada di dalam tahanan mulai berlaku pada saat putusan pengadilan telah memperoleh kekuatan hukum tetap.			
-60	2			Dalam hal terpidana tidak berada di dalam tahanan, pidana sebagaimana dimaksud pada ayat (1) berlaku pada saat putusan pengadilan mulai dilaksanakan.	60	1	
-61	1			Pidana penjara untuk waktu tertentu atau pidana denda yang dijatuhkan dikurangi seluruh atau sebagian masa penangkapan dan/atau penahanan yang telah dijalani terdakwa sebelum putusan pengadilan memperoleh kekuatan hukum tetap.			
-61	2			Pengurangan pidana denda sebagaimana dimaksud pada ayat (1) disepadankan dengan penghitungan pidana penjara pengganti denda.	61	1	
-62	1			Permohonan grasi tidak menunda pelaksanaan putusan pemidanaan bagi terpidana, kecuali dalam hal putusan pidana mati.			
-62	2			Ketentuan mengenai syarat dan tata cara permohonan grasi sebagaimana dimaksud pada ayat (1) diatur dalam Undang-Undang.	62	1	
-63	0			Jika narapidana melarikan diri, masa selama narapidana melarikan diri tidak diperhitungkan sebagai waktu menjalani pidana penjara.			
-64	0			Pidana terdiri atas:			
-64	0	a		pidana pokok;			
-64	0	b		pidana tambahan; dan			
-64	0	c		pidana yang bersifat khusus untuk Tindak Pidana tertentu yang ditentukan dalam Undang-Undang.			
-65	1			Pidana pokok sebagaimana dimaksud dalam Pasal 64 huruf a terdiri atas:	64		
-65	1	a		pidana penjara;			
-65	1	b		pidana tutupan;			
-65	1	c		pidana pengawasan;			
-65	1	d		pidana denda; dan			
-65	1	e		pidana kerja sosial			
-65	2			Urutan pidana sebagaimana dimaksud pada ayat (1) menentukan berat atau ringannya pidana.	65	1	
-66	1			Pidana tambahan sebagaimana dimaksud dalam Pasal 64 huruf b terdiri atas:	64	0	b
-66	1	a		pencabutan hak tertentu;			
-66	1	b		perampasan Barang tertentu dan/atau tagihan;			
-66	1	c		pengumuman putusan hakim;			
-66	1	d		pembayaran ganti rugi;			
-66	1	e		pencabutan izin tertentu; dan			
-66	1	f		pemenuhan kewajiban adat setempat.			
-66	2			Pidana tambahan sebagaimana dimaksud pada ayat (l) dapat dikenakan dalam hal penjatuhan pidana pokok saja tidak cukup untuk mencapai tujuan pemidanaan.	66	1	
-66	3			Pidana tambahan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan 1 (satu) jenis atau lebih.	66	1	
-66	4			Pidana tambahan untuk percobaan dan pembantuan sama dengan pidana tambahan untuk Tindak Pidananya.			
-66	5			Pidana tambahan bagi anggota Tentara Nasional Indonesia yang melakukan Tindak Pidana dalam perkara koneksitas dikenakan sesuai dengan ketentuan peraturan perundang-undangan bagi Tentara Nasional Indonesia.			
-67	0			Pidana yang bersifat khusus sebagaimana dimaksud dalam Pasal 64 huruf c merupakan pidana mati yang selalu diancamkan secara alternatif.	64	0	c
-68	1			Pidana penjara dijatuhkan untuk seumur hidup atau untuk waktu tertentu.			
-68	2			Pidana penjara untuk waktu tertentu dijatuhkan paling lama 15 (lima belas) tahun berturut turut atau paling singkat 1 (satu) Hari, kecuali ditentukan minimum khusus.			
-68	3			Dalam hal terdapat pilihan antara pidana mati dan pidana penjara seumur hidup atau terdapat pemberatan pidana atas Tindak Pidana yang dijatuhi pidana penjara 15 (lima belas) tahun, pidana penjara untuk waktu tertentu dapat dijatuhkan untuk waktu 20 (dua puluh) tahun berturut turut.			
-68	4			Pidana penjara untuk waktu tertentu tidak boleh dijatuhkan lebih dari 20 (dua puluh) tahun.			
-69	1			Jika narapidana yang menjalani pidana penjara seumur hidup telah menjalani pidana penjara paling singkat 15 (lima belas) tahun, pidana penjara seumur hidup dapat diubah menjadi pidana penjara 20 (dua puluh) tahun dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.			
-69	2			Ketentuan mengenai tata cara perubahan pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.	69	1	
-70	1			Dengan tetap mempertimbangkan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, pidana penjara sedapat mungkin tidak dijatuhkan jika ditemukan keadaan:	51,52,53,54		
-70	1	a		terdakwa adalah Anak;			
-70	1	b		terdakwa berumur di atas 75 (tujuh puluh lima) tahun;			
-70	1	c		terdakwa baru pertama kali melakukan Tindak Pidana;			
-70	1	d		kerugian dan penderitaan Korban tidak terlalu besar;			
-70	1	e		terdakwa telah membayar ganti rugi kepada Korban;			
-70	1	f		terdakwa tidak menyadari bahwa Tindak Pidana yang dilakukan akan menimbulkan kerugian yang besar;			
-70	1	g		Tindak Pidana terjadi karena hasutan yang sangat kuat dari orang lain;			
-70	1	h		Korban Tindak Pidana mendorong atau menggerakkan terjadinya Tindak Pidana tersebut;			
-70	1	i		Tindak Pidana tersebut merupakan akibat dari suatu keadaan yang tidak mungkin terulang lagi;			
-70	1	j		kepribadian dan perilaku terdakwa meyakinkan bahwa ia tidak akan melakukan Tindak Pidana yang lain;			
-70	1	k		pidana penjara akan menimbulkan penderitaan yang besar bagi terdakwa atau keluarganya;			
-70	1	l		pembinaan di luar lembaga pemasyarakatan diperkirakan akan berhasil untuk diri terdakwa;			
-70	1	m		penjatuhan pidana yang lebih ringan tidak akan mengurangi sifat berat Tindak Pidana yang dilakukan terdakwa;			
-70	1	n		Tindak Pidana terjadi di kalangan keluarga; dan/atau			
-70	1	o		Tindak Pidana terjadi karena kealpaan.			
-70	2			Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi:	70	1	
-70	2	a		Tindak Pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;			
-70	2	b		Tindak Pidana yang diancam dengan pidana minimum khusus;			
-70	2	c		Tindak Pidana tertentu yang sangat membahayakan atau merugikan masyarakat; atau			
-70	2	d		Tindak Pidana yang merugikan keuangan atau perekonomian negara.			
-71	1			Jika seseorang melakukan Tindak Pidana yang hanya diancam dengan pidana penjara di bawah 5 (lima) tahun, sedangkan hakim berpendapat tidak perlu menjatuhkan pidana penjara setelah mempertimbangkan tujuan pemidanaan dan pedoman pemidanaan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, orang tersebut dapat dijatuhi pidana denda.	51,52,53,54		
-71	2			Pidana denda sebagaimana dimaksud pada ayat (1) hanya dapat dijatuhkan jika:	71	1	
-71	2	a		tanpa Korban;			
-71	2	b		Korban tidak mempermasalahkan; atau			
-71	2	c		bukan pengulangan Tindak Pidana.			
-71	3			Pidana denda yang dapat dijatuhkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1) adalah pidana denda paling banyak kategori V dan pidana denda paling sedikit kategori III.	71	1	
-71	4			Ketentuan sebagaimana dimaksud pada ayat (2) huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan sebelum berumur 18 (delapan belas) tahun.	71	2	c
-72	1			Narapidana yang telah menjalani paling singkat 2/3 (dua per tiga) dari pidana penjara yang dijatuhkan dengan ketentuan 2/3 (dua per tiga) tersebut tidak kurang dari 9 (sembilan) Bulan dapat diberi pembebasan bersyarat.			
-72	2			Narapidana yang menjalani beberapa pidana penjara berturut turut rlianggap jumlah pidananya sebagai 1 (satu) pidana.			
-72	3			Dalam memberikan pembebasan bersyarat sebagaimana dimaksud pada ayat (1), ditentukan masa percobaan dan syarat yang harus dipenuhi selama masa percobaan.	72	1	
-72	4			Masa percobaan sebagaimana dimaksud pada ayat (3) sama dengan sisa waktu pidana penjara yang belum dijalani ditambah dengan 1 (satu) tahun.	72	3	
-72	5			Narapidana sebagaimana dimaksud pada ayat (1) yang ditahan sebagai tersangka atau terdakwa dalam perkara lain tidak diperhitungkan waktu penahanannya sebagai masa percobaan.	72	1	
-73	1			Syarat yang harus dipenuhi selama masa percobaan sebagaimana dimalsud dalam Pasal 72 ayal (3) terdiri atas:	72	3	
-73	1	a		syarat umum berupa narapidana tidak akan melakukan Tindak Pidana; dan			
-73	1	b		syarat khusus berupa narapidana harus melakukan atau tidak melakukan perbuatan tertentu, tanpa mengurangi kemerdekaan beragama, menganut kepercayaan, dan berpolitik, kecuali ditentukan lain oleh hakim.			
-73	2			Syarat khusus sebagaimana dimaksud pada ayat (1) huruf b dapat diubah, dihapus, atau diadakan syarat baru yang semata-mata bertujuan untuk pembimbingan narapidana.	73	1	b
-73	3			Narapidana yang melanggar syarat sebagaimana dimaksud pada ayat (1) dapat dicabut pembebasan bersyaratnya.	73	1	
-73	4			Pembebasan bersyarat sebagaimana dimaksud pada ayat (3) tidak dapat dicabut setelah melampaui 3 (tiga) Bulan terhitung sejak saat habisnya masa percobaan, kecuali dalam waktu 3 (tiga) Bulan terhitung sejak habisnya masa percobaan, narapidana dituntut karena melakukan Tindak Pidana yang dilakukan dalam masa percobaan.	73	3	
-73	5			Dalam hal narapidana sebagaimana dimaksud pada ayat (4) dijatuhi pidana penjara untuk waktu tertentu atau pidana denda paling sedikit kategori [I, pembebasan bersyarat yang bersangkutan dicabut.	73	4	
-74	1			Orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara karena keadaan pribadi, perbuatannya dapat dijatuhi pidana tutupan.			
-74	2			Pidana tutupan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan kepada terdakwa yang melakukan Tindak Pidana karena terdorong oleh maksud yang patut dihormati.	74	1	
-74	3			Ketentuan sebagaimana dimaksud pada ayat (2) tidak berlaku, jika cara melakukan atau akibat dari Tindak Pidana tersebut sedemikian rupa sehingga terdakwa lebih tepat untuk dljatuhi pidana penjara.	74	2	
-75	0			Terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara paling lama 5 (lima) tahun dapat dijatuhi pidana pengawasan dengan tetap memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54 dan Pasal 70.	51,52,53,54,70		
-76	1			Pidana pengawasan sebagaimana dimaksud dalam Pasal 75 dijatuhkan paling lama sama dengan pidana penjara yang diancamkan yang tidak lebih dari 3 (tiga) tahun.	75		
-76	2			Dalam putusan pidana pengawasan ditetapkan syarat umum, berupa terpidana tidak akan melakukan Tindak Pidana lagi.			
-76	3			Selain syarat umum sebagaimana dimaksud pada ayat (2), dalam putusan juga dapat ditetapkan syarat khusus, berupa:	76	2	
-76	3	a		terpidana dalam waktu tertentu yang lebih pendek dari masa pidana pengawasan harus mengganti seluruh atau sebagian kemgian yang timbul akibat Tindak Pidana yang dilakukan; dan/atau			
-76	3	b		terpidana harus melakukan atau tidak melakukan sesuatu tanpa mengurangi kemerdekaan beragama, kemerdekaan menganut kepercayaan, dan/atau kemerdekaan berpolitik.			
-76	4			Dalam hal terpidana melanggar syarat umum sebagaimana dimaksud pada ayat (2), terpidana wajib menjalani pidana penjara yang lamanya tidak lebih dari ancarnan pidana penjara bagi Tindak Pidana itu.	76	2	
-76	5			Dalam hal terpidana melanggar syarat khusus tanpa alasan yang sah, jaksa berdasarkan pertimbangan pembimbing kemasyarakatan mengusulkan kepada hakim agar terpidana menjalani pidana penjara atau memperpanjang masa pengawasan yang ditentukan oleh hakim yang lamanya tidak lebih dari pidana pengawasan yang dij atuhkan.			
-76	6			Jaksa dapat mengusulkan pengurangan masa pengawasan kepada hakim jika selama dalam pengawasan terpidana menunjukkan kelakuan yang baik, berdasarkan pertimbangan pembimbing kemasyarakatan.			
-76	7			Ketentuan lebih lanjut tentang tata cara dan batas pengurangan dan perpanjangan masa pengawasan diatur dengan Peraturan Pemerintah.			
-77	1			Jika terpidana selama menjalani pidana pengawasan melakukan Tindak Pidana dan dijatuhi pidana yang bukan pidana mati atau bukan pidana penjara, pidana pengawasan tetap dilaksanakan.			
-77	2			Jika terpidana dijatuhi pidana penjara, pidana pengawasan ditunda dan dilaksanakan kembali setelah terpidana selesai menjalani pidana penjara.			
-78	1			Pidana denda merupakan sejumlah uang yang wajib dibayar oleh terpidana berdasarkan putusan pengadilan.			
-78	2			Jika tidak ditentukan minimum khusus, pidana denda ditetapkan paling sedikit Rp50.000,00 (lima puluh ribu rupiah).			
-79	1			Pidana denda paling banyak ditetapkan berdasarkan:			
-79	1	a		kategori I, Rp1.000.000,00 (satu juta rupiah);			
-79	1	b		kategori II, Rp10.000.000,00 (sepuluh juta rupiah);			
-79	1	c		kategori III, Rp50.000.000,00 (lima puluh juta rupiah);			
-79	1	d		kategori IV, Rp200.000.000,00 (dua ratus juta rupiah);			
-79	1	e		kategori V, Rp500.000.000,00 (lima ratus juta rupiah);			
-79	1	f		kategori VI, Rp2.000.000.000,00 (dua miliar rupiah);			
-79	1	g		kategori VII, Rp5.000.000.000,00 (lima miliar rupiah); dan			
-79	1	h		kategori VIII, Rp50.000.000.000,00 (lima puluh miliar rupiah).			
-79	2			Dalam hal terjadi perubahan nilai uang, ketentuan besarnya pidana denda ditetapkan dengan Peraturan Pemerintah.			
-80	1			Dalam menjatuhkan pidana denda, hakim wajib mempertimbangkan kemampuan terdakwa dengan memperhatikan penghasilan dan pengeluaran terdakwa secara nyata,			
-80	2			Ketentuan sebagaimana dimaksud pada ayat (1) tidak mengurangi penerapan minimum khusus pidana denda yang ditetapkan.	80	1	
-81	1			Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan. 			
-81	2			Putusan pengadilan sebagaimana dimaksud pada ayat (1) dapat menentukan pembayaran pidana denda dengan cara mengangsur.	81	1	
-81	3			Jika pidana denda sebagaimana dimaksud pada ayat (1) tidak dibayar dalam jangka waktu yang telah ditentukan, kekayaan atau pendapatan terpidana dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.	81	1	
-82	1			Jika penyitaan dan pelelangan kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 81 ayat (3) tidak cukup atau tidak memungkinkan untuk dilaksanakan, pidana denda yang tidak dibayar tersebut diganti dengan pidana penjara, pidana pengawasan, atau pidana kerja sosial dengan ketentuan pidana denda tersebut tidak melebihi pidana denda kategori II.	81	3	
-82	2			Lama pidana pengganti sebagaimana dimaksud pada ayat (1) meliputi:	82	1	
-82	2	a		untuk pidana penjara pengganti, paling singkat 1 (satu) Bulan dan paling lama 1 (satu) tahun yang dapat diperberat paling lama 1 (satu) tahun 4 (empat) Bulan jika ada perbarengan;			
-82	2	b		untuk pidana pengawasan pengganti, paling singkat 1 (satu) Bulan dan paling lama 1 (satu) tahun, berlaku syarat-syarat sebagaimana dimaksud dalam Pasal 76 ayat (2) dan ayat (3); atau	76,76	2,3	
-82	2	c		untuk pidana kerja sosial pengganti paling singkat 8 (delapan) jam dan paling lama 240 (dua ratus empat puluh) jam.			
-82	3			Jika pada saat menjalani pidana pengganti sebagian pidana denda dibayar, lama pidana pengganti dikurangi menurut ukuran yang sepadan.			
-82	3			Perhitungan lama pidana pengganti sebagaimana dimaksud pada ayat (3) didasarkan pada ukuran untuk setiap pidana denda Rp50.000,00 (lima puluh ribu rupiah) atau kurang yang disepadankan dengan:	82	3	
-82	4	a		1 (satu) jam pidana kerja sosial pengganti; atau			
-82	4	b		1 (satu) Hari pidana pengawasan atau pidana penjara pengganti.			
-83	1			Jika penyitaan dan pelelangan kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 81 ayat (3) tidak dapat dilakukan, pidana denda di atas kategori II yang tidak dibayar diganti dengan pidana penjara paling singkat I (satu) tahun dan paling lama sebagaimana diancamkan untuk Tindak Pidana yang bersangkutan.	81	3	
-83	2			Ketentuan sebagaimana dimaksud dalam Pasal 82 ayat (3) berlaku juga untuk ketentuan sebagaimana dimaksud pada ayat (1) sepanjang mengenai pidana penjara pengganti.	82,83	3,1	
-84	0			Setiap Orang yang telah berulang kali dijatuhi pidana denda untuk Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II dapat dijatuhi pidana pengawasan paling lama 6 (enam) Bulan dan pidana denda yang diperberat paling banyak 1/3 (satu per tiga).			
-85	1			Pidana kerja sosial dapat dijatuhkan kepada terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara kurang dari 5 (lima) tahun dan hakim menjatuhkan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.			
-85	2			Dalam menjatuhkan pidana kerja sosial sebagaimana dimaksud pada ayat (1), hakim wajib mempertimbangkan:	85	1	
-85	2	a		pengakuan terdakwa terhadap Tindak Pidana yang dilakukan;			
-85	2	b		kemampuan kerja terdakwa;			
-85	2	c		persetujuan terdakwa sesudah dijelaskan mengenai tujuan dan segala hal yang berhubungan dengan pidana kerja sosial;			
-85	2	d		riwayat sosial terdakwa;			
-85	2	e		pelindungan keselamatan kerja terdalwa;			
-85	2	f		agama, kepercayaan, dan keyakinan politik terdakwa; dan			
-85	2	g		kemampuan terdakwa membayar pidana denda			
-85	7	a		mengulangi seluruh atau sebagian pidana kerja sosial tersebut;			
-85	7	b		menjalani seluruh atau sebagian pidana penjara yang diganti dengan pidana kerja sosial tersebut; atau			
-85	7	c		membayar seluruh atau sebagian pidana denda yang diganti dengan pidana kerja sosial atau menjalani pidana penjara sebagai pengganti pidana denda yang tidak dibayar.			
-85	9	a		lama pidana penjara atau besarnya denda yang sesungguhnya dijatuhkan oleh hakim;			
-85	9	b		lama pidana kerja sosial harus dijalani, dengan mencantumkan jumlah jam per Hari dan jangka waktu penyelesaian pidana kerja sosial; dan			
-85	9	c		sanksi jika terpidana tidak menjalani pidana kerja sosial yang dijatuhkan.			
-86	0			Pidana tambahan berupa pencabutan hak tertentu sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf a dapat berupa:	66	1	a
-86	0	a		hak memegang jabatan publik pada umumnya atau jabatan tertentu;			
-86	0	b		hak menjadi anggota Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia;			
-86	0	c		hak memilih dan dipilih dalam pemilihan yang diadakan sesuai dengan ketentuan peraturan perundangundangan;			
-86	0	d		hak menjadi wali, wali pengawas, pengampu, atau pengampu pengawas atas orang yang bukan Anaknya sendiri;			
-86	0	e		hak menjalankan Kekuasaan Ayah, menjalankan perwalian, atau mengampu atas Anaknya sendiri;			
-86	0	f		hak menjalankan profesi tertentu; dan/atau			
-86	0	g		hak memperoleh pembebasan bersyarat.			
-87	0			Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan huruf f hanya dapat dilakukan jika pelaku dipidana karena melakukan Tindak Pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih berupa:	86,86,86	0,0,0	a,c,f
-87	0	a		Tindak Pidana terkait jabatan atau Tindak Pidana yang melanggar kewajiban khusus suatu jabatan;			
-87	0	b		Tindak Pidana yang terkait dengan profesinya; atau			
-87	0	c		Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan atau profesinya.			
-88	0			Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf d dan huruf e, hanya dapat dilakukan jika pelaku dipidana karena:	86,86	0,0	d,e
-88	0	a		dengan sengaja melakukan Tindak Pidana bersama-sama dengan Anak yang berada dalam kekuasaannya; atau			
-88	0	b		melakukan Tindak Pidana terhadap Anak yang berada dalam kekuasaannya.			
-89	0			Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf g hanya dapat dilakukan jika pelaku dipidana karena:	86	0	g
-89	0	a		melakukan Tindak Pidana jabatan atau Tindak Pidana yang melanggar kewajiban khusus suatu jabatan;			
-89	0	b		menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan; atau			
-89	0	c		melakukan Tindak Pidana yang diancam dengan pidana penjara paling lama 15 (lima belas) tahun atau lebih.			
-90	1			Jika pidana pencabutan hak dijatuhkan, lama pencabutan wajib ditentukan jika:			
-90	1	a		dijatuhi pidana mati atau pidana penjara seumur hidup, pencabutan hak dilakukan untuk selamanya;			
-90	1	b		dijatuhi pidana penjara, pidana tutupan, atau pidana pengawasan untuk waktu tertentu, pencabutan hak dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang diiatuhkan; atau			
-90	1	c		dijatuhi pidana denda, pencabutan hak dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun.			
-90	2			Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak berlaku jika yang dicabut adalah hak memperoleh pembebasan bersyarat.	90	1	b
-90	3			Pidana pencabutan hak mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.			
-91	0			Pidana tambahan berupa perarmpasan Barang tertentu dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/ atau tagihan:	66	1	b
-91	0	a		yang dipergunakan untuk mewujudkan atau mempersiapkan Tindak Pidana;			
-91	0	b		yang khusus dibuat atau diperuntukkan mewujudkan Tindak Pidana;			
-91	0	c		yang berhubungan dengan terwujudnya Tindak Pidana;			
-91	0	d		milik terpidana atau orang lain yang diperoleh dari Tindak Pidana;			
-91	0	e		dari keuntungan ekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana; dan/atau			
-91	0	f		yang dipergunakan untuk menghalang-halangi penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan.			
-92	1			Pidana tambahan berupa perampasan Barang tertent sebagaimana dimaksud dalam Pasal 91 dapat dijatuhkan atas Barang yang tidak disita dengan menentukan bahwa Barang tersebut harus diserahkan atau diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.	91		
-92	2			Dalam hal Barang yang tidak disita sebagaimana dimaksud pada ayat (1) tidak dapat diserahkan, Barang tersebut diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.	92	1	
-92	3			Jika terpidana tidak mampu membayar seluruh atau sebagian harga pasar sebagaimana dimaksud pada ayat (21, diberlakukan ketentuan pidana pengganti untuk pidana denda.	92	2	
-93	1			Jika dalam putusan pengadilan diperintahkan supaya putusan diumumkan, harus ditetapkan cara melaksanakan pengumuman tersebut dengan biaya yang ditanggung oleh terpidana.			
-93	2			Jika biaya pengumuman sebagaimana dimaksud pada ayat (1) tidak dibayar oleh terpidana, diberlakukan ketentuan pidana pengganti untuk pidana denda.	93	1	
-94	1			Dalam putusan pengadilan dapat ditetapkan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada Korban atau ahli waris sebagai pidana tambahan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf d.	66	1	d
-94	2			Jika kewajiban pembayaran ganti rugi sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, diberlakukan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83 secara mutatis mutandis.	94,81,82,83	1	
-95	1			Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.			
-95	2			Pencabutan izin sebagaimana dimaksud pada ayat (1) dilakukan dengan mempertimbangkan:	1	1	
-95	2	a		keadaan yang menyertai Tindak Pidana yang dilakukan;			
-95	2	b		keadaan yang menyertai pelaku dan pembantu Tindak Pidana; dan			
-95	2	c		keterkaitan kepemilikan izin dengan usaha atau kegiatan yang dilakukan.			
-95	3			Dalam hal dijatuhi pidana penjara, pidana tutupan, atau pidana pengawasan untuk waktu tertentu, pencabutan izin dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang dijatuhkan.			
-95	4			Dalam hal dljatuhi pidana denda, pencabutan izin berlaku paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun.			
-95	5			Pidana pencabutan izin mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.			
-96	1			Pidana tambahan berupa pemenuhan kewajiban adat setempat diutamakan jika Tindak Pidana yang dilakukan memenuhi ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (2).	2	2	
-96	2			Pemenuhan kewajiban adat setempat sebagaimana dimaksud pada ayat (1) dianggap sebanding dengan pidana denda kategori II.	96	1	
-96	3			Dalam hal kewajiban adat sebagaimana dimaksud pada ayat (1) tidak dipenuhi, pemenuhan kewajiban adat diganti dengan ganti rugi yang nilainya setara dengan pidana denda kategori II.	96	1	
-96	4			Dalam hal ganti rugi sebagaimana dimaksud pada ayat (3) tidak dipenuhi, ganti rugi diganti dengan pidana pengawasan atau pidana kerja sosial.	96	3	
-97	0			Pidana tambahan berupa pemenuhan kewajiban adat setempat dapat dijatuhkan walaupun tidak tercantum dalam perumusan Tindak Pidana dengan tetap memperhatikan ketentuan Pasal 2 ayat(2).	2	2	
-98	0			Pidana mati diancamkan secara alternatif sebagai upaya terakhir untuk mencegah dilakukannya Tindak Pidana dan mengayomi masyarakat.			
-99	1			Pidana mati dapat dilaksanakan setelah permohonan grasi bagi terpidana ditolak Presiden.			
-99	2			Pidana mati sebagaimana dimaksud pada ayat (1) tidak dilaksanakan Di Muka Umum.	99	1	
-99	3			Pidana mati dilaksanakan dengan menembak terpidana sampai mati oleh regu tembak atau dengan cara lain yang ditentukan dalam Undang-Undang.			
-99	4			Pelaksanaan pidana mati terhadap perempuan hamil, perempuan yang sedang menyusui bayinya, atau orang yang sakit jiwa ditunda sampai perempuan tersebut melahirkan, perempuan tersebut tidak lagi menyusui bayinya, atau orang yang sakit jiwa tersebut sembuh.			
-100	1			Hakim menjatuhkan pidana mati dengan masa percobaan selama 10 (sepuluh) tahun dengan memperhatikan:			
-100	1	a		rasa penyesalan terdakwa dan ada harapan untuk memperbaiki diri; atau			
-100	1	b		peran terdakwa dalam Tindak Pidana.			
-100	2			Pidana mati dengan masa percobaan sebagaimana dimaksud pada ayat (1) harus dicantumkan dalam putusan pengadilan.	100	1	
-100	3			Tenggang waktu masa percobaan 10 (sepuluh) tahun dimulai 1 (satu) Hari setelah putusan pengadilan memperoleh kekuatan hukum tetap.			
-100	4			Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) menunjukkan sikap dan perbuatan yang terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.	100	1	
-100	5			Pidana penjara seumur hidup sebagaimana dimaksud pada ayat (4) dihitung sejak Keputusan Presiden ditetapkan.	100	4	
-100	6			Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) tidak menunjukkan sikap dan perbuatan yang terpuji serta tidak ada harapan untuk diperbaiki, pidana mati dapat dilaksanakan atas perintah Jaksa Agung.	100	1	
-101	0			Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden.			
-102	0			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana mati diatur dengan Undang-Undang.			
-103	1			Tindakan yang dapat dikenakan bersama-sama dengan pidana pokok berupa:			
-103	1	a		konseling;			
-103	1	b		rehabilitasi;			
-103	1	c		pelatihan kerja;			
-103	1	d		perawatan di lembaga; dan/atau			
-103	1	e		perbaikan akibat Tindak Pidana.			
-103	2			Tindakan yang dapat dikenakan kepada Setiap Orang sebagaimana dimaksud dalam Pasal 38 dan Pasal 39 berupa:	38,39		
-103	2	a		rehabilitasi;			
-103	2	b		penyerahan kepada seseorang;			
-103	2	c		perawatan di lembaga;			
-103	2	d		penyerahan kepada pemerintah; dan/atau			
-103	2	e		perawatan di rumah sakit jiwa.			
-103	3			Jenis, jangka waktu, tempat, dan/atau pelaksanaan tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan dalam putusan pengadilan.	103,103	1,2	
-104	0			Dalam menjatuhkan putusan berupa tindakan, hakim wajib memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54.	51,52,53,54		
-105	1			Tindakan rehabilitasi dikenalan kepada terdakwa yang:			
-105	1	a		kecanduan alkohol, narkotika, psikotropika, dan zat adiktif lainnya; dan/atau			
-105	1	b		menyandang disabilitas mental dan/atau disabilitas intelektual.			
-105	2			Rehabilitasi sebagaimana dimaksud pada ayat (1) terdiri atas:	105	1	
-105	2	a		rehabilitasi medis;			
-105	2	b		rehabilitasi sosial; dan			
-105	2	c		rehabilitasi psikososial.			
-106	1			Dalam mengenakan tindakan pelatihan kerja, hakim wajib mempertimbangkan :			
-106	1	a		kemanfaatan bagi terdakwa;			
-106	1	b		kemampuan terdakwa; dan			
-106	1	c		jenis pelatihan kerja.			
-106	2			Dalam menentukan jenis pelatihan kerja sebagaimana dimaksud pada ayat (1) huruf c, hakim wajib memperhatikan pengalaman kerja dan tempat tinggal terdakwa.	106	1	c
-107	0			Tindakan perawatan di lembaga dikenakan berdasarkan keadaan pribadi terdakwa serta demi kepentingan terdakwa dan masyarakat.			
-108	0			Tindakan perbaikan akibat Tindak Pidana adalah upaya memulihkan atau memperbaiki kerusakan akibat Tindak Pidana menjadi seperti semula.			
-109	0			Tindakan penyerahan terdakwa kepada pemerintah atau seseorang dikenakan demi kepentingan terdakwa dan masyarakat.			
-110	1			Tindakan perawatan di rumah sakit jiwa dikenakan terhadap terdakwa yang dilepaskan dari segala tuntutan hukum dan masih dianggap berbahaya berdasarkan hasil penilaian dokter jiwa.			
-110	2			Penghentian tindakan perawatan di rumah sakit jiwa dilakukan jika yang bersangkutan tidak memerlukan perawatan lebih lanjut berdasarkan hasil penilaian dokter jiwa.			
-110	3			Penghentian tindakan sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan penetapan halim yang memeriksa perkara pada tingkat pertama yang diusulkan oleh jaksa.	110	2	
-111	0			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan sebagaimana dimaksud dalam Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan Pemerintah.	68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110		
-112	0			Anak yang melakukan Tindak Pidana yang diancam dengan pidana penjara di bawah 7 (tujuh) tahun dan bukan merupakan pengulangan Tindak Pidana wajib diupayakan diversi.			
-113	1			Setiap Anak dapat dikenai tindakan berupa:			
-113	1	a		pengembalian kepada Orang Tua/wali;			
-113	1	b		penyerahan kepada seseorang;			
-113	1	c		perawatan di rumah sakit jiwa;			
-113	1	d		perawatan di lembaga;			
-113	1	e		kewajiban mengikuti pendidikan formal dan/atau pelatihan yang diadakan oleh pemerintah atau badan swasta;			
-113	1	f		pencabutan Surat izin mengemudi; dan/atau			
-113	1	g		perbaikan akibat Tindak Pidana.			
-113	2			Tindakan sebagaimana dimaksud pada ayat (1) huruf d, huruf e, dan huruf f dikenakan paling lama 1 (satu) tahun.	113	1,1,1	d,e,f
-113	3			Anak di bawah umur 14 (empat belas) tahun tidak dapat dijatuhi pidana dan hanya dapat dikenai tindakan.			
-114	0			Pidana yang dapat dijatuhkan terhadap Anak berupa:			
-114	0	a		pidana pokok; dan			
-114	0	b		pidana tambahan.			
-115	0			Pidana pokok sebagaimana dimaksud dalam Pasal 114 huruf a terdiri atas:	114	0	a
-115	0	a		pidana peringatan;			
-115	0	b		pidana dengan syarat:			
-115	0	b	1	pembinaan di luar lembaga;			
-115	0	b	2	pelayanan masyarakat; atau			
-115	0	b	3	pengawasan.			
-115	0	c		pelatihan kerja;			
-115	0	d		pembinaan dalam lembaga; dan			
-115	0	e		pidana penjara.			
-116	0			Pidana tambahan sebagaimana dimaksud dalam Pasal 114 huruf b terdiri atas:	114	0	b
-116	0	a		perampasan keuntungan yang diperoleh dari Tindak Pidana; atau			
-116	0	b		pemenuhan kewajiban adat.			
-117	0			Ketentuan mengenai diversi, tindakan, dan pidana sebagaimana dimaksud dalam Pasal 112 sampai dengan Pasal 116 dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.	112,113,114,115,116		
-118	0			Pidana bagi Korporasi terdiri atas:			
-118	0	a		pidana pokok; dan			
-118	0	b		pidana tambahan.			
-119	0			Pidana pokok sebagaimana dimaksud dalam Pasal 118 huruf a adalah pidana denda.	118	0	a
-120	1			Pidana tambahan bagl Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:	118	0	b
-120	1	a		pembayaran ganti rugi;			
-120	1	b		perbaikan akibat Tindak Pidana;			
-120	1	c		pelaksanaan kewajiban yang telah dilalaikan;			
-120	1	d		pemenuhan kewajiban adat;			
-120	1	e		pembiayaan pelatihan kerja;			
-120	1	f		perampasan Barang atau keuntungan yang diperoleh dari Tindak Pidana;			
-120	1	g		pengumuman putusan pengadilan;			
-120	1	h		pencabutan izin tertentu;			
-120	1	i		pelarangan permanen melakukan perbuatan tertentu;			
-120	1	j		penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan Korporasi;			
-120	1	k		pembekuan seluruh atau sebagian kegiatan usaha Korporasi; dan			
-120	1	l		pembubaran Korporasi.			
-120	2			Pidana tambahan sebagaimana dimaksud pada ayat (1) huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.	120,120,120	1,1,1	h,j,k
-120	3			Dalam hal Korporasi tidak melaksanakan pidana tambahan sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.	120,120,120,120,120	1,1,1,1,1	a,b,c,d,e
-121	1			Pidana denda untuk Korporasi dljatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.			
-121	2			Dalam hal Tindak Pidana yang dilakukan diancam dengan:			
-121	2	a		pidana penjara di bawah 7 (tujuh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VI;			
-121	2	b		pidana penjara paling lama 7 (tujuh) sampai dengan paling lama 15 (lima belas) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VII; atau			
-121	2	c		pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 20 (dua puluh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VIII.			
-122	1			Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan.			
-122	2			Putusan pengadilan sebagaimana dimaksud pada ayat (1) dapat menentukan pembayaran pidana denda dengan cara mengangsur.	122	1	
-122	3			Jika pidana denda sebagaimana dimaksud pada ayat (1) tidak dibayar dalam jangka waktu yang telah ditentukan, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.	122	1	
-122	4			Dalam hal kekayaan atau pendapatan Korporasi tidak mencukupi untuk melunasi pidana denda sebagaimana dimaksud pada ayat (3), Korporasi dikenai pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi.	122	3	
-123	0			Tindakan yang dapat dikenakan bagi Korporasi:			
-123	0	a		pengambilalihan Korporasi;			
-123	0	b		penempatan di bawah pengawasan; dan/atau			
-123	0	c		penempatan Korporasi di bawah pengampuan.			
-124	0			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan bagi Korporasi sebagaimana dimaksud dalam Pasal 118 sampai dengan Pasal 123 diatur dengan Peraturan Pemerintah.	118,119,120,121,122,123		
-125	1			Suatu perbuatan yang memenuhi lebih dari 1 (satu) ketentuan pidana yang diancam dengan ancaman pidana yang sama hanya dijatuhi 1 (satu) pidana, sedangkan jika ancaman pidananya berbeda dijatuhi pidana pokok yang paling berat.			
-125	2			Suatu perbuatan yang diatur dalam aturan pidana umum dan aturan pidana khusus hanya dijatuhi aturan pidana khusus, kecuali Undang-Undang menentukan lain.			
-126	1			Jika terjadi perbarengan beberapa Tindak Pidana yang saling berhubungan sehingga dipandang sebagai perbuatan berlanjut dan diancam dengan ancaman pidana yang sama, hanya dijatuhi 1 (satu) pidana.			
-126	2			Jika perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) diancam dengan pidana yang berbeda, hanya dijatuhi pidana pokok yang terberat.	126	1	
-127	1			Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang sejenis, hanya diiatuhkan I (satu) pidana.			
-127	2			Maksimum pidana untuk perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) adalah jumlah pidana yang diancamkan pada semua Tindak Pidana tersebut, tetapi tidak melebihi pidana yang terberat ditambah 1/3 (satu per tiga).	127	1	
-128	1			Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang tidak sejenis, pidana yang dijatuhkan adalah semua jenis pidana untuk Tindak Pidana masing-masing, tetapi tidak melebihi maksimum pidana yang terberat ditambah l/3 (satu per tiga).			
-128	2			Dalam hal ketentuan sebagaimana dimaksud pada ayat (1) diancam dengan pidana denda, penghitungan denda didasarkan pada lama maksimum pidana penjara pengganti pidana denda.	128	1	
-128	3			Jika Tindak Pidana yang dilakukan diancam dengan pidana minimum, minimum pidana untuk perbarengan sebagaimana dimaksud pada ayat (1) adalah jumlah pidana minimum khusus untuk Tindak Pidana masingmasing, tetapi tidak melebihi pidana minimum khusus terberat ditambah 1/3 (satu per tiga).	128	1	
-129	0			Jika dalam perbarengan Tindak Pidana dljatuhi pidana mati atau pidana penjara seumur hidup, terdakwa tidak boleh dijatuhi pidana lain, kecuali pidana tambahan, yakni:			
-129	0	a		pencabutan hak tertentu;			
-129	0	b		perampasan Barang tertentu; dan/atau			
-129	0	c		pengumuman putusan pengadilan.			
-130	1			Jika terjadi perbarengan sebagaimana dimaksud dalam Pasal 127 dan Pasal 129, penjatuhan pidana tambahan dilakukan dengan ketentuan sebagai berikut:	127,129		
-130	1	a		pidana pencabutan hak yang sama dijadikan satu dengan ketentuan:			
-130	1	a	1	paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang dijatuhkan; atau			
-130	1	a	2	apabila pidana pokok yang diancamkan hanya pidana denda, lama pidana paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun.			
-130	1	b		pidana pencabutan hak yang berbeda dijatuhkan secara sendiri-sendiri untuk tiap Tindak Pidana tanpa dikurangi; atau			
-130	1	c		pidana perampasan Barang tertentu atau pidana pengganti dijatuhkan secara sendiri-sendiri untuk tiap Tindak Pidana tanpa dikurangi.			
-130	2			Ketentuan mengenai lamanya pidana pengganti bagi pidana perampasan Barang tertentu sebagaimana dimaksud pada ayat (1) huruf c berlaku ketentuan pidana pengganti untuk denda.	130	1	c
-131	1			Jika Setiap Orang telah dijatuhi pidana dan kembali dinyatakan bersalah melakukan Tindak Pidana lain sebelum putusan pidana itu diiatuhkan, pidana yang terdahulu diperhitungkan terhadap pidana yang akan dijatuhkan dengan menggunalan aturan perbarengan sebagaimana dimaksud dalam Pasal 125 sampai dengan Pasal 130, seperti jika Tindak Pidana itu diadili secara bersama.	125,126,127,128,129,130		
-131	2			Jika pidana yang dijatuhkan sebagaimana dimaksud pada ayat (1) telah mencapai maksimum pidana, hakim cukup menyatakan bahwa terdakwa bersalah tanpa perlu diikuti pidana.	131	1	
-132	1			Kewenangan penuntutan dinyatakan gugur jika:			
-132	1	a		ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap terhadap Setiap Orang atas perkara yang sama;			
-132	1	b		tersangka atau terdakwa meninggal dunia;			
-132	1	c		kedaluwarsa;			
-132	1	d		maksimum pidana denda dibayar dengan sukarela bagi Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II;			
-132	1	e		maksimum pidana denda kategori IV dibayar dengan sukarela bagi Tindak Pidana yang diancam dengan pidana penjara paling lama I (satu) tahun atau pidana denda paling banyak kategori III;			
-132	1	f		ditariknya pengaduan bagi Tindak Pidana aduan;			
-132	1	g		telah ada penyelesaian di luar proses peradilan sebagaimana diatur dalam Undang-Undang; atau			
-132	1	h		diberikannya amnesti atau abolisi.			
-132	2			Ketentuan mengenai gugurnya kewenangan penuntutan bagi Korporasi memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 121. 	121		
-133	1			Pidana denda sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e serta biaya yang telah dikeluarkan jika penuntutan telah dimulai, dibayarkan kepada Pejabat yang berwenang dalam jangka waktu yang telah ditetapkan.	132,132	1,1	d,e
-133	2			Jika diancamkan pula pidana tambahan berupa perampasan Barang atau tagihan, Barang dan/ atau tagihan yang dirampas harus diserahkan atau harus dibayar menurut taksiran Pejabat sebagaimana dimaksud pada ayat (1) dalam hal Barang dan/ atau tagihan tersebut sudah tidak berada dalam kekuasaan terpidana.	133	1	
-133	3			Jika pidana diperberat ka-rena pengulangan, pemberatan tersebut tetap berlaku sekalipun kewenangan menuntut pidana terhadap Tindak Pidana yang dilakukan lebih dahulu gugur berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e.	132,132	1,1	d,e
-134	0			Seseorang tidak dapat dituntut untuk kedua kalinya dalam 1 (satu) perkara yang sama jika untuk perkara tersebut telah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap.			
-135	0			Jika putusan sebagaimana dimaksud dalam Pasal 134 berasal dari pengadilan luar negeri, terhadap Setiap Orang yang melakukan Tindak Pidana yang sama tidak boleh diadakan penuntutan dalam hal:	134		
-135	0	a		putusan bebas dari tuduhan atau lepas dari segala tuntutan hukum; atau			
-135	0	b		putusan berupa pemidanaan dan pidananya telah dijalani seluruhnya, telah diberi ampun, atau pelaksanaan pidana tersebut kedaluwarsa.			
-136	1			Kewenangan penuntutan dinyatakan gugur karena kedaluwarsa apabila:			
-136	1	a		setelah melampaui waktu 3 (tiga) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun dan/atau hanya denda paling banyak kategori III;			
-136	1	b		setelah melampaui waktu 6 (enam) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 1 (satu) tahun dan paling lama 3 (tiga) tahun;			
-136	1	c		setelah melampaui waktu 12 (dua belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 3 (tiga) tahun dan paling lama 7 (tujuh) tahun;			
-136	1	d		setelah melampaui waktu 18 (delapan belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 7 (tujuh) tahun dan paling lama 15 (lima belas) tahun; dan			
-136	1	e		setelah melampaui waktu 20 (dua puluh) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 20 (dua puluh) tahun, pidana penjara seumur hidup, atau pidana mati.			
-136	2			Dalam hal Tindak Pidana dilakukan oleh Anak, tenggang waktu gugurnya kewenangan untuk menuntut karena kedaluwarsa sebagaimana dimaksud pada ayat (1) dikurangi menjadi 1/3 (satu per tiga).	136	1	
-137	0			Jangka waltu kedaluwarsa dihitung mulai keesokan hari setelah perbuatan dilalukan, kecuali bagi:			
-137	0	a		Tindak Pidana pemalsuan dan Tindak Pidana perusakan mata uang, kedaluwarsa dihitung mulai keesokan harinya setelah Barang yang dipalsukan atau mata uang yang dirusak digunakan; atau			
-137	0	b		Tindak Pidana sebagaimana dimaksud dalam Pasal 450, Pasal 451, dan Pasal 452 kedaluwarsa dihitung mulai keesokan harinya setelah Korban Tindak Pidana dilepaskan atau mati sebagai akibat langsung dari Tindak Pidana tersebut.	450,451,452		
-138	1			Tindakan penuntutan Tindak Pidana menghentikan tenggang waktu kedaluwarsa.			
-138	2			Penghentian tenggang waktu kedaluwarsa sebagaimana dimaksud pada ayat (1) dihitung keesokan hari setelah tersangka atau terdakwa mengetahui atau diberitahukan mengenai penuntutan terhadap dirinya yang dilakukan sesuai dengan ketentuan peraturan perundang-undangan.	138	1	
-138	3			Setelah kedaluwarsa dihentikan karena tindakan penuntutan, mulai diberlakukan tenggang waktu kedaluwarsa baru.			
-139	0			Apabila penuntutan dihentikan untuk sementara waktu karena ada sengketa hukum yang harus diputuskan lebih dahulu, tenggang waktu kedaluwarsa penuntutan menjadi tertunda sampai sengketa tersebut mendapatkan putusan.			
-140	0			Kewenangan pelaksanaan pidana dinyatakan gugur, jika:			
-140	0	a		terpidana meninggal dunia;			
-140	0	b		kedaluwarsa;			
-140	0	c		terpidana mendapat grasi atau amnesti; atau			
-140	0	d		penyerahan untuk pelaksanaan pidana ke negara lain.			
-141	0			Jika terpidana meninggal dunia, pidana perampasan Barang tertentu dan/atau tagihan yang telah disita tetap dapat dilaksanakan.			
-142	1			Kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah berlaku tenggang waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ditambah 1/3 (satu per tiga).	136		
-142	2			Tenggang waktu kedaluwarsa pelaksanaan pidana harus melebihi lama pidana yang dijatuhkan kecuali untuk pidana penjara seumur hidup.			
-142	3			Pelaksanaan pidana mati tidak mempunyai tenggang waktu kedaluwarsa,			
-142	4			Jika pidana mati diubah menjadi pidana penjara seumur hidup sebagaimana dimaksud dalam Pasal 101, kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah lewat waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ayat (1) huruf e ditambah 1/3 (satu per tiga) dari tenggang waktu kedaluwarsa tersebut.	101,136	,1	e
-143	1			Tenggang waktu kedaluwarsa pelaksanaan pidana dihitung keesokan harinya sejak putusan pengadilan dapat dilaksanakan.			
-143	2			Apabila terpidana melarikan diri sewaktu menjalani pidana maka tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal terpidana tersebut melarikan diri.			
-143	3			Apabila pembebasan bersyarat terhadap narapidana dicabut, tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal pencabutan.			
-143	4			Tenggang waktu kedaluwarsa pelaksanaan pidana ditunda selama:			
-143	4	a		pelaksanaan pidana tersebut ditunda berdasarkan peraturan perundang-undangan; atau			
-143	4	b		terpidana dirampas kemerdekaannya meskipun perampasan kemerdekaan tersebut berkaitan dengan putusan pengadilan untuk Tindak Pidana lain.			
-144	0			Tindak Pidana adalah termasuk juga permufakatan jahat, persiapan, percobaan, dan pembantuan melakukan Tindak Pidana, kecuali ditentukan lain dalam Undang-Undang.			
-145	0			Setiap Orang adalah orang perseorangan, termasuk Korporasi.			
-146	0			Korporasi adalah kumpulan terorganisasi dari orang dan/atau kekayaan, baik merupakan badan hukum yang berbentuk perseroan terbatas, yayasan, perkumpulan, koperasi, badan usaha milik negara, badan usaha milik daerah, badan usaha milik desa, atau yang disamakan dengan itu, maupun perkumpulan yang tidak berbadan hukum atau badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu.			
-147	0			Barang adalah benda berwujud atau tidak berwujud, benda bergerak atau tidak bergerak termasuk air dan uang giral, aliran listrik, gas, data, dan program Komputer.			
-148	0			Surat adalah dokumen yang ditulis di atas kertas, termasuk juga dokumen atau data yang tertulis atau tersimpan dalam disket, pita magnetik, atau media penylmpan Komputer atau media penyimpan data elektronik lain.			
-149	0			Korban adalah orang yang mengalami penderitaan fisik dan mental dan/ atau kerugian ekonomi yang diakibatkan oleh Tindak Pidana.			
-150	0			Anak adalah seseorang yang belum berumur 18 (delapan belas) tahun.			
-151	0			Orang Tua adalah termasuk juga kepala keluarga.			
-152	0			Ayah adalah termasuk juga orang yang menjalankan kekuasaan yang sama dengan Ayah.			
-153	0			Kekuasaan Ayah adalah termasuk juga kekuasaan kepala keluarga.			
-154	0			Pejabat adalah setiap warga negara Indonesia yang telah memenuhi syarat yang ditentukan, diangkat oleh pejabat yang berwenang dan diserahi tugas negara, atau diserahi tugas lain oleh negara, dan digaji berdasarkan ketentuan peraturan perundang-undangan, yaitu:			
-154	0	a		aparatur sipil negara, anggota Kepolisian Negara Republik Indonesia, dan anggota Tentara Nasional Indonesia;			
-154	0	b		pejabat negara;			
-154	0	c		pejabat publik;			
-154	0	d		pejabat daerah;			
-154	0	e		orang yang menerima gaji atau upah dari keuangan negara atau daerah;			
-154	0	f		orang yang menerima gaji atau upah dari Korporasi yang seluruh atau sebagian besar modalnya milik negara atau daerah; atau			
-154	0	g		pejabat lain yang ditentukan berdasarkan peraturan perundang-undangan.			
-155	0			Luka Berat adalah:			
-155	0	a		sakit atau luka yang tidak ada harapan untuk sembuh dengan sempurna atau yang dapat menimbulkan bahaya maut;			
-155	0	b		terus-menerus tidak cakap lagi melakukan tugas, jabatan, atau pekerjaan;			
-155	0	c		tidak dapat menggunakan lagi salah satu panca indera atau salah satu anggota tubuh;			
-155	0	d		cacat berat atau cacat permanen;			
-155	0	e		lumpuh;			
-155	0	f		daya pikir terganggu selama lebih dari 4 (empat) minggu;			
-155	0	g		gugur atau matinya kandungan; atau			
-155	0	h		rusaknya fungsi reproduksi.			
-156	0			Kekerasan adalah setiap perbuatan dengan atau tanpa menggunakan kekuatan fisik yang menimbulkan bahaya bagi badan atau nyawa, mengakibatkan penderitaan fisik, seksual, atau psikologis, dan merampas kemerdekaan, termasuk menjadikan orang pingsan atau tidak berdaya			
-157	0			Ancaman Kekerasan adalah setiap perbuatan berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan maupun tanpa menggunakan sarana dalam bentuk elektronik atau nonelektronik yang dapat menimbulkan rasa takut, cemas, atau khawatir akan dilakukannya Kekerasan.			
-158	0			Di Muka Umum adalah di suatu tempat atau Ruang yang dapat dilihat, didatangi, diketahui, atau disaksikan oleh orang lain baik secara langsung maupun secara tidak langsung melalui media elektronik yang membuat publik dapat mengakses Informasi Elektronik atau dokumen elektronik.			
-159	0			Harta Kekayaan adalah benda bergerak atau benda tidak bergerak, baik yang berwujud maupun yang tidak berwujud, yang memiliki nilai ekonomi.			
-160	0			Makar adalah niat untuk melakukan serangan yang telah diwujudkan dengan persiapan perbuatan tersebut.			
-161	0			Perang adalah termasuk juga Perang saudara dengan mengangkat senjata.			
-162	0			Waktu Perang adalah termasuk waktu di mana bahaya Perang mengancam dan/atau ada perintah untuk mobilisasi Tentara Nasional Indonesia dan selama keadaan mobilisasi tersebut masih berlangsung.			
-163	0			Musuh adalah termasuk juga pemberontak dan negara atau kekuasaan yang diperkirakan akan menjadi lawan Perang.			
-164	0			Masuk adalah termasuk mengakses Komputer atau Masuk ke dalam sistem Komputer			
-165	0			Memanjat adalah termasuk Masuk dengan melalui lubang yang sudah ada tetapi tidak untuk tempat orang lewat, atau Masuk melalui lubang dalam tanah yang sengaja digali, atau Masuk melalui atau menyeberangi selokan atau parit yang gunanya sebagai pembatas halaman.			
-166	0			Anak Kunci Palsu adalah anak kunci duplikat termasuk juga segala perkakas, sistem elektronik, atau yang disamakan dengan itu yang tidak dimaksudkan untuk membuka kunci yang digunalan untuk membuka kunci			
-167	0			Ruang adalah termasuk bentangan atau terminal Komputer yang dapat diakses dengan cara tertentu.			
-168	0			Bangunan Listrik adalah bangunan yang digunakan untuk membangkitkan, mengalirkan, mengubah, atau menyerahkan tenaga listrik, termasuk alat yang berhubungan dengan itu, yaitu alat penjaga keselamatan, alat pemasang, alat pendukung, alat pencegah, atau alat pemberi peringatan.			
-169	0			Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.			
-170	0			Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarak jauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.			
-171	0			Kode Akses adalah angka, huruf, simbol lainnya atau kombinasi diantaranya yang merupakan kunci untuk dapat mengakses Komputer, jaringan Komputer, internet, atau media elektronik lainnya.			
-172	0			Pornografi adalah gambar, sketsa, ilustrasi, foto, suara, bunyi, gambar bergerak, animasi, kartun, percakapan, gerak tubuh, atau bunyi pesan lainnya melalui berbagai bentuk media komunikasi dan/atau pertunjukan Di Muka Umum, yang memuat kecabulan atau eksploitasi seksual yang melanggar norma kesusilaan dalam masyarakat.			
-173	0			Pengusaha adalah orang yang menjalankan perusahaan atau usaha dagang.			
-174	0			Kapal adalah kendaraan air dengan bentuk dan jenis apa pun, yang digerakkan dengan tenaga mekanik, tenaga angin, atau ditunda, termasuk kendaraan yang berdaya dukung dinamis, kendaraan di bawah permukaan air, serta alat apung dan bangunan terapung yang tidak berpindah-pindah.			
-175	0			Penumpang adalah orang selain Nakhoda dan Anak Buah Kapal yang berada di Kapal atau orang selain kapten penerbang dan awak Pesawat Udara lain yang berada dalam Pesawat Udara.			
-176	0			Anak Buah Kapal adalah Awak Kapal selain Nakhoda.			
-177	0			Awak Kapal adalah orurng yang bekerja atau dipekerjakan di atas Kapal oleh pemilik atau operator Kapal yang melakukan tugas di atas Kapal sesuai dengan jabatannya.			
-178	0			Kapal Indonesia adalah Kapal yang didaftar di Indonesia dan memperoleh Surat tanda kebangsaan Kapal Indonesia sesuai dengan ketentuan peraturan perundang-undangan.			
-179	0			Nakhoda adalah salah seorang Awak Kapal yang menjadi pemimpin tertinggi di Kapal dan mempunyai wewenang dan tanggung jawab tertentu sesuai dengan ketentuan peraturan perundang-undangan.			
-180	0			Pesawat Udara adalah setiap mesin atau alat yang dapat terbang di atmosfer karena gaya angkat dari reaksi udara, tetapi bukan karena reaksi udara terhadap permukaan bumi yang digunakan untuk penerbangan.			
-181	0			Dalam Penerbangan adalah jangka waktu sejak saat semua pintu luar Pesawat Udara ditutup setelah naiknya Penumpang sampai saat pintu dibuka untuk penurunan Penumpang, atau dalam hal terjadi pendaratan darurat penerbangan dianggap terus berlangsung sampai saat penguasa yang berwenang mengambil alih tanggung jawab atas Pesawat Udara dan Barang yang ada di dalam Pesawat Udara.			
-182	0			Dalam Dinas Penerbangan adalah jangka waktu sejak saat Pesawat Udara disiapkan oleh awak darat atau oleh awak pesawat untuk penerbangan tertentu sampai lewat 24 (dtua puluh empat) jam sesudah pendaratan.			
-183	0			Ternak adalah hewan peliharaan yang dipenrntukkan sebagai sumber pangan dan sumber mata pencaharian.			
-184	0			Bulan adalah waktu 30 (tiga puluh) Hari.			
-185	0			Hari adalah waktu selama 24 (dua puluh empat) jam.			
-186	0			Malam adalah waktu di antara matahari terbenam dan matahari terbit.			
-187	0			Ketentuan dalam Bab I sampai dengan Bab V Buku Kesatu berlaku juga bagi perbuatan yang dapat dipidana menurut peraturan perundang-undangan lain, kecuali ditentukan lain menurut Undang-Undang.			
+pasal	ayat	huruf	angka	pasal_rujukan	ayat_rujukan	huruf_rujukan	teks
+1	1						Tidak ada satu perbuatan pun yang dapat dikenai sanksi pidana dan/atau tindakan, kecuali atas kekuatan peraturan pidana dalam peraturan perundang-undangan yang telah ada sebelum perbuatan dilakukan.
+1	2						Dalam menetapkan adanya Tindak Pidana dilarang digunakan analogi.
+2	1			1	1		Ketentuan sebagaimana dimaksud dalam Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini.
+2	2			2	1		Hukum yang hidup dalam masyarakat sebagaimana dimaksud pada ayat (1) berlaku dalam tempat hukum itu hidup dan sepanjang tidak diatur dalam Undang-Undang ini dan sesuai dengan nilai-nilai yang terkandung dalam Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.
+2	3						Ketentuan mengenai tata cara dan kriteria penetapan hukum yang hidup dalam masyarakat diatur dengan Peraturan Pemerintah.
+3	1						Dalam hal terdapat perubahan peraturan perundang-undangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana.
+3	2						Dalam hal perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, proses hukum terhadap tersangka atau terdakwa harus dihentikan demi hukum.
+3	3			3	2		Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) diterapkan bagi tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan.
+3	4						Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan dihapuskan.
+3	5			3	4		Dalam hal putusan pemidanaan telah berkekuatan hukum tetap sebagaimana dimaksud pada ayat (4), instansi atau Pejabat yang melaksanakan pembebasan merupakan instansi atau Pejabat yang berwenang.
+3	6			3,3	3,5		Pembebasan sebagaimana dimaksud pada ayat (3) dan ayat (5) tidak menimbulkan hak bagi tersangka, terdakwa, atau terpidana menuntut ganti rugi.
+3	7						Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi diancam dengan pidana yang lebih ringan menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan disesuaikan dengan batas pidana menurut peraturan perundang-undangan yang baru.
+4	0						Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan:
+4	0	a					Tindak Pidana di wilayah Negara Kesatuan Republik Indonesia;
+4	0	b					Tindak Pidana di Kapal Indonesia atau di Pesawat Udara Indonesia; atau
+4	0	c					Tindak Pidana di bidang teknologi informasi atau Tindak Pidana lainnya yang akibatnya dialami atau terjadi di wilayah Negara Kesatuan Republik Indonesia atau di Kapal Indonesia dan di Pesawat Udara Indonesia.
+5	0						Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan:
+5	0	a					keamanan negara atau proses kehidupan ketatanegaraan;
+5	0	b					martabat Presiden, Wakil Presiden, dan/atau Pejabat Indonesia di luar negeri;
+5	0	c					mata uang, segel, cap negara, meterai, atau Surat berharga yang dikeluarkan oleh Pemerintah Indonesia, atau kartu kredit yang dikeluarkan oleh perbankan Indonesia;
+5	0	d					perekonomian, perdagangan, dan perbankan Indonesia;
+5	0	e					keselamatan atau keamanan pelayaran dan penerbangan;
+5	0	f					keselamatan atau keamanan bangunan, peralatan, dan aset nasional atau negara Indonesia;
+5	0	g					keselamatan atau keamanan sistem komunikasi elektronik;
+5	0	h					kepentingan nasional Indonesia sebagaimana ditetapkan dalam UndangUndang; atau
+5	0	i					Warga negara Indonesia berdasarkan perjanjian internasional dengan negara tempat terjadinya Tindak Pidana.
+6	0						Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang berada di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana menurut hukum internasional yang telah ditetapkan sebagai Tindak Pidana dalam Undang-Undang.
+7	0						Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia yang penuntutannya diambil alih oleh Pemerintah Indonesia atas dasar suatu perjanjian internasional yang memberikan kewenangan kepada Pemerintah Indonesia untuk melakukan penuntutan pidana.
+8	1						Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.
+8	2			8	1		Ketentuan sebagaimana dimaksud pada ayat (1) berlaku jika perbuatan tersebut juga merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
+8	3			8	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk Tindak Pidana yang diancam dengan pidana denda paling banyak kategori III.
+8	4			8	1		Penuntutan terhadap Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan walaupun tersangka menjadi warga negara Indonesia, setelah Tindak Pidana tersebut dilakukan sepanjang perbuatan tersebut merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
+8	5			8	1		Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.
+9	0			4,5,6,7,8			Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 8 dibatasi oleh hal yang dikecualikan menurut perjanjian internasional yang berlaku.
+10	0						Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.
+11	0						Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana.
+12	1						Tindak Pidana merupakan perbuatan yang oleh peraturan perundangundangan diancam dengan sanksi pidana dan/atau tindakan.
+12	2						Untuk dinyatakan sebagai Tindak Pidana, suatu perbuatan yang diancam dengan sanksi pidana dan/atau tindakan oleh peraturan perundangundangan harus bersifat melawan hukum atau bertentangan dengan hukum yang hidup dalam masyarakat.
+12	3						Setiap Tindak Pidana selalu bersifat melawan hukum, kecuali ada alasan pembenar.
+13	1						Permufakatan jahat terjadi jika 2 (dua) orang atau lebih bersepakat untuk melakukan Tindak Pidana.
+13	2						Permufakatan jahat melakukan Tindak Pidana dipidana jika ditentukan secara tegas dalam Undang-Undang
+13	3						Pidana untuk permufakatan jahat melakukan Tindak Pidana paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
+13	4						Permufakatan jahat melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.
+13	5						Pidana tambahan untuk permufakatan jahat melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
+14	0						Permufakatan jahat melakukan Tindak Pidana tidak dipidana, jika pelaku:
+14	0	a					menarik diri dari kesepakatan itu; atau
+14	0	b					melakukan tindakan yang patut untuk mencegah terjadinya Tindak Pidana.
+15	1						Persiapan melakukan Tindak Pidana terjadi jika pelaku berusaha untuk mendapatkan atau menyiapkan sarana berupa alat, mengumpulkan informasi atau menyusun perencanaan tindakan, atau melakukan tindakan serupa yang dimaksudkan untuk menciptakan kondisi untuk dilakukannya suatu perbuatan yang secara langsung ditujukan bagi penyelesaian Tindak Pidana.
+15	2						Persiapan melakukan Tindak Pidana dipidana, jika ditentukan secara tegas dalam Undang-Undang.
+15	3						Pidana untuk persiapan melakukan Tindak Pidana paling banyak 1/2 (satu per dua) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
+15	4						Persiapan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun.
+15	5						Pidana tambahan untuk persiapan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
+16	0			15	1		Persiapan melakukan Tindak Pidana tidak dipidana jika pelaku menghentikan atau mencegah kemungkinan terciptanya kondisi sebagaimana dimaksud dalam Pasal 15 ayat (1).
+17	1						Percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang, bukan karena semata-mata atas kehendaknya sendiri.
+17	2			17	1		Permulaan pelaksanaan sebagaimana dimaksud pada ayat (1) terjadi jika:
+17	2	a					perbuatan yang dilakukan itu diniatkan atau ditujukan untuk terjadinya Tindak Pidana; dan
+17	2	b					perbuatan yang dilakukan langsung berpotensi menimbulkan Tindak Pidana yang dituju.
+17	3						Pidana untuk percobaan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
+17	4						Percobaan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
+17	5						Pidana tambahan untuk percobaan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
+18	1			17	1		Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan pelaksanaan sebagaimana dimaksud dalam Pasal 17 ayat (1):
+18	1	a					tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela; atau
+18	1	b					dengan kehendaknya sendiri mencegah tercapainya tujuan atau akibat perbuatannya.
+18	2			18	1		Dalam hal percobaan sebagaimana dimaksud pada ayat (1) telah menimbulkan kerugian atau menurut peraturan perundang-undangan merupakan Tindak Pidana tersendiri, pelaku dapat dipertanggungjawabkan untuk Tindak Pidana tersebut.
+19	0						Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak dipidana.
+20	0						Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
+20	0	a					melakukan sendiri Tindak Pidana;
+20	0	b					melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan;
+20	0	c					turut serta melakukan Tindak Pidana; atau
+20	0	d					menggerakkan orang lain supaya melakukan Tindak Pidana dengan cara memberi atau menjanjikan sesuatu, menyalahgunakan kekuasaan atau martabat, melakukan Kekerasan, menggunakan Ancaman Kekerasan, melakukan penyesatan, atau dengan memberi kesempatan, sarana, atau keterangan.
+21	1						Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja:
+21	1	a					memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana; atau
+21	1	b					memberi bantuan pada waktu Tindak Pidana dilakukan.
+21	2			21	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pembantuan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II.
+21	3						Pidana untuk pembantuan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
+21	4						Pembantuan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
+21	5						Pidana tambahan untuk pembantuan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
+22	0			20,21			Keadaan pribadi pelaku sebagaimana dimaksud dalam Pasal 20 atau pembantu sebagaimana dimaksud dalam Pasal 21 dapat menghapus, mengurangi, atau memperberat pidananya.
+23	1						Pengulangan Tindak Pidana terjadi jika Setiap Orang:
+23	1	a					melakukan Tindak Pidana kembali dalam waktu 5 (lima) tahun setelah menjalani seluruh atau sebagian pidana pokok yang dijatuhkan atau pidana pokok yang dijatuhkan telah dihapuskan; atau
+23	1	b					pada waktu melakukan Tindak Pidana, kewajiban menjalani pidana pokok yang dijatuhkan terdahulu belum kedaluwarsa.
+23	2			23	1		Tindak Pidana sebagaimana dimaksud pada ayat (1) mencakup Tindak Pidana yang diancam dengan pidana minimum khusus, pidana penjara 4 (empat) tahun atau lebih, atau pidana denda paling sedikit kategori III.
+23	3			23	1		Ketentuan sebagaimana dimaksud pada ayat (1) juga berlaku untuk Tindak Pidana mengenai penganiayaan.
+24	1						Dalam hal tertentu, pelaku Tindak Pidana hanya dapat dituntut atas dasar pengaduan.
+24	2						Tindak Pidana aduan harus ditentukan secara tegas dalam UndangUndang.
+25	1						Dalam hal Korban Tindak Pidana aduan belum berumur 16 (enam belas) tahun, yang berhak mengadu merupakan Orang Tua atau walinya
+25	2			25	1		Dalam hal Orang Tua atau wali sebagaimana dimaksud pada ayat (1) tidak ada atau Orang Tua atau wali itu sendiri yang harus diadukan, pengaduan dilakukan oleh keluarga sedarah dalam garis lurus.
+25	3			25	2		Dalam hal keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga
+25	4			25	1		Dalam hal Korban Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak memiliki Orang Tua, wali, atau keluarga sedarah dalam garis lurus ke atas ataupun menyamping sampai derajat ketiga, pengaduan dilakukan oleh diri sendiri dan/atau pendamping.
+26	1						Dalam hal Korban Tindak Pidana aduan berada di bawah pengampuan, yang berhak mengadu merupakan pengampunya, kecuali bagi Korban Tindak Pidana aduan yang berada dalam pengampuan karena boros.
+26	2			26	1		Dalam hal pengampu sebagaimana dimaksud pada ayat (1) tidak ada atau pengampu itu sendiri yang harus diadukan, pengaduan dilakukan oleh suami atau istri Korban atau keluarga sedarah dalam garis lurus.
+26	3			26	2		Dalam hal suami atau istri Korban atau keluarga sedarah dalam garis lurus sebagaimana dimaksud pada ayat (2) tidak ada, pengaduan dilakukan oleh keluarga sedarah dalam garis menyamping sampai derajat ketiga.
+27	0						Dalam hal Korban Tindak Pidana aduan meninggal dunia, pengaduan dapat dilakukan oleh Orang Tua, anak, suami, atau istri Korban, kecuali jika Korban sebelumnya secara tegas tidak menghendaki adanya penuntutan.
+28	1						Pengaduan dilakukan dengan cara menyampaikan pemberitahuan dan permohonan untuk dituntut.
+28	2			28	1		Pengaduan sebagaimana dimaksud pada ayat (1) diajukan secara lisan atau tertulis kepada Pejabat yang berwenang.
+29	1						Pengaduan harus diajukan dalam tenggang waktu:
+29	1	a					6 (enam) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana jika yang berhak mengadu bertempat tinggal di wilayah Negara Kesatuan Republik Indonesia; atau
+29	1	b					9 (sembilan) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana jika yang berhak mengadu bertempat tinggal di luar wilayah Negara Kesatuan Republik Indonesia.
+29	2			29	1		Jika yang berhak mengadu lebih dari 1 (satu) orang, tenggang waktu sebagaimana dimaksud pada ayat (1) dihitung sejak tanggal masing-masing pengadu mengetahui adanya Tindak Pidana.
+30	1						Pengaduan dapat ditarik kembali oleh pengadu dalam waktu 3 (tiga) Bulan terhitung sejak tanggal pengaduan diajukan.
+30	2						Pengaduan yang ditarik kembali tidak dapat diajukan lagi.
+31	0						Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan ketentuan peraturan perundang-undangan.
+32	0						Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan perintah jabatan dari Pejabat yang berwenang.
+33	0						Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena keadaan darurat.
+34	0						Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum terhadap diri sendiri atau orang lain, kehormatan dalam arti kesusilaan, atau harta benda sendiri atau orang lain.
+35	0			12	2		Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam Pasal 12 ayat (2) merupakan alasan pembenar.
+36	1						Setiap Orang hanya dapat dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan dengan sengaja atau karena kealpaan.
+36	2						Perbuatan yang dapat dipidana merupakan Tindak Pidana yang dilakukan dengan sengaja, sedangkan Tindak Pidana yang dilakukan karena kealpaan dapat dipidana jika secara tegas ditentukan dalam peraturan perundang-undangan.
+37	0						Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat:
+37	0	a					dipidana semata-mata karena telah dipenuhinya unsur-unsur Tindak Pidana tanpa memperhatikan adanya kesalahan; atau
+37	0	b					dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan oleh orang lain.
+38	0						Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental dan/atau disabilitas intelektual dapat dikurangi pidananya dan/atau dikenai tindakan.
+39	0						Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental yang dalam keadaan kekambuhan akut dan disertai gambaran psikotik dan/atau disabilitas intelektual derajat sedang atau berat tidak dapat dijatuhi pidana, tetapi dapat dikenai tindakan.
+40	0						Pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan Tindak Pidana belum berumur 12 (dua belas) tahun.
+41	0						Dalam hal anak yang belum berumur 12 (dua belas) tahun melakukan atau diduga melakukan Tindak Pidana, penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional mengambil keputusan untuk:
+41	0	a					menyerahkan kembali kepada Orang Tua/wali; atau
+41	0	b					mengikutsertakan dalam program pendidikan, pembinaan, dan pembimbingan di instansi pemerintah atau lembaga penyelenggaraan kesejahteraan sosial di instansi yang menangani bidang kesejahteraan sosial, baik pada tingkat pusat maupun daerah, paling lama 6 (enam) Bulan.
+42	0						Setiap Orang yang melakukan Tindak Pidana tidak dipidana karena:
+42	0	a					dipaksa oleh kekuatan yang tidak dapat ditahan; atau
+42	0	b					dipaksa oleh adanya ancaman, tekanan, atau kekuatan yang tidak dapat dihindari.
+43	0						Setiap Orang yang melakukan pembelaan terpaksa yang melampaui batas yang langsung disebabkan keguncangan jiwa yang hebat karena serangan atau ancaman serangan seketika yang melawan hukum, tidak dipidana.
+44	0						Perintah jabatan yang diberikan tanpa wewenang tidak mengakibatkan hapusnya pidana, kecuali jika orang yang diperintahkan dengan iktikad baik mengira bahwa perintah tersebut diberikan dengan wewenang dan pelaksanaannya, termasuk dalam lingkup pekerjaannya.
+45	1						Korporasi merupakan subjek Tindak Pidana.
+45	2			45	1		Korporasi sebagaimana dimaksud pada ayat (1) mencakup badan hukum yang berbentuk perseroan terbatas, yayasan, koperasi, badan usaha milik negara, badan usaha milik daerah, atau yang disamakan dengan itu, serta perkumpulan baik yang berbadan hukum maupun tidak berbadan hukum, badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu sesuai dengan ketentuan peraturan perundangundangan.
+46	0						Tindak Pidana oleh Korporasi merupakan Tindak Pidana yang dilakukan oleh pengurus yang mempunyai kedudukan fungsional dalam struktur organisasi Korporasi atau orang yang berdasarkan hubungan kerja atau berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bertindak demi kepentingan Korporasi, dalam lingkup usaha atau kegiatan Korporasi tersebut, baik secara sendiri-sendiri maupun bersama-sama.
+47	0			46			Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
+48	0			46,47			Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
+48	0	a					termasuk dalam lingkup usaha atau kegiatan sebagaimana ditentukan dalam anggaran dasar atau ketentuan lain yang berlaku bagi Korporasi;
+48	0	b					menguntungkan Korporasi secara melawan hukum;
+48	0	c					diterima sebagai kebijakan Korporasi;
+48	0	d					Korporasi tidak melakukan langkah-langkah yang diperlukan untuk melakukan pencegahan, mencegah dampak yang lebih besar dan memastikan kepatuhan terhadap ketentuan hukum yang berlaku guna menghindari terjadinya tindak pidana; dan/atau
+48	0	e					Korporasi membiarkan terjadinya tindak pidana.
+49	0			48			Pertanggungjawaban atas Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 48 dikenakan terhadap Korporasi, pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi.
+50	0						Alasan pembenar dan alasan pemaaf yang dapat diajukan oleh pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi dapat juga diajukan oleh Korporasi sepanjang alasan tersebut berhubungan langsung dengan Tindak Pidana yang didakwakan kepada Korporasi.
+51	0						Pemidanaan bertujuan:
+51	0	a					mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat;
+51	0	b					memasyarakatkan terpidana dengan mengadakan pembinaan dan pembimbingan agar menjadi orang yang baik dan berguna;
+51	0	c					menyelesaikan konflik yang ditimbulkan akibat Tindak Pidana, memulihkan keseimbangan, serta mendatangkan rasa aman dan damai dalam masyarakat; dan
+51	0	d					menumbuhkan rasa penyesalan dan membebaskan rasa bersalah pada terpidana.
+52	0						Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia.
+53	1						Dalam mengadili suatu perkara pidana, hakim wajib menegakkan hukum dan keadilan.
+53	2			53	1		Jika dalam menegakkan hukum dan keadilan sebagaimana dimaksud pada ayat (1) terdapat pertentangan antara kepastian hukum dan keadilan, hakim wajib mengutamakan keadilan.
+54	1						Dalam pemidanaan wajib dipertimbangkan:
+54	1	a					bentuk kesalahan pelaku Tindak Pidana;
+54	1	b					motif dan tujuan melakukan Tindak Pidana;
+54	1	c					sikap batin pelaku Tindak Pidana;
+54	1	d					Tindak Pidana dilakukan dengan direncanakan atau tidak direncanakan;
+54	1	e					cara melakukan Tindak Pidana;
+54	1	f					sikap dan tindakan pelaku sesudah melakukan Tindak Pidana;
+54	1	g					riwayat hidup, keadaan sosial, dan keadaan ekonomi pelaku Tindak Pidana;
+54	1	h					pengaruh pidana terhadap masa depan pelaku Tindak Pidana;
+54	1	i					pengaruh Tindak Pidana terhadap Korban atau keluarga Korban;
+54	1	j					pemaafan dari Korban dan/atau keluarga Korban; dan/atau
+54	1	k					nilai hukum dan keadilan yang hidup dalam masyarakat.
+54	2						Ringannya perbuatan, keadaan pribadi pelaku, atau keadaan pada waktu dilakukan Tindak Pidana serta yang terjadi kemudian dapat dijadikan dasar pertimbangan untuk tidak menjatuhkan pidana atau tidak mengenakan tindakan dengan mempertimbangkan segi keadilan dan kemanusiaan.
+55	0						Setiap Orang yang melakukan Tindak Pidana tidak dibebaskan dari pertanggungjawaban pidana berdasarkan alasan peniadaan pidana jika orang tersebut telah dengan sengaja menyebabkan terjadinya keadaan yang dapat menjadi alasan peniadaan pidana tersebut.
+56	0						Dalam pemidanaan terhadap Korporasi wajib dipertimbangkan:
+56	0	a					tingkat kerugian atau dampak yang ditimbulkan;
+56	0	b					tingkat keterlibatan pengurus yang mempunyai kedudukan fungsional Korporasi dan/atau peran pemberi perintah, pemegang kendali, dan/atau pemilik manfaat Korporasi;
+56	0	c					lamanya Tindak Pidana yang telah dilakukan;
+56	0	d					frekuensi Tindak Pidana oleh Korporasi;
+56	0	e					bentuk kesalahan Tindak Pidana;
+56	0	f					keterlibatan Pejabat;
+56	0	g					nilai hukum dan keadilan yang hidup dalam masyarakat;
+56	0	h					rekam jejak Korporasi dalam melakukan usaha atau kegiatan;
+56	0	i					pengaruh pemidanaan terhadap Korporasi; dan/atau
+56	0	j					kerja sama Korporasi dalam penanganan Tindak Pidana.
+57	0						Dalam hal Tindak Pidana diancam dengan pidana pokok secara alternatif, penjatuhan pidana pokok yang lebih ringan harus lebih diutamakan, jika hal itu dipertimbangkan telah sesuai dan dapat menunjang tercapainya tujuan pemidanaan.
+58	0						Faktor yang memperberat pidana meliputi:
+58	0	a					Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan;
+58	0	b					penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau
+58	0	c					pengulangan Tindak Pidana.
+59	0			58			Pemberatan sebagaimana dimaksud dalam Pasal 58 dapat ditambah paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana.
+60	1						Pidana penjara dan pidana tutupan bagi terpidana yang sudah berada di dalam tahanan mulai berlaku pada saat putusan pengadilan telah memperoleh kekuatan hukum tetap.
+60	2			60	1		Dalam hal terpidana tidak berada di dalam tahanan, pidana sebagaimana dimaksud pada ayat (1) berlaku pada saat putusan pengadilan mulai dilaksanakan.
+61	1						Pidana penjara untuk waktu tertentu atau pidana denda yang dijatuhkan dikurangi seluruh atau sebagian masa penangkapan dan/atau penahanan yang telah dijalani terdakwa sebelum putusan pengadilan memperoleh kekuatan hukum tetap.
+61	2			61	1		Pengurangan pidana denda sebagaimana dimaksud pada ayat (1) disepadankan dengan penghitungan pidana penjara pengganti denda.
+62	1						Permohonan grasi tidak menunda pelaksanaan putusan pemidanaan bagi terpidana, kecuali dalam hal putusan pidana mati.
+62	2			62	1		Ketentuan mengenai syarat dan tata cara permohonan grasi sebagaimana dimaksud pada ayat (1) diatur dalam Undang-Undang.
+63	0						Jika narapidana melarikan diri, masa selama narapidana melarikan diri tidak diperhitungkan sebagai waktu menjalani pidana penjara.
+64	0						Pidana terdiri atas:
+64	0	a					pidana pokok;
+64	0	b					pidana tambahan; dan
+64	0	c					pidana yang bersifat khusus untuk Tindak Pidana tertentu yang ditentukan dalam Undang-Undang.
+65	1			64			Pidana pokok sebagaimana dimaksud dalam Pasal 64 huruf a terdiri atas:
+65	1	a					pidana penjara;
+65	1	b					pidana tutupan;
+65	1	c					pidana pengawasan;
+65	1	d					pidana denda; dan
+65	1	e					pidana kerja sosial
+65	2			65	1		Urutan pidana sebagaimana dimaksud pada ayat (1) menentukan berat atau ringannya pidana.
+66	1			64	0	b	Pidana tambahan sebagaimana dimaksud dalam Pasal 64 huruf b terdiri atas:
+66	1	a					pencabutan hak tertentu;
+66	1	b					perampasan Barang tertentu dan/atau tagihan;
+66	1	c					pengumuman putusan hakim;
+66	1	d					pembayaran ganti rugi;
+66	1	e					pencabutan izin tertentu; dan
+66	1	f					pemenuhan kewajiban adat setempat.
+66	2			66	1		Pidana tambahan sebagaimana dimaksud pada ayat (l) dapat dikenakan dalam hal penjatuhan pidana pokok saja tidak cukup untuk mencapai tujuan pemidanaan.
+66	3			66	1		Pidana tambahan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan 1 (satu) jenis atau lebih.
+66	4						Pidana tambahan untuk percobaan dan pembantuan sama dengan pidana tambahan untuk Tindak Pidananya.
+66	5						Pidana tambahan bagi anggota Tentara Nasional Indonesia yang melakukan Tindak Pidana dalam perkara koneksitas dikenakan sesuai dengan ketentuan peraturan perundang-undangan bagi Tentara Nasional Indonesia.
+67	0			64	0	c	Pidana yang bersifat khusus sebagaimana dimaksud dalam Pasal 64 huruf c merupakan pidana mati yang selalu diancamkan secara alternatif.
+68	1						Pidana penjara dijatuhkan untuk seumur hidup atau untuk waktu tertentu.
+68	2						Pidana penjara untuk waktu tertentu dijatuhkan paling lama 15 (lima belas) tahun berturut turut atau paling singkat 1 (satu) Hari, kecuali ditentukan minimum khusus.
+68	3						Dalam hal terdapat pilihan antara pidana mati dan pidana penjara seumur hidup atau terdapat pemberatan pidana atas Tindak Pidana yang dijatuhi pidana penjara 15 (lima belas) tahun, pidana penjara untuk waktu tertentu dapat dijatuhkan untuk waktu 20 (dua puluh) tahun berturut turut.
+68	4						Pidana penjara untuk waktu tertentu tidak boleh dijatuhkan lebih dari 20 (dua puluh) tahun.
+69	1						Jika narapidana yang menjalani pidana penjara seumur hidup telah menjalani pidana penjara paling singkat 15 (lima belas) tahun, pidana penjara seumur hidup dapat diubah menjadi pidana penjara 20 (dua puluh) tahun dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.
+69	2			69	1		Ketentuan mengenai tata cara perubahan pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+70	1			51,52,53,54			Dengan tetap mempertimbangkan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, pidana penjara sedapat mungkin tidak dijatuhkan jika ditemukan keadaan:
+70	1	a					terdakwa adalah Anak;
+70	1	b					terdakwa berumur di atas 75 (tujuh puluh lima) tahun;
+70	1	c					terdakwa baru pertama kali melakukan Tindak Pidana;
+70	1	d					kerugian dan penderitaan Korban tidak terlalu besar;
+70	1	e					terdakwa telah membayar ganti rugi kepada Korban;
+70	1	f					terdakwa tidak menyadari bahwa Tindak Pidana yang dilakukan akan menimbulkan kerugian yang besar;
+70	1	g					Tindak Pidana terjadi karena hasutan yang sangat kuat dari orang lain;
+70	1	h					Korban Tindak Pidana mendorong atau menggerakkan terjadinya Tindak Pidana tersebut;
+70	1	i					Tindak Pidana tersebut merupakan akibat dari suatu keadaan yang tidak mungkin terulang lagi;
+70	1	j					kepribadian dan perilaku terdakwa meyakinkan bahwa ia tidak akan melakukan Tindak Pidana yang lain;
+70	1	k					pidana penjara akan menimbulkan penderitaan yang besar bagi terdakwa atau keluarganya;
+70	1	l					pembinaan di luar lembaga pemasyarakatan diperkirakan akan berhasil untuk diri terdakwa;
+70	1	m					penjatuhan pidana yang lebih ringan tidak akan mengurangi sifat berat Tindak Pidana yang dilakukan terdakwa;
+70	1	n					Tindak Pidana terjadi di kalangan keluarga; dan/atau
+70	1	o					Tindak Pidana terjadi karena kealpaan.
+70	2			70	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi:
+70	2	a					Tindak Pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;
+70	2	b					Tindak Pidana yang diancam dengan pidana minimum khusus;
+70	2	c					Tindak Pidana tertentu yang sangat membahayakan atau merugikan masyarakat; atau
+70	2	d					Tindak Pidana yang merugikan keuangan atau perekonomian negara.
+71	1			51,52,53,54			Jika seseorang melakukan Tindak Pidana yang hanya diancam dengan pidana penjara di bawah 5 (lima) tahun, sedangkan hakim berpendapat tidak perlu menjatuhkan pidana penjara setelah mempertimbangkan tujuan pemidanaan dan pedoman pemidanaan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, orang tersebut dapat dijatuhi pidana denda.
+71	2			71	1		Pidana denda sebagaimana dimaksud pada ayat (1) hanya dapat dijatuhkan jika:
+71	2	a					tanpa Korban;
+71	2	b					Korban tidak mempermasalahkan; atau
+71	2	c					bukan pengulangan Tindak Pidana.
+71	3			71	1		Pidana denda yang dapat dijatuhkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1) adalah pidana denda paling banyak kategori V dan pidana denda paling sedikit kategori III.
+71	4			71	2	c	Ketentuan sebagaimana dimaksud pada ayat (2) huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan sebelum berumur 18 (delapan belas) tahun.
+72	1						Narapidana yang telah menjalani paling singkat 2/3 (dua per tiga) dari pidana penjara yang dijatuhkan dengan ketentuan 2/3 (dua per tiga) tersebut tidak kurang dari 9 (sembilan) Bulan dapat diberi pembebasan bersyarat.
+72	2						Narapidana yang menjalani beberapa pidana penjara berturut turut rlianggap jumlah pidananya sebagai 1 (satu) pidana.
+72	3			72	1		Dalam memberikan pembebasan bersyarat sebagaimana dimaksud pada ayat (1), ditentukan masa percobaan dan syarat yang harus dipenuhi selama masa percobaan.
+72	4			72	3		Masa percobaan sebagaimana dimaksud pada ayat (3) sama dengan sisa waktu pidana penjara yang belum dijalani ditambah dengan 1 (satu) tahun.
+72	5			72	1		Narapidana sebagaimana dimaksud pada ayat (1) yang ditahan sebagai tersangka atau terdakwa dalam perkara lain tidak diperhitungkan waktu penahanannya sebagai masa percobaan.
+73	1			72	3		Syarat yang harus dipenuhi selama masa percobaan sebagaimana dimalsud dalam Pasal 72 ayal (3) terdiri atas:
+73	1	a					syarat umum berupa narapidana tidak akan melakukan Tindak Pidana; dan
+73	1	b					syarat khusus berupa narapidana harus melakukan atau tidak melakukan perbuatan tertentu, tanpa mengurangi kemerdekaan beragama, menganut kepercayaan, dan berpolitik, kecuali ditentukan lain oleh hakim.
+73	2			73	1	b	Syarat khusus sebagaimana dimaksud pada ayat (1) huruf b dapat diubah, dihapus, atau diadakan syarat baru yang semata-mata bertujuan untuk pembimbingan narapidana.
+73	3			73	1		Narapidana yang melanggar syarat sebagaimana dimaksud pada ayat (1) dapat dicabut pembebasan bersyaratnya.
+73	4			73	3		Pembebasan bersyarat sebagaimana dimaksud pada ayat (3) tidak dapat dicabut setelah melampaui 3 (tiga) Bulan terhitung sejak saat habisnya masa percobaan, kecuali dalam waktu 3 (tiga) Bulan terhitung sejak habisnya masa percobaan, narapidana dituntut karena melakukan Tindak Pidana yang dilakukan dalam masa percobaan.
+73	5			73	4		Dalam hal narapidana sebagaimana dimaksud pada ayat (4) dijatuhi pidana penjara untuk waktu tertentu atau pidana denda paling sedikit kategori [I, pembebasan bersyarat yang bersangkutan dicabut.
+74	1						Orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara karena keadaan pribadi, perbuatannya dapat dijatuhi pidana tutupan.
+74	2			74	1		Pidana tutupan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan kepada terdakwa yang melakukan Tindak Pidana karena terdorong oleh maksud yang patut dihormati.
+74	3			74	2		Ketentuan sebagaimana dimaksud pada ayat (2) tidak berlaku, jika cara melakukan atau akibat dari Tindak Pidana tersebut sedemikian rupa sehingga terdakwa lebih tepat untuk dljatuhi pidana penjara.
+75	0			51,52,53,54,70			Terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara paling lama 5 (lima) tahun dapat dijatuhi pidana pengawasan dengan tetap memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54 dan Pasal 70.
+76	1			75			Pidana pengawasan sebagaimana dimaksud dalam Pasal 75 dijatuhkan paling lama sama dengan pidana penjara yang diancamkan yang tidak lebih dari 3 (tiga) tahun.
+76	2						Dalam putusan pidana pengawasan ditetapkan syarat umum, berupa terpidana tidak akan melakukan Tindak Pidana lagi.
+76	3			76	2		Selain syarat umum sebagaimana dimaksud pada ayat (2), dalam putusan juga dapat ditetapkan syarat khusus, berupa:
+76	3	a					terpidana dalam waktu tertentu yang lebih pendek dari masa pidana pengawasan harus mengganti seluruh atau sebagian kemgian yang timbul akibat Tindak Pidana yang dilakukan; dan/atau
+76	3	b					terpidana harus melakukan atau tidak melakukan sesuatu tanpa mengurangi kemerdekaan beragama, kemerdekaan menganut kepercayaan, dan/atau kemerdekaan berpolitik.
+76	4			76	2		Dalam hal terpidana melanggar syarat umum sebagaimana dimaksud pada ayat (2), terpidana wajib menjalani pidana penjara yang lamanya tidak lebih dari ancarnan pidana penjara bagi Tindak Pidana itu.
+76	5						Dalam hal terpidana melanggar syarat khusus tanpa alasan yang sah, jaksa berdasarkan pertimbangan pembimbing kemasyarakatan mengusulkan kepada hakim agar terpidana menjalani pidana penjara atau memperpanjang masa pengawasan yang ditentukan oleh hakim yang lamanya tidak lebih dari pidana pengawasan yang dij atuhkan.
+76	6						Jaksa dapat mengusulkan pengurangan masa pengawasan kepada hakim jika selama dalam pengawasan terpidana menunjukkan kelakuan yang baik, berdasarkan pertimbangan pembimbing kemasyarakatan.
+76	7						Ketentuan lebih lanjut tentang tata cara dan batas pengurangan dan perpanjangan masa pengawasan diatur dengan Peraturan Pemerintah.
+77	1						Jika terpidana selama menjalani pidana pengawasan melakukan Tindak Pidana dan dijatuhi pidana yang bukan pidana mati atau bukan pidana penjara, pidana pengawasan tetap dilaksanakan.
+77	2						Jika terpidana dijatuhi pidana penjara, pidana pengawasan ditunda dan dilaksanakan kembali setelah terpidana selesai menjalani pidana penjara.
+78	1						Pidana denda merupakan sejumlah uang yang wajib dibayar oleh terpidana berdasarkan putusan pengadilan.
+78	2						Jika tidak ditentukan minimum khusus, pidana denda ditetapkan paling sedikit Rp50.000,00 (lima puluh ribu rupiah).
+79	1						Pidana denda paling banyak ditetapkan berdasarkan:
+79	1	a					kategori I, Rp1.000.000,00 (satu juta rupiah);
+79	1	b					kategori II, Rp10.000.000,00 (sepuluh juta rupiah);
+79	1	c					kategori III, Rp50.000.000,00 (lima puluh juta rupiah);
+79	1	d					kategori IV, Rp200.000.000,00 (dua ratus juta rupiah);
+79	1	e					kategori V, Rp500.000.000,00 (lima ratus juta rupiah);
+79	1	f					kategori VI, Rp2.000.000.000,00 (dua miliar rupiah);
+79	1	g					kategori VII, Rp5.000.000.000,00 (lima miliar rupiah); dan
+79	1	h					kategori VIII, Rp50.000.000.000,00 (lima puluh miliar rupiah).
+79	2						Dalam hal terjadi perubahan nilai uang, ketentuan besarnya pidana denda ditetapkan dengan Peraturan Pemerintah.
+80	1						Dalam menjatuhkan pidana denda, hakim wajib mempertimbangkan kemampuan terdakwa dengan memperhatikan penghasilan dan pengeluaran terdakwa secara nyata,
+80	2			80	1		Ketentuan sebagaimana dimaksud pada ayat (1) tidak mengurangi penerapan minimum khusus pidana denda yang ditetapkan.
+81	1						Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan. 
+81	2			81	1		Putusan pengadilan sebagaimana dimaksud pada ayat (1) dapat menentukan pembayaran pidana denda dengan cara mengangsur.
+81	3			81	1		Jika pidana denda sebagaimana dimaksud pada ayat (1) tidak dibayar dalam jangka waktu yang telah ditentukan, kekayaan atau pendapatan terpidana dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.
+82	1			81	3		Jika penyitaan dan pelelangan kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 81 ayat (3) tidak cukup atau tidak memungkinkan untuk dilaksanakan, pidana denda yang tidak dibayar tersebut diganti dengan pidana penjara, pidana pengawasan, atau pidana kerja sosial dengan ketentuan pidana denda tersebut tidak melebihi pidana denda kategori II.
+82	2			82	1		Lama pidana pengganti sebagaimana dimaksud pada ayat (1) meliputi:
+82	2	a					untuk pidana penjara pengganti, paling singkat 1 (satu) Bulan dan paling lama 1 (satu) tahun yang dapat diperberat paling lama 1 (satu) tahun 4 (empat) Bulan jika ada perbarengan;
+82	2	b		76,76	2,3		untuk pidana pengawasan pengganti, paling singkat 1 (satu) Bulan dan paling lama 1 (satu) tahun, berlaku syarat-syarat sebagaimana dimaksud dalam Pasal 76 ayat (2) dan ayat (3); atau
+82	2	c					untuk pidana kerja sosial pengganti paling singkat 8 (delapan) jam dan paling lama 240 (dua ratus empat puluh) jam.
+82	3						Jika pada saat menjalani pidana pengganti sebagian pidana denda dibayar, lama pidana pengganti dikurangi menurut ukuran yang sepadan.
+82	3			82	3		Perhitungan lama pidana pengganti sebagaimana dimaksud pada ayat (3) didasarkan pada ukuran untuk setiap pidana denda Rp50.000,00 (lima puluh ribu rupiah) atau kurang yang disepadankan dengan:
+82	4	a					1 (satu) jam pidana kerja sosial pengganti; atau
+82	4	b					1 (satu) Hari pidana pengawasan atau pidana penjara pengganti.
+83	1			81	3		Jika penyitaan dan pelelangan kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 81 ayat (3) tidak dapat dilakukan, pidana denda di atas kategori II yang tidak dibayar diganti dengan pidana penjara paling singkat I (satu) tahun dan paling lama sebagaimana diancamkan untuk Tindak Pidana yang bersangkutan.
+83	2			82,83	3,1		Ketentuan sebagaimana dimaksud dalam Pasal 82 ayat (3) berlaku juga untuk ketentuan sebagaimana dimaksud pada ayat (1) sepanjang mengenai pidana penjara pengganti.
+84	0						Setiap Orang yang telah berulang kali dijatuhi pidana denda untuk Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II dapat dijatuhi pidana pengawasan paling lama 6 (enam) Bulan dan pidana denda yang diperberat paling banyak 1/3 (satu per tiga).
+85	1						Pidana kerja sosial dapat dijatuhkan kepada terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara kurang dari 5 (lima) tahun dan hakim menjatuhkan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.
+85	2			85	1		Dalam menjatuhkan pidana kerja sosial sebagaimana dimaksud pada ayat (1), hakim wajib mempertimbangkan:
+85	2	a					pengakuan terdakwa terhadap Tindak Pidana yang dilakukan;
+85	2	b					kemampuan kerja terdakwa;
+85	2	c					persetujuan terdakwa sesudah dijelaskan mengenai tujuan dan segala hal yang berhubungan dengan pidana kerja sosial;
+85	2	d					riwayat sosial terdakwa;
+85	2	e					pelindungan keselamatan kerja terdalwa;
+85	2	f					agama, kepercayaan, dan keyakinan politik terdakwa; dan
+85	2	g					kemampuan terdakwa membayar pidana denda
+85	7	a					mengulangi seluruh atau sebagian pidana kerja sosial tersebut;
+85	7	b					menjalani seluruh atau sebagian pidana penjara yang diganti dengan pidana kerja sosial tersebut; atau
+85	7	c					membayar seluruh atau sebagian pidana denda yang diganti dengan pidana kerja sosial atau menjalani pidana penjara sebagai pengganti pidana denda yang tidak dibayar.
+85	9	a					lama pidana penjara atau besarnya denda yang sesungguhnya dijatuhkan oleh hakim;
+85	9	b					lama pidana kerja sosial harus dijalani, dengan mencantumkan jumlah jam per Hari dan jangka waktu penyelesaian pidana kerja sosial; dan
+85	9	c					sanksi jika terpidana tidak menjalani pidana kerja sosial yang dijatuhkan.
+86	0			66	1	a	Pidana tambahan berupa pencabutan hak tertentu sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf a dapat berupa:
+86	0	a					hak memegang jabatan publik pada umumnya atau jabatan tertentu;
+86	0	b					hak menjadi anggota Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia;
+86	0	c					hak memilih dan dipilih dalam pemilihan yang diadakan sesuai dengan ketentuan peraturan perundangundangan;
+86	0	d					hak menjadi wali, wali pengawas, pengampu, atau pengampu pengawas atas orang yang bukan Anaknya sendiri;
+86	0	e					hak menjalankan Kekuasaan Ayah, menjalankan perwalian, atau mengampu atas Anaknya sendiri;
+86	0	f					hak menjalankan profesi tertentu; dan/atau
+86	0	g					hak memperoleh pembebasan bersyarat.
+87	0			86,86,86	0,0,0	a,c,f	Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan huruf f hanya dapat dilakukan jika pelaku dipidana karena melakukan Tindak Pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih berupa:
+87	0	a					Tindak Pidana terkait jabatan atau Tindak Pidana yang melanggar kewajiban khusus suatu jabatan;
+87	0	b					Tindak Pidana yang terkait dengan profesinya; atau
+87	0	c					Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan atau profesinya.
+88	0			86,86	0,0	d,e	Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf d dan huruf e, hanya dapat dilakukan jika pelaku dipidana karena:
+88	0	a					dengan sengaja melakukan Tindak Pidana bersama-sama dengan Anak yang berada dalam kekuasaannya; atau
+88	0	b					melakukan Tindak Pidana terhadap Anak yang berada dalam kekuasaannya.
+89	0			86	0	g	Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf g hanya dapat dilakukan jika pelaku dipidana karena:
+89	0	a					melakukan Tindak Pidana jabatan atau Tindak Pidana yang melanggar kewajiban khusus suatu jabatan;
+89	0	b					menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan; atau
+89	0	c					melakukan Tindak Pidana yang diancam dengan pidana penjara paling lama 15 (lima belas) tahun atau lebih.
+90	1						Jika pidana pencabutan hak dijatuhkan, lama pencabutan wajib ditentukan jika:
+90	1	a					dijatuhi pidana mati atau pidana penjara seumur hidup, pencabutan hak dilakukan untuk selamanya;
+90	1	b					dijatuhi pidana penjara, pidana tutupan, atau pidana pengawasan untuk waktu tertentu, pencabutan hak dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang diiatuhkan; atau
+90	1	c					dijatuhi pidana denda, pencabutan hak dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun.
+90	2			90	1	b	Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak berlaku jika yang dicabut adalah hak memperoleh pembebasan bersyarat.
+90	3						Pidana pencabutan hak mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
+91	0			66	1	b	Pidana tambahan berupa perarmpasan Barang tertentu dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/ atau tagihan:
+91	0	a					yang dipergunakan untuk mewujudkan atau mempersiapkan Tindak Pidana;
+91	0	b					yang khusus dibuat atau diperuntukkan mewujudkan Tindak Pidana;
+91	0	c					yang berhubungan dengan terwujudnya Tindak Pidana;
+91	0	d					milik terpidana atau orang lain yang diperoleh dari Tindak Pidana;
+91	0	e					dari keuntungan ekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana; dan/atau
+91	0	f					yang dipergunakan untuk menghalang-halangi penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan.
+92	1			91			Pidana tambahan berupa perampasan Barang tertent sebagaimana dimaksud dalam Pasal 91 dapat dijatuhkan atas Barang yang tidak disita dengan menentukan bahwa Barang tersebut harus diserahkan atau diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.
+92	2			92	1		Dalam hal Barang yang tidak disita sebagaimana dimaksud pada ayat (1) tidak dapat diserahkan, Barang tersebut diganti dengan sejumlah uang menurut taksiran hakim sesuai dengan harga pasar.
+92	3			92	2		Jika terpidana tidak mampu membayar seluruh atau sebagian harga pasar sebagaimana dimaksud pada ayat (21, diberlakukan ketentuan pidana pengganti untuk pidana denda.
+93	1						Jika dalam putusan pengadilan diperintahkan supaya putusan diumumkan, harus ditetapkan cara melaksanakan pengumuman tersebut dengan biaya yang ditanggung oleh terpidana.
+93	2			93	1		Jika biaya pengumuman sebagaimana dimaksud pada ayat (1) tidak dibayar oleh terpidana, diberlakukan ketentuan pidana pengganti untuk pidana denda.
+94	1			66	1	d	Dalam putusan pengadilan dapat ditetapkan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada Korban atau ahli waris sebagai pidana tambahan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf d.
+94	2			94,81,82,83	1		Jika kewajiban pembayaran ganti rugi sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, diberlakukan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83 secara mutatis mutandis.
+95	1						Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.
+95	2			1	1		Pencabutan izin sebagaimana dimaksud pada ayat (1) dilakukan dengan mempertimbangkan:
+95	2	a					keadaan yang menyertai Tindak Pidana yang dilakukan;
+95	2	b					keadaan yang menyertai pelaku dan pembantu Tindak Pidana; dan
+95	2	c					keterkaitan kepemilikan izin dengan usaha atau kegiatan yang dilakukan.
+95	3						Dalam hal dijatuhi pidana penjara, pidana tutupan, atau pidana pengawasan untuk waktu tertentu, pencabutan izin dilakukan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang dijatuhkan.
+95	4						Dalam hal dljatuhi pidana denda, pencabutan izin berlaku paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun.
+95	5						Pidana pencabutan izin mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
+96	1			2	2		Pidana tambahan berupa pemenuhan kewajiban adat setempat diutamakan jika Tindak Pidana yang dilakukan memenuhi ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (2).
+96	2			96	1		Pemenuhan kewajiban adat setempat sebagaimana dimaksud pada ayat (1) dianggap sebanding dengan pidana denda kategori II.
+96	3			96	1		Dalam hal kewajiban adat sebagaimana dimaksud pada ayat (1) tidak dipenuhi, pemenuhan kewajiban adat diganti dengan ganti rugi yang nilainya setara dengan pidana denda kategori II.
+96	4			96	3		Dalam hal ganti rugi sebagaimana dimaksud pada ayat (3) tidak dipenuhi, ganti rugi diganti dengan pidana pengawasan atau pidana kerja sosial.
+97	0			2	2		Pidana tambahan berupa pemenuhan kewajiban adat setempat dapat dijatuhkan walaupun tidak tercantum dalam perumusan Tindak Pidana dengan tetap memperhatikan ketentuan Pasal 2 ayat(2).
+98	0						Pidana mati diancamkan secara alternatif sebagai upaya terakhir untuk mencegah dilakukannya Tindak Pidana dan mengayomi masyarakat.
+99	1						Pidana mati dapat dilaksanakan setelah permohonan grasi bagi terpidana ditolak Presiden.
+99	2			99	1		Pidana mati sebagaimana dimaksud pada ayat (1) tidak dilaksanakan Di Muka Umum.
+99	3						Pidana mati dilaksanakan dengan menembak terpidana sampai mati oleh regu tembak atau dengan cara lain yang ditentukan dalam Undang-Undang.
+99	4						Pelaksanaan pidana mati terhadap perempuan hamil, perempuan yang sedang menyusui bayinya, atau orang yang sakit jiwa ditunda sampai perempuan tersebut melahirkan, perempuan tersebut tidak lagi menyusui bayinya, atau orang yang sakit jiwa tersebut sembuh.
+100	1						Hakim menjatuhkan pidana mati dengan masa percobaan selama 10 (sepuluh) tahun dengan memperhatikan:
+100	1	a					rasa penyesalan terdakwa dan ada harapan untuk memperbaiki diri; atau
+100	1	b					peran terdakwa dalam Tindak Pidana.
+100	2			100	1		Pidana mati dengan masa percobaan sebagaimana dimaksud pada ayat (1) harus dicantumkan dalam putusan pengadilan.
+100	3						Tenggang waktu masa percobaan 10 (sepuluh) tahun dimulai 1 (satu) Hari setelah putusan pengadilan memperoleh kekuatan hukum tetap.
+100	4			100	1		Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) menunjukkan sikap dan perbuatan yang terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.
+100	5			100	4		Pidana penjara seumur hidup sebagaimana dimaksud pada ayat (4) dihitung sejak Keputusan Presiden ditetapkan.
+100	6			100	1		Jika terpidana selama masa percobaan sebagaimana dimaksud pada ayat (1) tidak menunjukkan sikap dan perbuatan yang terpuji serta tidak ada harapan untuk diperbaiki, pidana mati dapat dilaksanakan atas perintah Jaksa Agung.
+101	0						Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden.
+102	0						Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana mati diatur dengan Undang-Undang.
+103	1						Tindakan yang dapat dikenakan bersama-sama dengan pidana pokok berupa:
+103	1	a					konseling;
+103	1	b					rehabilitasi;
+103	1	c					pelatihan kerja;
+103	1	d					perawatan di lembaga; dan/atau
+103	1	e					perbaikan akibat Tindak Pidana.
+103	2			38,39			Tindakan yang dapat dikenakan kepada Setiap Orang sebagaimana dimaksud dalam Pasal 38 dan Pasal 39 berupa:
+103	2	a					rehabilitasi;
+103	2	b					penyerahan kepada seseorang;
+103	2	c					perawatan di lembaga;
+103	2	d					penyerahan kepada pemerintah; dan/atau
+103	2	e					perawatan di rumah sakit jiwa.
+103	3			103,103	1,2		Jenis, jangka waktu, tempat, dan/atau pelaksanaan tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan dalam putusan pengadilan.
+104	0			51,52,53,54			Dalam menjatuhkan putusan berupa tindakan, hakim wajib memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54.
+105	1						Tindakan rehabilitasi dikenalan kepada terdakwa yang:
+105	1	a					kecanduan alkohol, narkotika, psikotropika, dan zat adiktif lainnya; dan/atau
+105	1	b					menyandang disabilitas mental dan/atau disabilitas intelektual.
+105	2			105	1		Rehabilitasi sebagaimana dimaksud pada ayat (1) terdiri atas:
+105	2	a					rehabilitasi medis;
+105	2	b					rehabilitasi sosial; dan
+105	2	c					rehabilitasi psikososial.
+106	1						Dalam mengenakan tindakan pelatihan kerja, hakim wajib mempertimbangkan :
+106	1	a					kemanfaatan bagi terdakwa;
+106	1	b					kemampuan terdakwa; dan
+106	1	c					jenis pelatihan kerja.
+106	2			106	1	c	Dalam menentukan jenis pelatihan kerja sebagaimana dimaksud pada ayat (1) huruf c, hakim wajib memperhatikan pengalaman kerja dan tempat tinggal terdakwa.
+107	0						Tindakan perawatan di lembaga dikenakan berdasarkan keadaan pribadi terdakwa serta demi kepentingan terdakwa dan masyarakat.
+108	0						Tindakan perbaikan akibat Tindak Pidana adalah upaya memulihkan atau memperbaiki kerusakan akibat Tindak Pidana menjadi seperti semula.
+109	0						Tindakan penyerahan terdakwa kepada pemerintah atau seseorang dikenakan demi kepentingan terdakwa dan masyarakat.
+110	1						Tindakan perawatan di rumah sakit jiwa dikenakan terhadap terdakwa yang dilepaskan dari segala tuntutan hukum dan masih dianggap berbahaya berdasarkan hasil penilaian dokter jiwa.
+110	2						Penghentian tindakan perawatan di rumah sakit jiwa dilakukan jika yang bersangkutan tidak memerlukan perawatan lebih lanjut berdasarkan hasil penilaian dokter jiwa.
+110	3			110	2		Penghentian tindakan sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan penetapan halim yang memeriksa perkara pada tingkat pertama yang diusulkan oleh jaksa.
+111	0			68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan sebagaimana dimaksud dalam Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan Pemerintah.
+112	0						Anak yang melakukan Tindak Pidana yang diancam dengan pidana penjara di bawah 7 (tujuh) tahun dan bukan merupakan pengulangan Tindak Pidana wajib diupayakan diversi.
+113	1						Setiap Anak dapat dikenai tindakan berupa:
+113	1	a					pengembalian kepada Orang Tua/wali;
+113	1	b					penyerahan kepada seseorang;
+113	1	c					perawatan di rumah sakit jiwa;
+113	1	d					perawatan di lembaga;
+113	1	e					kewajiban mengikuti pendidikan formal dan/atau pelatihan yang diadakan oleh pemerintah atau badan swasta;
+113	1	f					pencabutan Surat izin mengemudi; dan/atau
+113	1	g					perbaikan akibat Tindak Pidana.
+113	2			113	1,1,1	d,e,f	Tindakan sebagaimana dimaksud pada ayat (1) huruf d, huruf e, dan huruf f dikenakan paling lama 1 (satu) tahun.
+113	3						Anak di bawah umur 14 (empat belas) tahun tidak dapat dijatuhi pidana dan hanya dapat dikenai tindakan.
+114	0						Pidana yang dapat dijatuhkan terhadap Anak berupa:
+114	0	a					pidana pokok; dan
+114	0	b					pidana tambahan.
+115	0			114	0	a	Pidana pokok sebagaimana dimaksud dalam Pasal 114 huruf a terdiri atas:
+115	0	a					pidana peringatan;
+115	0	b					pidana dengan syarat:
+115	0	b	1				pembinaan di luar lembaga;
+115	0	b	2				pelayanan masyarakat; atau
+115	0	b	3				pengawasan.
+115	0	c					pelatihan kerja;
+115	0	d					pembinaan dalam lembaga; dan
+115	0	e					pidana penjara.
+116	0			114	0	b	Pidana tambahan sebagaimana dimaksud dalam Pasal 114 huruf b terdiri atas:
+116	0	a					perampasan keuntungan yang diperoleh dari Tindak Pidana; atau
+116	0	b					pemenuhan kewajiban adat.
+117	0			112,113,114,115,116			Ketentuan mengenai diversi, tindakan, dan pidana sebagaimana dimaksud dalam Pasal 112 sampai dengan Pasal 116 dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+118	0						Pidana bagi Korporasi terdiri atas:
+118	0	a					pidana pokok; dan
+118	0	b					pidana tambahan.
+119	0			118	0	a	Pidana pokok sebagaimana dimaksud dalam Pasal 118 huruf a adalah pidana denda.
+120	1			118	0	b	Pidana tambahan bagl Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:
+120	1	a					pembayaran ganti rugi;
+120	1	b					perbaikan akibat Tindak Pidana;
+120	1	c					pelaksanaan kewajiban yang telah dilalaikan;
+120	1	d					pemenuhan kewajiban adat;
+120	1	e					pembiayaan pelatihan kerja;
+120	1	f					perampasan Barang atau keuntungan yang diperoleh dari Tindak Pidana;
+120	1	g					pengumuman putusan pengadilan;
+120	1	h					pencabutan izin tertentu;
+120	1	i					pelarangan permanen melakukan perbuatan tertentu;
+120	1	j					penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan Korporasi;
+120	1	k					pembekuan seluruh atau sebagian kegiatan usaha Korporasi; dan
+120	1	l					pembubaran Korporasi.
+120	2			120,120,120	1,1,1	h,j,k	Pidana tambahan sebagaimana dimaksud pada ayat (1) huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.
+120	3			120,120,120,120,120	1,1,1,1,1	a,b,c,d,e	Dalam hal Korporasi tidak melaksanakan pidana tambahan sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf e, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi pidana tambahan yang tidak dipenuhi.
+121	1						Pidana denda untuk Korporasi dljatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.
+121	2						Dalam hal Tindak Pidana yang dilakukan diancam dengan:
+121	2	a					pidana penjara di bawah 7 (tujuh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VI;
+121	2	b					pidana penjara paling lama 7 (tujuh) sampai dengan paling lama 15 (lima belas) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VII; atau
+121	2	c					pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 20 (dua puluh) tahun, pidana denda paling banyak untuk Korporasi adalah kategori VIII.
+122	1						Pidana denda wajib dibayar dalam jangka waktu tertentu yang dimuat dalam putusan pengadilan.
+122	2			122	1		Putusan pengadilan sebagaimana dimaksud pada ayat (1) dapat menentukan pembayaran pidana denda dengan cara mengangsur.
+122	3			122	1		Jika pidana denda sebagaimana dimaksud pada ayat (1) tidak dibayar dalam jangka waktu yang telah ditentukan, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.
+122	4			122	3		Dalam hal kekayaan atau pendapatan Korporasi tidak mencukupi untuk melunasi pidana denda sebagaimana dimaksud pada ayat (3), Korporasi dikenai pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi.
+123	0						Tindakan yang dapat dikenakan bagi Korporasi:
+123	0	a					pengambilalihan Korporasi;
+123	0	b					penempatan di bawah pengawasan; dan/atau
+123	0	c					penempatan Korporasi di bawah pengampuan.
+124	0			118,119,120,121,122,123			Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan bagi Korporasi sebagaimana dimaksud dalam Pasal 118 sampai dengan Pasal 123 diatur dengan Peraturan Pemerintah.
+125	1						Suatu perbuatan yang memenuhi lebih dari 1 (satu) ketentuan pidana yang diancam dengan ancaman pidana yang sama hanya dijatuhi 1 (satu) pidana, sedangkan jika ancaman pidananya berbeda dijatuhi pidana pokok yang paling berat.
+125	2						Suatu perbuatan yang diatur dalam aturan pidana umum dan aturan pidana khusus hanya dijatuhi aturan pidana khusus, kecuali Undang-Undang menentukan lain.
+126	1						Jika terjadi perbarengan beberapa Tindak Pidana yang saling berhubungan sehingga dipandang sebagai perbuatan berlanjut dan diancam dengan ancaman pidana yang sama, hanya dijatuhi 1 (satu) pidana.
+126	2			126	1		Jika perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) diancam dengan pidana yang berbeda, hanya dijatuhi pidana pokok yang terberat.
+127	1						Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang sejenis, hanya diiatuhkan I (satu) pidana.
+127	2			127	1		Maksimum pidana untuk perbarengan Tindak Pidana sebagaimana dimaksud pada ayat (1) adalah jumlah pidana yang diancamkan pada semua Tindak Pidana tersebut, tetapi tidak melebihi pidana yang terberat ditambah 1/3 (satu per tiga).
+128	1						Jika terjadi perbarengan beberapa Tindak Pidana yang harus dipandang sebagai Tindak Pidana yang berdiri sendiri dan diancam dengan pidana pokok yang tidak sejenis, pidana yang dijatuhkan adalah semua jenis pidana untuk Tindak Pidana masing-masing, tetapi tidak melebihi maksimum pidana yang terberat ditambah l/3 (satu per tiga).
+128	2			128	1		Dalam hal ketentuan sebagaimana dimaksud pada ayat (1) diancam dengan pidana denda, penghitungan denda didasarkan pada lama maksimum pidana penjara pengganti pidana denda.
+128	3			128	1		Jika Tindak Pidana yang dilakukan diancam dengan pidana minimum, minimum pidana untuk perbarengan sebagaimana dimaksud pada ayat (1) adalah jumlah pidana minimum khusus untuk Tindak Pidana masingmasing, tetapi tidak melebihi pidana minimum khusus terberat ditambah 1/3 (satu per tiga).
+129	0						Jika dalam perbarengan Tindak Pidana dljatuhi pidana mati atau pidana penjara seumur hidup, terdakwa tidak boleh dijatuhi pidana lain, kecuali pidana tambahan, yakni:
+129	0	a					pencabutan hak tertentu;
+129	0	b					perampasan Barang tertentu; dan/atau
+129	0	c					pengumuman putusan pengadilan.
+130	1			127,129			Jika terjadi perbarengan sebagaimana dimaksud dalam Pasal 127 dan Pasal 129, penjatuhan pidana tambahan dilakukan dengan ketentuan sebagai berikut:
+130	1	a					pidana pencabutan hak yang sama dijadikan satu dengan ketentuan:
+130	1	a	1				paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun lebih lama dari pidana pokok yang dijatuhkan; atau
+130	1	a	2				apabila pidana pokok yang diancamkan hanya pidana denda, lama pidana paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun.
+130	1	b					pidana pencabutan hak yang berbeda dijatuhkan secara sendiri-sendiri untuk tiap Tindak Pidana tanpa dikurangi; atau
+130	1	c					pidana perampasan Barang tertentu atau pidana pengganti dijatuhkan secara sendiri-sendiri untuk tiap Tindak Pidana tanpa dikurangi.
+130	2			130	1	c	Ketentuan mengenai lamanya pidana pengganti bagi pidana perampasan Barang tertentu sebagaimana dimaksud pada ayat (1) huruf c berlaku ketentuan pidana pengganti untuk denda.
+131	1			125,126,127,128,129,130			Jika Setiap Orang telah dijatuhi pidana dan kembali dinyatakan bersalah melakukan Tindak Pidana lain sebelum putusan pidana itu diiatuhkan, pidana yang terdahulu diperhitungkan terhadap pidana yang akan dijatuhkan dengan menggunalan aturan perbarengan sebagaimana dimaksud dalam Pasal 125 sampai dengan Pasal 130, seperti jika Tindak Pidana itu diadili secara bersama.
+131	2			131	1		Jika pidana yang dijatuhkan sebagaimana dimaksud pada ayat (1) telah mencapai maksimum pidana, hakim cukup menyatakan bahwa terdakwa bersalah tanpa perlu diikuti pidana.
+132	1						Kewenangan penuntutan dinyatakan gugur jika:
+132	1	a					ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap terhadap Setiap Orang atas perkara yang sama;
+132	1	b					tersangka atau terdakwa meninggal dunia;
+132	1	c					kedaluwarsa;
+132	1	d					maksimum pidana denda dibayar dengan sukarela bagi Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II;
+132	1	e					maksimum pidana denda kategori IV dibayar dengan sukarela bagi Tindak Pidana yang diancam dengan pidana penjara paling lama I (satu) tahun atau pidana denda paling banyak kategori III;
+132	1	f					ditariknya pengaduan bagi Tindak Pidana aduan;
+132	1	g					telah ada penyelesaian di luar proses peradilan sebagaimana diatur dalam Undang-Undang; atau
+132	1	h					diberikannya amnesti atau abolisi.
+132	2			121			Ketentuan mengenai gugurnya kewenangan penuntutan bagi Korporasi memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 121. 
+133	1			132,132	1,1	d,e	Pidana denda sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e serta biaya yang telah dikeluarkan jika penuntutan telah dimulai, dibayarkan kepada Pejabat yang berwenang dalam jangka waktu yang telah ditetapkan.
+133	2			133	1		Jika diancamkan pula pidana tambahan berupa perampasan Barang atau tagihan, Barang dan/ atau tagihan yang dirampas harus diserahkan atau harus dibayar menurut taksiran Pejabat sebagaimana dimaksud pada ayat (1) dalam hal Barang dan/ atau tagihan tersebut sudah tidak berada dalam kekuasaan terpidana.
+133	3			132,132	1,1	d,e	Jika pidana diperberat ka-rena pengulangan, pemberatan tersebut tetap berlaku sekalipun kewenangan menuntut pidana terhadap Tindak Pidana yang dilakukan lebih dahulu gugur berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 132 ayat (1) huruf d dan huruf e.
+134	0						Seseorang tidak dapat dituntut untuk kedua kalinya dalam 1 (satu) perkara yang sama jika untuk perkara tersebut telah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
+135	0			134			Jika putusan sebagaimana dimaksud dalam Pasal 134 berasal dari pengadilan luar negeri, terhadap Setiap Orang yang melakukan Tindak Pidana yang sama tidak boleh diadakan penuntutan dalam hal:
+135	0	a					putusan bebas dari tuduhan atau lepas dari segala tuntutan hukum; atau
+135	0	b					putusan berupa pemidanaan dan pidananya telah dijalani seluruhnya, telah diberi ampun, atau pelaksanaan pidana tersebut kedaluwarsa.
+136	1						Kewenangan penuntutan dinyatakan gugur karena kedaluwarsa apabila:
+136	1	a					setelah melampaui waktu 3 (tiga) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun dan/atau hanya denda paling banyak kategori III;
+136	1	b					setelah melampaui waktu 6 (enam) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 1 (satu) tahun dan paling lama 3 (tiga) tahun;
+136	1	c					setelah melampaui waktu 12 (dua belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 3 (tiga) tahun dan paling lama 7 (tujuh) tahun;
+136	1	d					setelah melampaui waktu 18 (delapan belas) tahun untuk Tindak Pidana yang diancam dengan pidana penjara di atas 7 (tujuh) tahun dan paling lama 15 (lima belas) tahun; dan
+136	1	e					setelah melampaui waktu 20 (dua puluh) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 20 (dua puluh) tahun, pidana penjara seumur hidup, atau pidana mati.
+136	2			136	1		Dalam hal Tindak Pidana dilakukan oleh Anak, tenggang waktu gugurnya kewenangan untuk menuntut karena kedaluwarsa sebagaimana dimaksud pada ayat (1) dikurangi menjadi 1/3 (satu per tiga).
+137	0						Jangka waltu kedaluwarsa dihitung mulai keesokan hari setelah perbuatan dilalukan, kecuali bagi:
+137	0	a					Tindak Pidana pemalsuan dan Tindak Pidana perusakan mata uang, kedaluwarsa dihitung mulai keesokan harinya setelah Barang yang dipalsukan atau mata uang yang dirusak digunakan; atau
+137	0	b		450,451,452			Tindak Pidana sebagaimana dimaksud dalam Pasal 450, Pasal 451, dan Pasal 452 kedaluwarsa dihitung mulai keesokan harinya setelah Korban Tindak Pidana dilepaskan atau mati sebagai akibat langsung dari Tindak Pidana tersebut.
+138	1						Tindakan penuntutan Tindak Pidana menghentikan tenggang waktu kedaluwarsa.
+138	2			138	1		Penghentian tenggang waktu kedaluwarsa sebagaimana dimaksud pada ayat (1) dihitung keesokan hari setelah tersangka atau terdakwa mengetahui atau diberitahukan mengenai penuntutan terhadap dirinya yang dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
+138	3						Setelah kedaluwarsa dihentikan karena tindakan penuntutan, mulai diberlakukan tenggang waktu kedaluwarsa baru.
+139	0						Apabila penuntutan dihentikan untuk sementara waktu karena ada sengketa hukum yang harus diputuskan lebih dahulu, tenggang waktu kedaluwarsa penuntutan menjadi tertunda sampai sengketa tersebut mendapatkan putusan.
+140	0						Kewenangan pelaksanaan pidana dinyatakan gugur, jika:
+140	0	a					terpidana meninggal dunia;
+140	0	b					kedaluwarsa;
+140	0	c					terpidana mendapat grasi atau amnesti; atau
+140	0	d					penyerahan untuk pelaksanaan pidana ke negara lain.
+141	0						Jika terpidana meninggal dunia, pidana perampasan Barang tertentu dan/atau tagihan yang telah disita tetap dapat dilaksanakan.
+142	1			136			Kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah berlaku tenggang waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ditambah 1/3 (satu per tiga).
+142	2						Tenggang waktu kedaluwarsa pelaksanaan pidana harus melebihi lama pidana yang dijatuhkan kecuali untuk pidana penjara seumur hidup.
+142	3						Pelaksanaan pidana mati tidak mempunyai tenggang waktu kedaluwarsa,
+142	4			101,136	,1	e	Jika pidana mati diubah menjadi pidana penjara seumur hidup sebagaimana dimaksud dalam Pasal 101, kewenangan pelaksanaan pidana gugur karena kedaluwarsa setelah lewat waktu yang sama dengan tenggang waktu kedaluwarsa kewenangan menuntut sebagaimana dimaksud dalam Pasal 136 ayat (1) huruf e ditambah 1/3 (satu per tiga) dari tenggang waktu kedaluwarsa tersebut.
+143	1						Tenggang waktu kedaluwarsa pelaksanaan pidana dihitung keesokan harinya sejak putusan pengadilan dapat dilaksanakan.
+143	2						Apabila terpidana melarikan diri sewaktu menjalani pidana maka tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal terpidana tersebut melarikan diri.
+143	3						Apabila pembebasan bersyarat terhadap narapidana dicabut, tenggang waktu kedaluwarsa dihitung keesokan harinya sejak tanggal pencabutan.
+143	4						Tenggang waktu kedaluwarsa pelaksanaan pidana ditunda selama:
+143	4	a					pelaksanaan pidana tersebut ditunda berdasarkan peraturan perundang-undangan; atau
+143	4	b					terpidana dirampas kemerdekaannya meskipun perampasan kemerdekaan tersebut berkaitan dengan putusan pengadilan untuk Tindak Pidana lain.
+144	0						Tindak Pidana adalah termasuk juga permufakatan jahat, persiapan, percobaan, dan pembantuan melakukan Tindak Pidana, kecuali ditentukan lain dalam Undang-Undang.
+145	0						Setiap Orang adalah orang perseorangan, termasuk Korporasi.
+146	0						Korporasi adalah kumpulan terorganisasi dari orang dan/atau kekayaan, baik merupakan badan hukum yang berbentuk perseroan terbatas, yayasan, perkumpulan, koperasi, badan usaha milik negara, badan usaha milik daerah, badan usaha milik desa, atau yang disamakan dengan itu, maupun perkumpulan yang tidak berbadan hukum atau badan usaha yang berbentuk firma, persekutuan komanditer, atau yang disamakan dengan itu.
+147	0						Barang adalah benda berwujud atau tidak berwujud, benda bergerak atau tidak bergerak termasuk air dan uang giral, aliran listrik, gas, data, dan program Komputer.
+148	0						Surat adalah dokumen yang ditulis di atas kertas, termasuk juga dokumen atau data yang tertulis atau tersimpan dalam disket, pita magnetik, atau media penylmpan Komputer atau media penyimpan data elektronik lain.
+149	0						Korban adalah orang yang mengalami penderitaan fisik dan mental dan/ atau kerugian ekonomi yang diakibatkan oleh Tindak Pidana.
+150	0						Anak adalah seseorang yang belum berumur 18 (delapan belas) tahun.
+151	0						Orang Tua adalah termasuk juga kepala keluarga.
+152	0						Ayah adalah termasuk juga orang yang menjalankan kekuasaan yang sama dengan Ayah.
+153	0						Kekuasaan Ayah adalah termasuk juga kekuasaan kepala keluarga.
+154	0						Pejabat adalah setiap warga negara Indonesia yang telah memenuhi syarat yang ditentukan, diangkat oleh pejabat yang berwenang dan diserahi tugas negara, atau diserahi tugas lain oleh negara, dan digaji berdasarkan ketentuan peraturan perundang-undangan, yaitu:
+154	0	a					aparatur sipil negara, anggota Kepolisian Negara Republik Indonesia, dan anggota Tentara Nasional Indonesia;
+154	0	b					pejabat negara;
+154	0	c					pejabat publik;
+154	0	d					pejabat daerah;
+154	0	e					orang yang menerima gaji atau upah dari keuangan negara atau daerah;
+154	0	f					orang yang menerima gaji atau upah dari Korporasi yang seluruh atau sebagian besar modalnya milik negara atau daerah; atau
+154	0	g					pejabat lain yang ditentukan berdasarkan peraturan perundang-undangan.
+155	0						Luka Berat adalah:
+155	0	a					sakit atau luka yang tidak ada harapan untuk sembuh dengan sempurna atau yang dapat menimbulkan bahaya maut;
+155	0	b					terus-menerus tidak cakap lagi melakukan tugas, jabatan, atau pekerjaan;
+155	0	c					tidak dapat menggunakan lagi salah satu panca indera atau salah satu anggota tubuh;
+155	0	d					cacat berat atau cacat permanen;
+155	0	e					lumpuh;
+155	0	f					daya pikir terganggu selama lebih dari 4 (empat) minggu;
+155	0	g					gugur atau matinya kandungan; atau
+155	0	h					rusaknya fungsi reproduksi.
+156	0						Kekerasan adalah setiap perbuatan dengan atau tanpa menggunakan kekuatan fisik yang menimbulkan bahaya bagi badan atau nyawa, mengakibatkan penderitaan fisik, seksual, atau psikologis, dan merampas kemerdekaan, termasuk menjadikan orang pingsan atau tidak berdaya
+157	0						Ancaman Kekerasan adalah setiap perbuatan berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan maupun tanpa menggunakan sarana dalam bentuk elektronik atau nonelektronik yang dapat menimbulkan rasa takut, cemas, atau khawatir akan dilakukannya Kekerasan.
+158	0						Di Muka Umum adalah di suatu tempat atau Ruang yang dapat dilihat, didatangi, diketahui, atau disaksikan oleh orang lain baik secara langsung maupun secara tidak langsung melalui media elektronik yang membuat publik dapat mengakses Informasi Elektronik atau dokumen elektronik.
+159	0						Harta Kekayaan adalah benda bergerak atau benda tidak bergerak, baik yang berwujud maupun yang tidak berwujud, yang memiliki nilai ekonomi.
+160	0						Makar adalah niat untuk melakukan serangan yang telah diwujudkan dengan persiapan perbuatan tersebut.
+161	0						Perang adalah termasuk juga Perang saudara dengan mengangkat senjata.
+162	0						Waktu Perang adalah termasuk waktu di mana bahaya Perang mengancam dan/atau ada perintah untuk mobilisasi Tentara Nasional Indonesia dan selama keadaan mobilisasi tersebut masih berlangsung.
+163	0						Musuh adalah termasuk juga pemberontak dan negara atau kekuasaan yang diperkirakan akan menjadi lawan Perang.
+164	0						Masuk adalah termasuk mengakses Komputer atau Masuk ke dalam sistem Komputer
+165	0						Memanjat adalah termasuk Masuk dengan melalui lubang yang sudah ada tetapi tidak untuk tempat orang lewat, atau Masuk melalui lubang dalam tanah yang sengaja digali, atau Masuk melalui atau menyeberangi selokan atau parit yang gunanya sebagai pembatas halaman.
+166	0						Anak Kunci Palsu adalah anak kunci duplikat termasuk juga segala perkakas, sistem elektronik, atau yang disamakan dengan itu yang tidak dimaksudkan untuk membuka kunci yang digunalan untuk membuka kunci
+167	0						Ruang adalah termasuk bentangan atau terminal Komputer yang dapat diakses dengan cara tertentu.
+168	0						Bangunan Listrik adalah bangunan yang digunakan untuk membangkitkan, mengalirkan, mengubah, atau menyerahkan tenaga listrik, termasuk alat yang berhubungan dengan itu, yaitu alat penjaga keselamatan, alat pemasang, alat pendukung, alat pencegah, atau alat pemberi peringatan.
+169	0						Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.
+170	0						Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarak jauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
+171	0						Kode Akses adalah angka, huruf, simbol lainnya atau kombinasi diantaranya yang merupakan kunci untuk dapat mengakses Komputer, jaringan Komputer, internet, atau media elektronik lainnya.
+172	0						Pornografi adalah gambar, sketsa, ilustrasi, foto, suara, bunyi, gambar bergerak, animasi, kartun, percakapan, gerak tubuh, atau bunyi pesan lainnya melalui berbagai bentuk media komunikasi dan/atau pertunjukan Di Muka Umum, yang memuat kecabulan atau eksploitasi seksual yang melanggar norma kesusilaan dalam masyarakat.
+173	0						Pengusaha adalah orang yang menjalankan perusahaan atau usaha dagang.
+174	0						Kapal adalah kendaraan air dengan bentuk dan jenis apa pun, yang digerakkan dengan tenaga mekanik, tenaga angin, atau ditunda, termasuk kendaraan yang berdaya dukung dinamis, kendaraan di bawah permukaan air, serta alat apung dan bangunan terapung yang tidak berpindah-pindah.
+175	0						Penumpang adalah orang selain Nakhoda dan Anak Buah Kapal yang berada di Kapal atau orang selain kapten penerbang dan awak Pesawat Udara lain yang berada dalam Pesawat Udara.
+176	0						Anak Buah Kapal adalah Awak Kapal selain Nakhoda.
+177	0						Awak Kapal adalah orurng yang bekerja atau dipekerjakan di atas Kapal oleh pemilik atau operator Kapal yang melakukan tugas di atas Kapal sesuai dengan jabatannya.
+178	0						Kapal Indonesia adalah Kapal yang didaftar di Indonesia dan memperoleh Surat tanda kebangsaan Kapal Indonesia sesuai dengan ketentuan peraturan perundang-undangan.
+179	0						Nakhoda adalah salah seorang Awak Kapal yang menjadi pemimpin tertinggi di Kapal dan mempunyai wewenang dan tanggung jawab tertentu sesuai dengan ketentuan peraturan perundang-undangan.
+180	0						Pesawat Udara adalah setiap mesin atau alat yang dapat terbang di atmosfer karena gaya angkat dari reaksi udara, tetapi bukan karena reaksi udara terhadap permukaan bumi yang digunakan untuk penerbangan.
+181	0						Dalam Penerbangan adalah jangka waktu sejak saat semua pintu luar Pesawat Udara ditutup setelah naiknya Penumpang sampai saat pintu dibuka untuk penurunan Penumpang, atau dalam hal terjadi pendaratan darurat penerbangan dianggap terus berlangsung sampai saat penguasa yang berwenang mengambil alih tanggung jawab atas Pesawat Udara dan Barang yang ada di dalam Pesawat Udara.
+182	0						Dalam Dinas Penerbangan adalah jangka waktu sejak saat Pesawat Udara disiapkan oleh awak darat atau oleh awak pesawat untuk penerbangan tertentu sampai lewat 24 (dtua puluh empat) jam sesudah pendaratan.
+183	0						Ternak adalah hewan peliharaan yang dipenrntukkan sebagai sumber pangan dan sumber mata pencaharian.
+184	0						Bulan adalah waktu 30 (tiga puluh) Hari.
+185	0						Hari adalah waktu selama 24 (dua puluh empat) jam.
+186	0						Malam adalah waktu di antara matahari terbenam dan matahari terbit.
+187	0						Ketentuan dalam Bab I sampai dengan Bab V Buku Kesatu berlaku juga bagi perbuatan yang dapat dipidana menurut peraturan perundang-undangan lain, kecuali ditentukan lain menurut Undang-Undang.
